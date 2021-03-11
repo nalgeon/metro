@@ -1,0 +1,40 @@
+name: Scrape latest data
+
+on:
+    push:
+    workflow_dispatch:
+    schedule:
+        - cron: "00 23 * * *"
+
+jobs:
+    scheduled:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out this repo
+              uses: actions/checkout@v2
+
+            - name: Fetch latest data
+              run: |-
+                  mkdir -p data
+                  rm -f data/*
+                  curl https://api.hh.ru/metro | jq --indent 4 . > data/metro.ru.json
+                  curl https://api.hh.ru/metro?locale=EN | jq --indent 4 . > data/metro.en.json
+
+            - name: Convert json to sqlite
+              run: |-
+                  locale=ru envsubst < json-to-sqlite.sql | sqlite3 -batch data/metro.ru.db
+                  locale=en envsubst < json-to-sqlite.sql | sqlite3 -batch data/metro.en.db
+
+            - name: Convert sqlite to csv
+              run: |-
+                  locale=ru envsubst < sqlite-to-csv.sql | sqlite3 -batch data/metro.ru.db
+                  locale=en envsubst < sqlite-to-csv.sql | sqlite3 -batch data/metro.en.db
+
+            - name: Commit and push if changed
+              run: |-
+                  git config user.name "Automated"
+                  git config user.email "actions@users.noreply.github.com"
+                  git add -A
+                  timestamp=$(date -u)
+                  git commit -m "Latest data: ${timestamp}" || exit 0
+                  git push
