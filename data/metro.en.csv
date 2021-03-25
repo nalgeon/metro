@@ -317,6 +317,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.602,Shelepikha,55.75723,37.52571,3
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,4
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.685,Savyolovskaya,55.794054,37.587163,5
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.803,Elektrozavodskaya,55.782057,37.7053,6
 1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
 1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street ",55.7093,37.8792,1
 1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2
@@ -326,6 +327,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,98,Nekrasovskaya,CC0066,98.764,Stakhanovskaya,55.73,37.76,6
 1,Moscow,98,Nekrasovskaya,CC0066,98.765,Nizhegorodskaya,55.73,37.73,7
 1,Moscow,98,Nekrasovskaya,CC0066,98.800,Lefortovo,55.764444,37.702778,8
+1,Moscow,98,Nekrasovskaya,CC0066,98.802,Elektrozavodskaya,55.782057,37.7053,9
 1,Moscow,131,MCD-1,F5A528,131.687,Lobnya,56.0048,37.29057,0
 1,Moscow,131,MCD-1,F5A528,131.688,Sheremetievsky,55.983882,37.498752,1
 1,Moscow,131,MCD-1,F5A528,131.689,Khlebnikovo,55.970682,37.504638,2
@@ -350,6 +352,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,131,MCD-1,F5A528,131.708,Skolkovo,55.666801,37.424618,21
 1,Moscow,131,MCD-1,F5A528,131.709,Bakovka,55.682816,37.315205,22
 1,Moscow,131,MCD-1,F5A528,131.710,Odintsovo,55.67798,37.27773,23
+1,Moscow,131,MCD-1,F5A528,131.801,"Slavyansky Boulevard",55.729722,37.470556,24
 1,Moscow,132,MCD-2,E74683,132.711,Nahabino,55.841522,37.185204,0
 1,Moscow,132,MCD-2,E74683,132.712,Anikeevka,55.832099,37.219829,1
 1,Moscow,132,MCD-2,E74683,132.713,Opalikha,55.82333,37.246843,2
