@@ -328,6 +328,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,98,Nekrasovskaya,CC0066,98.765,Nizhegorodskaya,55.73,37.73,7
 1,Moscow,98,Nekrasovskaya,CC0066,98.800,Lefortovo,55.764444,37.702778,8
 1,Moscow,98,Nekrasovskaya,CC0066,98.802,Elektrozavodskaya,55.782057,37.7053,9
+1,Moscow,98,Nekrasovskaya,CC0066,98.804,Aviamotornaya,55.751933,37.717444,10
 1,Moscow,131,MCD-1,F5A528,131.687,Lobnya,56.0048,37.29057,0
 1,Moscow,131,MCD-1,F5A528,131.688,Sheremetievsky,55.983882,37.498752,1
 1,Moscow,131,MCD-1,F5A528,131.689,Khlebnikovo,55.970682,37.504638,2
