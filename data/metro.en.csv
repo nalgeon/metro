@@ -318,6 +318,8 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,4
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.685,Savyolovskaya,55.794054,37.587163,5
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.803,Elektrozavodskaya,55.782057,37.7053,6
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.76,37.6375,7
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775278,39.484444,8
 1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
 1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street ",55.7093,37.8792,1
 1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2
