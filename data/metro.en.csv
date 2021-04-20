@@ -361,7 +361,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,132,MCD-2,E74683,132.713,Opalikha,55.82333,37.246843,2
 1,Moscow,132,MCD-2,E74683,132.714,Krasnogorskaya,55.814571,37.303337,3
 1,Moscow,132,MCD-2,E74683,132.715,Pavshino,55.815231,37.341461,4
-1,Moscow,132,MCD-2,E74683,132.716,Penyagino,55.4918,37.2139,5
+1,Moscow,132,MCD-2,E74683,132.716,Penyagino,55.822539,37.361049,5
 1,Moscow,132,MCD-2,E74683,132.717,Volokolamskaya,55.835154,37.382453,6
 1,Moscow,132,MCD-2,E74683,132.718,Tushinskaya,55.825479,37.437024,7
 1,Moscow,132,MCD-2,E74683,132.719,Pokrovskoe-Streshnevo,55.814247,37.47678,8
@@ -389,7 +389,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,132,MCD-2,E74683,132.741,Ostafevo,55.50337,37.520055,30
 1,Moscow,132,MCD-2,E74683,132.742,Silikatnaya,55.470278,37.555278,31
 1,Moscow,132,MCD-2,E74683,132.743,Podolsk,55.431667,37.565,32
-1,Moscow,132,MCD-2,E74683,132.744,Trikotazhnaya,55.833063,37.399045,33
+1,Moscow,132,MCD-2,E74683,132.744,Trikotazhnaya,55.833137,37.398967,33
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.367,Vokzalna,48.475457,35.015926,0
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.368,Metrobudivnykiv,48.475218,34.995731,1
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.369,Metalurhiv,48.476634,34.979517,2
