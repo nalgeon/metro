@@ -1953,7 +1953,7 @@
             {
                 "id": "133",
                 "hex_color": "FFCD1C",
-                "name": "Solntsevskaya",
+                "name": "Line 8A",
                 "stations": [
                     {
                         "id": "133.594",
@@ -2079,7 +2079,7 @@
             {
                 "id": "95",
                 "hex_color": "CC4C6E",
-                "name": "MCR",
+                "name": "Moscow Central Circle",
                 "stations": [
                     {
                         "id": "95.515",
@@ -2454,7 +2454,7 @@
                     },
                     {
                         "id": "98.762",
-                        "name": "Southeast",
+                        "name": "Yugo-Vostochnaya",
                         "lat": 55.71,
                         "lng": 37.82,
                         "order": 4
@@ -2506,7 +2506,7 @@
             {
                 "id": "131",
                 "hex_color": "F5A528",
-                "name": "MCD-1",
+                "name": "D1",
                 "stations": [
                     {
                         "id": "131.687",
@@ -2517,7 +2517,7 @@
                     },
                     {
                         "id": "131.688",
-                        "name": "Sheremetievsky",
+                        "name": "Sheremetyevskaya",
                         "lat": 55.983882,
                         "lng": 37.498752,
                         "order": 1
@@ -2622,21 +2622,21 @@
                     },
                     {
                         "id": "131.703",
-                        "name": "Philly",
+                        "name": "Fili",
                         "lat": 55.744263,
                         "lng": 37.514526,
                         "order": 16
                     },
                     {
                         "id": "131.704",
-                        "name": "Kuntsevo",
+                        "name": "Kuntsevskaya",
                         "lat": 55.730554,
                         "lng": 37.445591,
                         "order": 17
                     },
                     {
                         "id": "131.705",
-                        "name": "Working Settlement",
+                        "name": "Rabochiy Posyolok",
                         "lat": 55.726957,
                         "lng": 37.415577,
                         "order": 18
@@ -2688,11 +2688,11 @@
             {
                 "id": "132",
                 "hex_color": "E74683",
-                "name": "MCD-2",
+                "name": "D2",
                 "stations": [
                     {
                         "id": "132.711",
-                        "name": "Nahabino",
+                        "name": "Nakhabino",
                         "lat": 55.841522,
                         "lng": 37.185204,
                         "order": 0
@@ -2762,7 +2762,7 @@
                     },
                     {
                         "id": "132.721",
-                        "name": "Red Baltic",
+                        "name": "Krasniy Baltiets",
                         "lat": 55.815514,
                         "lng": 37.526367,
                         "order": 10
@@ -2790,7 +2790,7 @@
                     },
                     {
                         "id": "132.725",
-                        "name": "Kalanchevskaya",
+                        "name": "Kalanchyovskaya",
                         "lat": 55.77667,
                         "lng": 37.65111,
                         "order": 14
@@ -2804,7 +2804,7 @@
                     },
                     {
                         "id": "132.727",
-                        "name": "Moscow Commodity",
+                        "name": "Moskva-Tovarnaya",
                         "lat": 55.745358,
                         "lng": 37.688839,
                         "order": 16
@@ -2825,7 +2825,7 @@
                     },
                     {
                         "id": "132.730",
-                        "name": "Textilschiki",
+                        "name": "Tekstilschiki",
                         "lat": 55.708934,
                         "lng": 37.731283,
                         "order": 19
@@ -2839,7 +2839,7 @@
                     },
                     {
                         "id": "132.732",
-                        "name": "Depot",
+                        "name": "Depo",
                         "lat": 55.674257,
                         "lng": 37.728446,
                         "order": 21
@@ -2874,14 +2874,14 @@
                     },
                     {
                         "id": "132.737",
-                        "name": "Krasnyj stroitel",
+                        "name": "Krasniy Stroitel",
                         "lat": 55.589455,
                         "lng": 37.615093,
                         "order": 26
                     },
                     {
                         "id": "132.738",
-                        "name": "Bitcza",
+                        "name": "Bitsa",
                         "lat": 55.571186,
                         "lng": 37.611443,
                         "order": 27
@@ -2895,14 +2895,14 @@
                     },
                     {
                         "id": "132.740",
-                        "name": "Shherbinka",
+                        "name": "Scherbinka",
                         "lat": 55.509724,
                         "lng": 37.562008,
                         "order": 29
                     },
                     {
                         "id": "132.741",
-                        "name": "Ostafevo",
+                        "name": "Ostafyevo",
                         "lat": 55.50337,
                         "lng": 37.520055,
                         "order": 30
