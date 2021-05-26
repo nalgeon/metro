@@ -390,6 +390,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,132,D2,E74683,132.742,Silikatnaya,55.470278,37.555278,31
 1,Moscow,132,D2,E74683,132.743,Podolsk,55.431667,37.565,32
 1,Moscow,132,D2,E74683,132.744,Trikotazhnaya,55.833137,37.398967,33
+1,Moscow,132,D2,E74683,132.807,Kuryanovo,55.649722,37.701667,34
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.367,Vokzalna,48.475457,35.015926,0
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.368,Metrobudivnykiv,48.475218,34.995731,1
 117,"Dnieper (Dnepropetrovsk)",58,Tsentralno-Zavodska,BD1018,58.369,Metalurhiv,48.476634,34.979517,2
