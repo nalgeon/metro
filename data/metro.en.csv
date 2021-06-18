@@ -257,10 +257,10 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,12,Butovskaya,BAC8E8,12.171,"Ulitsa Starokachalovskaya",55.569194,37.576074,4
 1,Moscow,12,Butovskaya,BAC8E8,12.466,Lesoparkovaya,55.581656,37.577816,5
 1,Moscow,12,Butovskaya,BAC8E8,12.467,"Bittsevsky Park",55.600066,37.556058,6
-1,Moscow,133,"Line 8A",FFCD1C,133.594,"Petrovsky Park",55.79233,37.55952,8
-1,Moscow,133,"Line 8A",FFCD1C,133.592,CSKA,55.78643,37.53502,9
-1,Moscow,133,"Line 8A",FFCD1C,133.595,Khoroshevskaya,55.77643,37.51981,10
-1,Moscow,133,"Line 8A",FFCD1C,133.593,Shelepikha,55.75723,37.52571,11
+1,Moscow,133,"Line 8A",FFCD1C,133.594,"Petrovsky Park",28.447955,16.292718,8
+1,Moscow,133,"Line 8A",FFCD1C,133.592,CSKA,28.447955,16.292718,9
+1,Moscow,133,"Line 8A",FFCD1C,133.595,Khoroshevskaya,28.447955,16.292718,10
+1,Moscow,133,"Line 8A",FFCD1C,133.593,Shelepikha,28.447955,16.292718,11
 1,Moscow,133,"Line 8A",FFCD1C,133.468,"Delovoy tsentr",55.7491,37.5395,12
 1,Moscow,133,"Line 8A",FFCD1C,133.470,"Park Pobedy",55.736478,37.514401,13
 1,Moscow,133,"Line 8A",FFCD1C,133.555,Minskaya,55.7232,37.5038,14
@@ -273,7 +273,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,133,"Line 8A",FFCD1C,133.611,"Borovskoye Highway",55.647,37.3701,21
 1,Moscow,133,"Line 8A",FFCD1C,133.612,Novoperedelkino,55.6385,37.3544,22
 1,Moscow,133,"Line 8A",FFCD1C,133.613,Rasskazovka,55.6324,37.3328,23
-1,Moscow,133,"Line 8A",FFCD1C,133.686,Savyolovskaya,55.793936,37.587038,24
+1,Moscow,133,"Line 8A",FFCD1C,133.686,Savyolovskaya,28.447955,16.292718,24
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.515,Okruzhnaya,55.848889,37.571111,0
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.516,Vladykino,55.847222,37.591944,1
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.517,"Botanichesky Sad",55.845556,37.640278,2
