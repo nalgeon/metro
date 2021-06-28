@@ -470,6 +470,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.234,Proletraskaya,59.865215,30.470264,9
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.235,Obukhovo,59.848709,30.457743,10
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.236,Rybatskoye,59.830986,30.501259,11
+2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.808,Zenith,59.972222,30.211667,12
 2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.237,Spasskaya,59.927135,30.320316,0
 2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.238,Dostoyevskaya,59.928234,30.346029,1
 2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.239,"Ligovskiy Prospekt",59.920811,30.355055,2
