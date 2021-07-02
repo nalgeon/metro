@@ -1956,34 +1956,6 @@
                 "name": "Line 8A",
                 "stations": [
                     {
-                        "id": "133.594",
-                        "name": "Petrovsky Park",
-                        "lat": 28.447955,
-                        "lng": 16.292718,
-                        "order": 8
-                    },
-                    {
-                        "id": "133.592",
-                        "name": "CSKA",
-                        "lat": 28.447955,
-                        "lng": 16.292718,
-                        "order": 9
-                    },
-                    {
-                        "id": "133.595",
-                        "name": "Khoroshevskaya",
-                        "lat": 28.447955,
-                        "lng": 16.292718,
-                        "order": 10
-                    },
-                    {
-                        "id": "133.593",
-                        "name": "Shelepikha",
-                        "lat": 28.447955,
-                        "lng": 16.292718,
-                        "order": 11
-                    },
-                    {
                         "id": "133.468",
                         "name": "Delovoy tsentr",
                         "lat": 55.7491,
@@ -2066,13 +2038,6 @@
                         "lat": 55.6324,
                         "lng": 37.3328,
                         "order": 23
-                    },
-                    {
-                        "id": "133.686",
-                        "name": "Savyolovskaya",
-                        "lat": 28.447955,
-                        "lng": 16.292718,
-                        "order": 24
                     }
                 ]
             },
