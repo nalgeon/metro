@@ -462,7 +462,7 @@ id,city_id,line_id,name,lat,lng,order
 16.231,2,16,"Ploschad' Alexandra Nevskogo I",59.924369,30.384989,6
 16.232,2,16,Yelizarovskaya,59.89669,30.423656,7
 16.233,2,16,Lomonosovskaya,59.877342,30.441715,8
-16.234,2,16,Proletraskaya,59.865215,30.470264,9
+16.234,2,16,Proletraskaya,59.865,30.47,9
 16.235,2,16,Obukhovo,59.848709,30.457743,10
 16.236,2,16,Rybatskoye,59.830986,30.501259,11
 16.808,2,16,Zenith,59.972222,30.211667,12
