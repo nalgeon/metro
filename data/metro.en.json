@@ -2381,6 +2381,76 @@
                         "lat": 55.775278,
                         "lng": 39.484444,
                         "order": 8
+                    },
+                    {
+                        "id": "97.809",
+                        "name": "Терехово Terekhovo",
+                        "lat": 55.749167,
+                        "lng": 38.460556,
+                        "order": 9
+                    },
+                    {
+                        "id": "97.810",
+                        "name": "Kuntsevskaya",
+                        "lat": 55.730278,
+                        "lng": 37.445833,
+                        "order": 10
+                    },
+                    {
+                        "id": "97.811",
+                        "name": "Davydkovo",
+                        "lat": 55.765278,
+                        "lng": 37.451667,
+                        "order": 11
+                    },
+                    {
+                        "id": "97.812",
+                        "name": "Aminevskaya",
+                        "lat": 55.697222,
+                        "lng": 37.464167,
+                        "order": 12
+                    },
+                    {
+                        "id": "97.813",
+                        "name": "Michurinsky Prospekt",
+                        "lat": 55.688333,
+                        "lng": 37.485,
+                        "order": 13
+                    },
+                    {
+                        "id": "97.814",
+                        "name": "Vernadsky Avenue",
+                        "lat": 55.677778,
+                        "lng": 37.505,
+                        "order": 14
+                    },
+                    {
+                        "id": "97.815",
+                        "name": "Novatorskaya",
+                        "lat": 55.670833,
+                        "lng": 37.52,
+                        "order": 15
+                    },
+                    {
+                        "id": "97.816",
+                        "name": "Vorontsovskaya",
+                        "lat": 55.658333,
+                        "lng": 37.540833,
+                        "order": 16
+                    },
+                    {
+                        "id": "97.817",
+                        "name": "Zyuzino",
+                        "lat": 55.489722,
+                        "lng": 37.572222,
+                        "order": 17
+                    },
+                    {
+                        "id": "97.818",
+                        "name": "Kakhovskaya",
+                        "lat": 55.653056,
+                        "lng": 37.598333,
+                        "order": 18
                     }
                 ]
             },

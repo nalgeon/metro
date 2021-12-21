@@ -315,6 +315,16 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.803,Elektrozavodskaya,55.782057,37.7053,6
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,7
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775278,39.484444,8
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,"Терехово Terekhovo",55.749167,38.460556,9
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,10
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.811,Davydkovo,55.765278,37.451667,11
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.812,Aminevskaya,55.697222,37.464167,12
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.813,"Michurinsky Prospekt",55.688333,37.485,13
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Vernadsky Avenue",55.677778,37.505,14
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,15
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.816,Vorontsovskaya,55.658333,37.540833,16
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.817,Zyuzino,55.489722,37.572222,17
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.818,Kakhovskaya,55.653056,37.598333,18
 1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
 1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street ",55.7093,37.8792,1
 1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2
