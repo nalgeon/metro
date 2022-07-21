@@ -2384,7 +2384,7 @@
                     },
                     {
                         "id": "97.809",
-                        "name": "Терехово Terekhovo",
+                        "name": "Terekhovo",
                         "lat": 55.749167,
                         "lng": 38.460556,
                         "order": 9
@@ -2405,21 +2405,21 @@
                     },
                     {
                         "id": "97.812",
-                        "name": "Aminevskaya",
+                        "name": "Aminyevskaya",
                         "lat": 55.697222,
                         "lng": 37.464167,
                         "order": 12
                     },
                     {
                         "id": "97.813",
-                        "name": "Michurinsky Prospekt",
+                        "name": "Michurinskiy Prospekt",
                         "lat": 55.688333,
                         "lng": 37.485,
                         "order": 13
                     },
                     {
                         "id": "97.814",
-                        "name": "Vernadsky Avenue",
+                        "name": "Prospekt Vernadskogo",
                         "lat": 55.677778,
                         "lng": 37.505,
                         "order": 14
