@@ -315,83 +315,6 @@
         ]
     },
     {
-        "id": "160",
-        "name": "Almaty",
-        "url": "https://api.hh.ru/metro/160?locale=EN",
-        "lines": [
-            {
-                "id": "64",
-                "hex_color": "CD0505",
-                "name": "Pervaya",
-                "stations": [
-                    {
-                        "id": "64.430",
-                        "name": "Raiymbek Batyr",
-                        "lat": 43.271201,
-                        "lng": 76.9448,
-                        "order": 0
-                    },
-                    {
-                        "id": "64.431",
-                        "name": "Zhibek Zholy",
-                        "lat": 43.260199,
-                        "lng": 76.946103,
-                        "order": 1
-                    },
-                    {
-                        "id": "64.432",
-                        "name": "Almaly",
-                        "lat": 43.251295,
-                        "lng": 76.945456,
-                        "order": 2
-                    },
-                    {
-                        "id": "64.433",
-                        "name": "Abay",
-                        "lat": 43.242548,
-                        "lng": 76.949588,
-                        "order": 3
-                    },
-                    {
-                        "id": "64.434",
-                        "name": "Baikonur",
-                        "lat": 43.240401,
-                        "lng": 76.927696,
-                        "order": 4
-                    },
-                    {
-                        "id": "64.435",
-                        "name": "Auezov Theater",
-                        "lat": 43.240362,
-                        "lng": 76.917519,
-                        "order": 5
-                    },
-                    {
-                        "id": "64.436",
-                        "name": "Alatau",
-                        "lat": 43.239041,
-                        "lng": 76.897612,
-                        "order": 6
-                    },
-                    {
-                        "id": "64.510",
-                        "name": "Sayran",
-                        "lat": 43.2362,
-                        "lng": 76.8764,
-                        "order": 7
-                    },
-                    {
-                        "id": "64.511",
-                        "name": "Moscow",
-                        "lat": 43.23,
-                        "lng": 76.867,
-                        "order": 8
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "1",
         "name": "Moscow",
         "url": "https://api.hh.ru/metro/1?locale=EN",
@@ -2969,6 +2892,83 @@
                         "lat": 55.649722,
                         "lng": 37.701667,
                         "order": 34
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "160",
+        "name": "Almaty",
+        "url": "https://api.hh.ru/metro/160?locale=EN",
+        "lines": [
+            {
+                "id": "64",
+                "hex_color": "CD0505",
+                "name": "Pervaya",
+                "stations": [
+                    {
+                        "id": "64.430",
+                        "name": "Raiymbek Batyr",
+                        "lat": 43.271201,
+                        "lng": 76.9448,
+                        "order": 0
+                    },
+                    {
+                        "id": "64.431",
+                        "name": "Zhibek Zholy",
+                        "lat": 43.260199,
+                        "lng": 76.946103,
+                        "order": 1
+                    },
+                    {
+                        "id": "64.432",
+                        "name": "Almaly",
+                        "lat": 43.251295,
+                        "lng": 76.945456,
+                        "order": 2
+                    },
+                    {
+                        "id": "64.433",
+                        "name": "Abay",
+                        "lat": 43.242548,
+                        "lng": 76.949588,
+                        "order": 3
+                    },
+                    {
+                        "id": "64.434",
+                        "name": "Baikonur",
+                        "lat": 43.240401,
+                        "lng": 76.927696,
+                        "order": 4
+                    },
+                    {
+                        "id": "64.435",
+                        "name": "Auezov Theater",
+                        "lat": 43.240362,
+                        "lng": 76.917519,
+                        "order": 5
+                    },
+                    {
+                        "id": "64.436",
+                        "name": "Alatau",
+                        "lat": 43.239041,
+                        "lng": 76.897612,
+                        "order": 6
+                    },
+                    {
+                        "id": "64.510",
+                        "name": "Sayran",
+                        "lat": 43.2362,
+                        "lng": 76.8764,
+                        "order": 7
+                    },
+                    {
+                        "id": "64.511",
+                        "name": "Moscow",
+                        "lat": 43.23,
+                        "lng": 76.867,
+                        "order": 8
                     }
                 ]
             }
