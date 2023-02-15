@@ -187,69 +187,6 @@
                 ]
             },
             {
-                "id": "60",
-                "hex_color": "069CD3",
-                "name": "Saltivska Line",
-                "stations": [
-                    {
-                        "id": "60.386",
-                        "name": "Heroyiv Pratsi",
-                        "lat": 50.025398,
-                        "lng": 36.336287,
-                        "order": 0
-                    },
-                    {
-                        "id": "60.387",
-                        "name": "Studentska",
-                        "lat": 50.017683,
-                        "lng": 36.329972,
-                        "order": 1
-                    },
-                    {
-                        "id": "60.388",
-                        "name": "Akademika Pavlova",
-                        "lat": 50.008965,
-                        "lng": 36.317755,
-                        "order": 2
-                    },
-                    {
-                        "id": "60.389",
-                        "name": "Akademika Barabashova",
-                        "lat": 50.002313,
-                        "lng": 36.304092,
-                        "order": 3
-                    },
-                    {
-                        "id": "60.390",
-                        "name": "Kyivska",
-                        "lat": 50.001213,
-                        "lng": 36.270279,
-                        "order": 4
-                    },
-                    {
-                        "id": "60.391",
-                        "name": "Pushkinska",
-                        "lat": 50.003685,
-                        "lng": 36.247489,
-                        "order": 5
-                    },
-                    {
-                        "id": "60.392",
-                        "name": "Universytet",
-                        "lat": 50.004501,
-                        "lng": 36.233781,
-                        "order": 6
-                    },
-                    {
-                        "id": "60.393",
-                        "name": "Istorychnyi Muzey",
-                        "lat": 49.992926,
-                        "lng": 36.231211,
-                        "order": 7
-                    }
-                ]
-            },
-            {
                 "id": "61",
                 "hex_color": "0A6F20",
                 "name": "Oleksiivska",
@@ -311,6 +248,69 @@
                         "order": 7
                     }
                 ]
+            },
+            {
+                "id": "60",
+                "hex_color": "069CD3",
+                "name": "Saltivska Line",
+                "stations": [
+                    {
+                        "id": "60.386",
+                        "name": "Heroyiv Pratsi",
+                        "lat": 50.025398,
+                        "lng": 36.336287,
+                        "order": 0
+                    },
+                    {
+                        "id": "60.387",
+                        "name": "Studentska",
+                        "lat": 50.017683,
+                        "lng": 36.329972,
+                        "order": 1
+                    },
+                    {
+                        "id": "60.388",
+                        "name": "Akademika Pavlova",
+                        "lat": 50.008965,
+                        "lng": 36.317755,
+                        "order": 2
+                    },
+                    {
+                        "id": "60.389",
+                        "name": "Akademika Barabashova",
+                        "lat": 50.002313,
+                        "lng": 36.304092,
+                        "order": 3
+                    },
+                    {
+                        "id": "60.390",
+                        "name": "Kyivska",
+                        "lat": 50.001213,
+                        "lng": 36.270279,
+                        "order": 4
+                    },
+                    {
+                        "id": "60.391",
+                        "name": "Pushkinska",
+                        "lat": 50.003685,
+                        "lng": 36.247489,
+                        "order": 5
+                    },
+                    {
+                        "id": "60.392",
+                        "name": "Universytet",
+                        "lat": 50.004501,
+                        "lng": 36.233781,
+                        "order": 6
+                    },
+                    {
+                        "id": "60.393",
+                        "name": "Istorychnyi Muzey",
+                        "lat": 49.992926,
+                        "lng": 36.231211,
+                        "order": 7
+                    }
+                ]
             }
         ]
     },
@@ -320,65 +320,93 @@
         "url": "https://api.hh.ru/metro/1?locale=EN",
         "lines": [
             {
-                "id": "8",
-                "hex_color": "FFCD1C",
-                "name": "Kalininskaya",
+                "id": "5",
+                "hex_color": "915133",
+                "name": "Kol'tsevaya",
                 "stations": [
                     {
-                        "id": "8.189",
-                        "name": "Novokosino",
-                        "lat": 55.745113,
-                        "lng": 37.864052,
+                        "id": "5.82",
+                        "name": "Novoslobodskaya",
+                        "lat": 55.779606,
+                        "lng": 37.601252,
                         "order": 0
                     },
                     {
-                        "id": "8.88",
-                        "name": "Novogireevo",
-                        "lat": 55.752237,
-                        "lng": 37.814587,
+                        "id": "5.119",
+                        "name": "Prospekt Mira",
+                        "lat": 55.779584,
+                        "lng": 37.633646,
                         "order": 1
                     },
                     {
-                        "id": "8.107",
-                        "name": "Perovo",
-                        "lat": 55.75098,
-                        "lng": 37.78422,
+                        "id": "5.55",
+                        "name": "Komsomolskaya",
+                        "lat": 55.775672,
+                        "lng": 37.654772,
                         "order": 2
                     },
                     {
-                        "id": "8.158",
-                        "name": "Shosse Entuziastov",
-                        "lat": 55.75809,
-                        "lng": 37.751703,
+                        "id": "5.71",
+                        "name": "Kurskaya",
+                        "lat": 55.758631,
+                        "lng": 37.661059,
                         "order": 3
                     },
                     {
-                        "id": "8.1",
-                        "name": "Aviamotornaya",
-                        "lat": 55.751933,
-                        "lng": 37.717444,
+                        "id": "5.76",
+                        "name": "Taganskaya",
+                        "lat": 55.742396,
+                        "lng": 37.653334,
                         "order": 4
                     },
                     {
-                        "id": "8.112",
-                        "name": "Ploschad Il'icha",
-                        "lat": 55.747115,
-                        "lng": 37.680726,
+                        "id": "5.102",
+                        "name": "Paveletskaya",
+                        "lat": 55.731414,
+                        "lng": 37.636294,
                         "order": 5
                     },
                     {
-                        "id": "8.78",
-                        "name": "Marksistskaya",
-                        "lat": 55.740746,
-                        "lng": 37.65604,
+                        "id": "5.36",
+                        "name": "Dobryninskaya",
+                        "lat": 55.728994,
+                        "lng": 37.622533,
                         "order": 6
                     },
                     {
-                        "id": "8.91",
-                        "name": "Tret'yakovskaya",
-                        "lat": 55.741125,
-                        "lng": 37.626142,
+                        "id": "5.93",
+                        "name": "Oktyabr'skaya",
+                        "lat": 55.729264,
+                        "lng": 37.611049,
                         "order": 7
+                    },
+                    {
+                        "id": "5.104",
+                        "name": "Park Kultury",
+                        "lat": 55.735221,
+                        "lng": 37.593095,
+                        "order": 8
+                    },
+                    {
+                        "id": "5.49",
+                        "name": "Kievskaya",
+                        "lat": 55.74361,
+                        "lng": 37.56735,
+                        "order": 10
+                    },
+                    {
+                        "id": "5.58",
+                        "name": "Krasnopresnenskaya",
+                        "lat": 55.760378,
+                        "lng": 37.577114,
+                        "order": 11
+                    },
+                    {
+                        "id": "5.20",
+                        "name": "Belorusskaya",
+                        "lat": 55.775179,
+                        "lng": 37.582303,
+                        "order": 12
                     }
                 ]
             },
@@ -558,6 +586,174 @@
                 ]
             },
             {
+                "id": "7",
+                "hex_color": "943E90",
+                "name": "Tagansko-Krasnopresnenskaya",
+                "stations": [
+                    {
+                        "id": "7.111",
+                        "name": "Planernaya",
+                        "lat": 55.859676,
+                        "lng": 37.436808,
+                        "order": 0
+                    },
+                    {
+                        "id": "7.138",
+                        "name": "Skhodnenskaya",
+                        "lat": 55.84926,
+                        "lng": 37.44076,
+                        "order": 1
+                    },
+                    {
+                        "id": "7.145",
+                        "name": "Tushinskaya",
+                        "lat": 55.825479,
+                        "lng": 37.437024,
+                        "order": 2
+                    },
+                    {
+                        "id": "7.507",
+                        "name": "Spartak",
+                        "lat": 55.8182,
+                        "lng": 37.4352,
+                        "order": 3
+                    },
+                    {
+                        "id": "7.160",
+                        "name": "Schukinskaya",
+                        "lat": 55.8094,
+                        "lng": 37.463241,
+                        "order": 4
+                    },
+                    {
+                        "id": "7.95",
+                        "name": "Oktyabr'skoye Pole",
+                        "lat": 55.793581,
+                        "lng": 37.493317,
+                        "order": 5
+                    },
+                    {
+                        "id": "7.114",
+                        "name": "Polezhaevskaya",
+                        "lat": 55.777201,
+                        "lng": 37.517895,
+                        "order": 6
+                    },
+                    {
+                        "id": "7.18",
+                        "name": "Begovaya",
+                        "lat": 55.773505,
+                        "lng": 37.545518,
+                        "order": 7
+                    },
+                    {
+                        "id": "7.146",
+                        "name": "Ulitsa 1905 Goda",
+                        "lat": 55.763944,
+                        "lng": 37.562271,
+                        "order": 8
+                    },
+                    {
+                        "id": "7.16",
+                        "name": "Barrikadnaya",
+                        "lat": 55.760793,
+                        "lng": 37.581242,
+                        "order": 9
+                    },
+                    {
+                        "id": "7.124",
+                        "name": "Pushkinskaya",
+                        "lat": 55.765607,
+                        "lng": 37.604356,
+                        "order": 10
+                    },
+                    {
+                        "id": "7.67",
+                        "name": "Kuznetskiy Most",
+                        "lat": 55.761498,
+                        "lng": 37.624423,
+                        "order": 11
+                    },
+                    {
+                        "id": "7.51",
+                        "name": "Kitay-gorod",
+                        "lat": 55.75436,
+                        "lng": 37.633877,
+                        "order": 12
+                    },
+                    {
+                        "id": "7.77",
+                        "name": "Taganskaya",
+                        "lat": 55.739502,
+                        "lng": 37.653605,
+                        "order": 13
+                    },
+                    {
+                        "id": "7.62",
+                        "name": "Proletarskaya",
+                        "lat": 55.731546,
+                        "lng": 37.666917,
+                        "order": 14
+                    },
+                    {
+                        "id": "7.31",
+                        "name": "Volgogradskiy Prospekt",
+                        "lat": 55.725546,
+                        "lng": 37.685197,
+                        "order": 15
+                    },
+                    {
+                        "id": "7.139",
+                        "name": "Textilschiki",
+                        "lat": 55.709211,
+                        "lng": 37.732117,
+                        "order": 16
+                    },
+                    {
+                        "id": "7.68",
+                        "name": "Kuzminki",
+                        "lat": 55.705493,
+                        "lng": 37.763295,
+                        "order": 17
+                    },
+                    {
+                        "id": "7.127",
+                        "name": "Ryazanskiy Prospekt",
+                        "lat": 55.716139,
+                        "lng": 37.792694,
+                        "order": 18
+                    },
+                    {
+                        "id": "7.33",
+                        "name": "Vykhino",
+                        "lat": 55.715983,
+                        "lng": 37.816788,
+                        "order": 19
+                    },
+                    {
+                        "id": "7.464",
+                        "name": "Lermontovsky Prospekt ",
+                        "lat": 55.702036,
+                        "lng": 37.851044,
+                        "order": 20
+                    },
+                    {
+                        "id": "7.465",
+                        "name": "Zhulebino",
+                        "lat": 55.684722,
+                        "lng": 37.855833,
+                        "order": 21
+                    },
+                    {
+                        "id": "7.508",
+                        "name": "Kotelniki",
+                        "lat": 55.6743,
+                        "lng": 37.8582,
+                        "order": 22
+                    }
+                ]
+            },
+            {
                 "id": "6",
                 "hex_color": "F07E24",
                 "name": "Kaluzhsko-Rizhskaya",
@@ -729,6 +925,167 @@
                         "lat": 55.601947,
                         "lng": 37.553017,
                         "order": 23
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "hex_color": "0072BA",
+                "name": "Arbatsko-Pokrovskaya",
+                "stations": [
+                    {
+                        "id": "3.159",
+                        "name": "Schelkovskaya",
+                        "lat": 55.809962,
+                        "lng": 37.798261,
+                        "order": 0
+                    },
+                    {
+                        "id": "3.106",
+                        "name": "Pervomayskaya",
+                        "lat": 55.794376,
+                        "lng": 37.799364,
+                        "order": 1
+                    },
+                    {
+                        "id": "3.40",
+                        "name": "Izmailovskaya",
+                        "lat": 55.787713,
+                        "lng": 37.779896,
+                        "order": 2
+                    },
+                    {
+                        "id": "3.105",
+                        "name": "Partizanskaya",
+                        "lat": 55.788401,
+                        "lng": 37.74882,
+                        "order": 3
+                    },
+                    {
+                        "id": "3.130",
+                        "name": "Semyonovskaya",
+                        "lat": 55.783096,
+                        "lng": 37.719289,
+                        "order": 4
+                    },
+                    {
+                        "id": "3.161",
+                        "name": "Elektrozavodskaya",
+                        "lat": 55.782057,
+                        "lng": 37.7053,
+                        "order": 5
+                    },
+                    {
+                        "id": "3.17",
+                        "name": "Baumanskaya",
+                        "lat": 55.772405,
+                        "lng": 37.67904,
+                        "order": 6
+                    },
+                    {
+                        "id": "3.100",
+                        "name": "Ploschad Revolutsii",
+                        "lat": 55.756741,
+                        "lng": 37.62236,
+                        "order": 7
+                    },
+                    {
+                        "id": "3.70",
+                        "name": "Kurskaya",
+                        "lat": 55.758564,
+                        "lng": 37.659039,
+                        "order": 8
+                    },
+                    {
+                        "id": "3.5",
+                        "name": "Arbatskaya",
+                        "lat": 55.752312,
+                        "lng": 37.60349,
+                        "order": 9
+                    },
+                    {
+                        "id": "3.131",
+                        "name": "Smolenskaya",
+                        "lat": 55.747713,
+                        "lng": 37.583802,
+                        "order": 10
+                    },
+                    {
+                        "id": "3.47",
+                        "name": "Kievskaya",
+                        "lat": 55.743117,
+                        "lng": 37.564132,
+                        "order": 11
+                    },
+                    {
+                        "id": "3.173",
+                        "name": "Park Pobedy",
+                        "lat": 55.735679,
+                        "lng": 37.516865,
+                        "order": 12
+                    },
+                    {
+                        "id": "3.176",
+                        "name": "Slavyanskiy Bul'var",
+                        "lat": 55.729542,
+                        "lng": 37.470973,
+                        "order": 13
+                    },
+                    {
+                        "id": "3.69",
+                        "name": "Kuntsevskaya",
+                        "lat": 55.730673,
+                        "lng": 37.446522,
+                        "order": 14
+                    },
+                    {
+                        "id": "3.84",
+                        "name": "Molodyozhnaya",
+                        "lat": 55.741375,
+                        "lng": 37.415627,
+                        "order": 15
+                    },
+                    {
+                        "id": "3.65",
+                        "name": "Krylatskoe",
+                        "lat": 55.756842,
+                        "lng": 37.408139,
+                        "order": 16
+                    },
+                    {
+                        "id": "3.174",
+                        "name": "Strogino",
+                        "lat": 55.803831,
+                        "lng": 37.402405,
+                        "order": 17
+                    },
+                    {
+                        "id": "3.181",
+                        "name": "Myakinino",
+                        "lat": 55.823342,
+                        "lng": 37.385214,
+                        "order": 18
+                    },
+                    {
+                        "id": "3.182",
+                        "name": "Volokolamskaya",
+                        "lat": 55.835154,
+                        "lng": 37.382453,
+                        "order": 19
+                    },
+                    {
+                        "id": "3.183",
+                        "name": "Mitino",
+                        "lat": 55.846098,
+                        "lng": 37.36122,
+                        "order": 20
+                    },
+                    {
+                        "id": "3.463",
+                        "name": "Pyatnitskoye Shosse",
+                        "lat": 55.853634,
+                        "lng": 37.353108,
+                        "order": 21
                     }
                 ]
             },
@@ -922,163 +1279,709 @@
                 ]
             },
             {
-                "id": "3",
-                "hex_color": "0072BA",
-                "name": "Arbatsko-Pokrovskaya",
+                "id": "98",
+                "hex_color": "CC0066",
+                "name": "Nekrasovskaya",
                 "stations": [
                     {
-                        "id": "3.159",
-                        "name": "Schelkovskaya",
-                        "lat": 55.809962,
-                        "lng": 37.798261,
+                        "id": "98.675",
+                        "name": "Kosino",
+                        "lat": 55.7026,
+                        "lng": 37.8511,
                         "order": 0
                     },
                     {
-                        "id": "3.106",
-                        "name": "Pervomayskaya",
-                        "lat": 55.794376,
-                        "lng": 37.799364,
+                        "id": "98.676",
+                        "name": "Dmitriyevskogo Street ",
+                        "lat": 55.7093,
+                        "lng": 37.8792,
                         "order": 1
                     },
                     {
-                        "id": "3.40",
-                        "name": "Izmailovskaya",
-                        "lat": 55.787713,
-                        "lng": 37.779896,
+                        "id": "98.677",
+                        "name": "Lukhmanovskaya",
+                        "lat": 55.7078,
+                        "lng": 37.9004,
                         "order": 2
                     },
                     {
-                        "id": "3.105",
-                        "name": "Partizanskaya",
-                        "lat": 55.788401,
-                        "lng": 37.74882,
+                        "id": "98.641",
+                        "name": "Nekrasovka",
+                        "lat": 55.7029,
+                        "lng": 37.9264,
                         "order": 3
                     },
                     {
-                        "id": "3.130",
-                        "name": "Semyonovskaya",
-                        "lat": 55.783096,
-                        "lng": 37.719289,
+                        "id": "98.762",
+                        "name": "Yugo-Vostochnaya",
+                        "lat": 55.71,
+                        "lng": 37.82,
                         "order": 4
                     },
                     {
-                        "id": "3.161",
-                        "name": "Elektrozavodskaya",
-                        "lat": 55.782057,
-                        "lng": 37.7053,
+                        "id": "98.763",
+                        "name": "Okskaya",
+                        "lat": 55.72,
+                        "lng": 37.77,
                         "order": 5
                     },
                     {
-                        "id": "3.17",
-                        "name": "Baumanskaya",
-                        "lat": 55.772405,
-                        "lng": 37.67904,
+                        "id": "98.764",
+                        "name": "Stakhanovskaya",
+                        "lat": 55.73,
+                        "lng": 37.76,
                         "order": 6
                     },
                     {
-                        "id": "3.100",
-                        "name": "Ploschad Revolutsii",
-                        "lat": 55.756741,
-                        "lng": 37.62236,
+                        "id": "98.765",
+                        "name": "Nizhegorodskaya",
+                        "lat": 55.73,
+                        "lng": 37.73,
                         "order": 7
                     },
                     {
-                        "id": "3.70",
-                        "name": "Kurskaya",
-                        "lat": 55.758564,
-                        "lng": 37.659039,
+                        "id": "98.800",
+                        "name": "Lefortovo",
+                        "lat": 55.764444,
+                        "lng": 37.702778,
                         "order": 8
                     },
                     {
-                        "id": "3.5",
-                        "name": "Arbatskaya",
-                        "lat": 55.752312,
-                        "lng": 37.60349,
+                        "id": "98.802",
+                        "name": "Elektrozavodskaya",
+                        "lat": 55.782057,
+                        "lng": 37.7053,
                         "order": 9
                     },
                     {
-                        "id": "3.131",
-                        "name": "Smolenskaya",
-                        "lat": 55.747713,
-                        "lng": 37.583802,
+                        "id": "98.804",
+                        "name": "Aviamotornaya",
+                        "lat": 55.751933,
+                        "lng": 37.717444,
+                        "order": 10
+                    }
+                ]
+            },
+            {
+                "id": "97",
+                "hex_color": "88CDCF",
+                "name": "Bolshaya Koltsevaya line",
+                "stations": [
+                    {
+                        "id": "97.599",
+                        "name": "Petrovsky Park",
+                        "lat": 55.79233,
+                        "lng": 37.55952,
+                        "order": 0
+                    },
+                    {
+                        "id": "97.600",
+                        "name": "CSKA",
+                        "lat": 55.78643,
+                        "lng": 37.53502,
+                        "order": 1
+                    },
+                    {
+                        "id": "97.601",
+                        "name": "Khoroshevskaya",
+                        "lat": 55.77643,
+                        "lng": 37.51981,
+                        "order": 2
+                    },
+                    {
+                        "id": "97.602",
+                        "name": "Shelepikha",
+                        "lat": 55.75723,
+                        "lng": 37.52571,
+                        "order": 3
+                    },
+                    {
+                        "id": "97.603",
+                        "name": "Business center",
+                        "lat": 55.7491,
+                        "lng": 37.5395,
+                        "order": 4
+                    },
+                    {
+                        "id": "97.685",
+                        "name": "Savyolovskaya",
+                        "lat": 55.794054,
+                        "lng": 37.587163,
+                        "order": 5
+                    },
+                    {
+                        "id": "97.803",
+                        "name": "Elektrozavodskaya",
+                        "lat": 55.782057,
+                        "lng": 37.7053,
+                        "order": 6
+                    },
+                    {
+                        "id": "97.805",
+                        "name": "Mnevniki",
+                        "lat": 55.761153,
+                        "lng": 37.47139,
+                        "order": 7
+                    },
+                    {
+                        "id": "97.806",
+                        "name": "People's Militia",
+                        "lat": 55.775278,
+                        "lng": 39.484444,
+                        "order": 8
+                    },
+                    {
+                        "id": "97.809",
+                        "name": "Terekhovo",
+                        "lat": 55.749167,
+                        "lng": 38.460556,
+                        "order": 9
+                    },
+                    {
+                        "id": "97.810",
+                        "name": "Kuntsevskaya",
+                        "lat": 55.730278,
+                        "lng": 37.445833,
                         "order": 10
                     },
                     {
-                        "id": "3.47",
-                        "name": "Kievskaya",
-                        "lat": 55.743117,
-                        "lng": 37.564132,
+                        "id": "97.811",
+                        "name": "Davydkovo",
+                        "lat": 55.765278,
+                        "lng": 37.451667,
                         "order": 11
                     },
                     {
-                        "id": "3.173",
-                        "name": "Park Pobedy",
-                        "lat": 55.735679,
-                        "lng": 37.516865,
+                        "id": "97.812",
+                        "name": "Aminyevskaya",
+                        "lat": 55.697222,
+                        "lng": 37.464167,
                         "order": 12
                     },
                     {
-                        "id": "3.176",
-                        "name": "Slavyanskiy Bul'var",
-                        "lat": 55.729542,
-                        "lng": 37.470973,
+                        "id": "97.813",
+                        "name": "Michurinskiy Prospekt",
+                        "lat": 55.688333,
+                        "lng": 37.485,
                         "order": 13
                     },
                     {
-                        "id": "3.69",
-                        "name": "Kuntsevskaya",
-                        "lat": 55.730673,
-                        "lng": 37.446522,
+                        "id": "97.814",
+                        "name": "Prospekt Vernadskogo",
+                        "lat": 55.677778,
+                        "lng": 37.505,
                         "order": 14
                     },
                     {
-                        "id": "3.84",
-                        "name": "Molodyozhnaya",
-                        "lat": 55.741375,
-                        "lng": 37.415627,
+                        "id": "97.815",
+                        "name": "Novatorskaya",
+                        "lat": 55.670833,
+                        "lng": 37.52,
                         "order": 15
                     },
                     {
-                        "id": "3.65",
-                        "name": "Krylatskoe",
-                        "lat": 55.756842,
-                        "lng": 37.408139,
+                        "id": "97.816",
+                        "name": "Vorontsovskaya",
+                        "lat": 55.658333,
+                        "lng": 37.540833,
                         "order": 16
                     },
                     {
-                        "id": "3.174",
-                        "name": "Strogino",
-                        "lat": 55.803831,
-                        "lng": 37.402405,
+                        "id": "97.817",
+                        "name": "Zyuzino",
+                        "lat": 55.489722,
+                        "lng": 37.572222,
                         "order": 17
                     },
                     {
-                        "id": "3.181",
-                        "name": "Myakinino",
-                        "lat": 55.823342,
-                        "lng": 37.385214,
+                        "id": "97.818",
+                        "name": "Kakhovskaya",
+                        "lat": 55.653056,
+                        "lng": 37.598333,
+                        "order": 18
+                    }
+                ]
+            },
+            {
+                "id": "131",
+                "hex_color": "F5A528",
+                "name": "D1",
+                "stations": [
+                    {
+                        "id": "131.687",
+                        "name": "Lobnya",
+                        "lat": 56.0048,
+                        "lng": 37.29057,
+                        "order": 0
+                    },
+                    {
+                        "id": "131.688",
+                        "name": "Sheremetyevskaya",
+                        "lat": 55.983882,
+                        "lng": 37.498752,
+                        "order": 1
+                    },
+                    {
+                        "id": "131.689",
+                        "name": "Khlebnikovo",
+                        "lat": 55.970682,
+                        "lng": 37.504638,
+                        "order": 2
+                    },
+                    {
+                        "id": "131.690",
+                        "name": "Vodniki",
+                        "lat": 55.953419,
+                        "lng": 37.511143,
+                        "order": 3
+                    },
+                    {
+                        "id": "131.691",
+                        "name": "Dolgoprudnaya",
+                        "lat": 55.938656,
+                        "lng": 37.520542,
+                        "order": 4
+                    },
+                    {
+                        "id": "131.692",
+                        "name": "Novodachnaya",
+                        "lat": 55.924459,
+                        "lng": 37.527877,
+                        "order": 5
+                    },
+                    {
+                        "id": "131.693",
+                        "name": "Mark",
+                        "lat": 55.904458,
+                        "lng": 37.538242,
+                        "order": 6
+                    },
+                    {
+                        "id": "131.694",
+                        "name": "Lianozovo",
+                        "lat": 55.897316,
+                        "lng": 37.553261,
+                        "order": 7
+                    },
+                    {
+                        "id": "131.695",
+                        "name": "Beskudnikovo",
+                        "lat": 55.882713,
+                        "lng": 37.567768,
+                        "order": 8
+                    },
+                    {
+                        "id": "131.696",
+                        "name": "Degunino",
+                        "lat": 55.86586,
+                        "lng": 37.573235,
+                        "order": 9
+                    },
+                    {
+                        "id": "131.697",
+                        "name": "Okruzhnaya",
+                        "lat": 55.848889,
+                        "lng": 37.571111,
+                        "order": 10
+                    },
+                    {
+                        "id": "131.698",
+                        "name": "Timiryazevskaya",
+                        "lat": 55.81866,
+                        "lng": 37.574498,
+                        "order": 11
+                    },
+                    {
+                        "id": "131.699",
+                        "name": "Savyolovskaya",
+                        "lat": 55.793936,
+                        "lng": 37.587038,
+                        "order": 12
+                    },
+                    {
+                        "id": "131.700",
+                        "name": "Belorusskaya",
+                        "lat": 55.775179,
+                        "lng": 37.582303,
+                        "order": 13
+                    },
+                    {
+                        "id": "131.701",
+                        "name": "Begovaya",
+                        "lat": 55.773505,
+                        "lng": 37.545518,
+                        "order": 14
+                    },
+                    {
+                        "id": "131.702",
+                        "name": "Testovskaya",
+                        "lat": 55.754292,
+                        "lng": 37.531551,
+                        "order": 15
+                    },
+                    {
+                        "id": "131.703",
+                        "name": "Fili",
+                        "lat": 55.744263,
+                        "lng": 37.514526,
+                        "order": 16
+                    },
+                    {
+                        "id": "131.704",
+                        "name": "Kuntsevskaya",
+                        "lat": 55.730554,
+                        "lng": 37.445591,
+                        "order": 17
+                    },
+                    {
+                        "id": "131.705",
+                        "name": "Rabochiy Posyolok",
+                        "lat": 55.726957,
+                        "lng": 37.415577,
                         "order": 18
                     },
                     {
-                        "id": "3.182",
-                        "name": "Volokolamskaya",
-                        "lat": 55.835154,
-                        "lng": 37.382453,
+                        "id": "131.706",
+                        "name": "Setun",
+                        "lat": 55.723713,
+                        "lng": 37.397259,
                         "order": 19
                     },
                     {
-                        "id": "3.183",
-                        "name": "Mitino",
-                        "lat": 55.846098,
-                        "lng": 37.36122,
+                        "id": "131.707",
+                        "name": "Nemchinovka",
+                        "lat": 55.715668,
+                        "lng": 37.374611,
                         "order": 20
                     },
                     {
-                        "id": "3.463",
-                        "name": "Pyatnitskoye Shosse",
-                        "lat": 55.853634,
-                        "lng": 37.353108,
+                        "id": "131.708",
+                        "name": "Skolkovo",
+                        "lat": 55.666801,
+                        "lng": 37.424618,
                         "order": 21
+                    },
+                    {
+                        "id": "131.709",
+                        "name": "Bakovka",
+                        "lat": 55.682816,
+                        "lng": 37.315205,
+                        "order": 22
+                    },
+                    {
+                        "id": "131.710",
+                        "name": "Odintsovo",
+                        "lat": 55.67798,
+                        "lng": 37.27773,
+                        "order": 23
+                    },
+                    {
+                        "id": "131.801",
+                        "name": "Slavyansky Boulevard",
+                        "lat": 55.729722,
+                        "lng": 37.470556,
+                        "order": 24
+                    }
+                ]
+            },
+            {
+                "id": "96",
+                "hex_color": "006DA8",
+                "name": "Monorail",
+                "stations": [
+                    {
+                        "id": "96.549",
+                        "name": "Timiryazevskaya",
+                        "lat": 55.819049,
+                        "lng": 37.578882,
+                        "order": 0
+                    },
+                    {
+                        "id": "96.550",
+                        "name": "Ulitsa Milashenkova",
+                        "lat": 55.821876,
+                        "lng": 37.591206,
+                        "order": 1
+                    },
+                    {
+                        "id": "96.551",
+                        "name": "Television Center",
+                        "lat": 55.821795,
+                        "lng": 37.608975,
+                        "order": 2
+                    },
+                    {
+                        "id": "96.552",
+                        "name": "Ulitsa Akademika Koroleva",
+                        "lat": 55.821821,
+                        "lng": 37.627167,
+                        "order": 3
+                    },
+                    {
+                        "id": "96.553",
+                        "name": "Exhibition Center",
+                        "lat": 55.824086,
+                        "lng": 37.638494,
+                        "order": 4
+                    },
+                    {
+                        "id": "96.554",
+                        "name": "Ulitsa Sergeya Eisensteina",
+                        "lat": 55.829305,
+                        "lng": 37.644997,
+                        "order": 5
+                    }
+                ]
+            },
+            {
+                "id": "132",
+                "hex_color": "E74683",
+                "name": "D2",
+                "stations": [
+                    {
+                        "id": "132.711",
+                        "name": "Nakhabino",
+                        "lat": 55.841522,
+                        "lng": 37.185204,
+                        "order": 0
+                    },
+                    {
+                        "id": "132.712",
+                        "name": "Anikeevka",
+                        "lat": 55.832099,
+                        "lng": 37.219829,
+                        "order": 1
+                    },
+                    {
+                        "id": "132.713",
+                        "name": "Opalikha",
+                        "lat": 55.82333,
+                        "lng": 37.246843,
+                        "order": 2
+                    },
+                    {
+                        "id": "132.714",
+                        "name": "Krasnogorskaya",
+                        "lat": 55.814571,
+                        "lng": 37.303337,
+                        "order": 3
+                    },
+                    {
+                        "id": "132.715",
+                        "name": "Pavshino",
+                        "lat": 55.815231,
+                        "lng": 37.341461,
+                        "order": 4
+                    },
+                    {
+                        "id": "132.716",
+                        "name": "Penyagino",
+                        "lat": 55.822539,
+                        "lng": 37.361049,
+                        "order": 5
+                    },
+                    {
+                        "id": "132.717",
+                        "name": "Volokolamskaya",
+                        "lat": 55.835154,
+                        "lng": 37.382453,
+                        "order": 6
+                    },
+                    {
+                        "id": "132.718",
+                        "name": "Tushinskaya",
+                        "lat": 55.825479,
+                        "lng": 37.437024,
+                        "order": 7
+                    },
+                    {
+                        "id": "132.719",
+                        "name": "Pokrovskoe-Streshnevo",
+                        "lat": 55.814247,
+                        "lng": 37.47678,
+                        "order": 8
+                    },
+                    {
+                        "id": "132.720",
+                        "name": "Streshnevo",
+                        "lat": 55.813611,
+                        "lng": 37.486944,
+                        "order": 9
+                    },
+                    {
+                        "id": "132.721",
+                        "name": "Krasniy Baltiets",
+                        "lat": 55.815514,
+                        "lng": 37.526367,
+                        "order": 10
+                    },
+                    {
+                        "id": "132.722",
+                        "name": "Grazhdanskaya",
+                        "lat": 55.805527,
+                        "lng": 37.55315,
+                        "order": 11
+                    },
+                    {
+                        "id": "132.723",
+                        "name": "Dmitrovskaya",
+                        "lat": 55.808056,
+                        "lng": 37.581734,
+                        "order": 12
+                    },
+                    {
+                        "id": "132.724",
+                        "name": "Rizhskaya",
+                        "lat": 55.792494,
+                        "lng": 37.636114,
+                        "order": 13
+                    },
+                    {
+                        "id": "132.725",
+                        "name": "Kalanchyovskaya",
+                        "lat": 55.77667,
+                        "lng": 37.65111,
+                        "order": 14
+                    },
+                    {
+                        "id": "132.726",
+                        "name": "Kurskaya",
+                        "lat": 55.757622,
+                        "lng": 37.660767,
+                        "order": 15
+                    },
+                    {
+                        "id": "132.727",
+                        "name": "Moskva-Tovarnaya",
+                        "lat": 55.745358,
+                        "lng": 37.688839,
+                        "order": 16
+                    },
+                    {
+                        "id": "132.728",
+                        "name": "Kalitniki",
+                        "lat": 55.733981,
+                        "lng": 37.702203,
+                        "order": 17
+                    },
+                    {
+                        "id": "132.729",
+                        "name": "Novokhokhlovskaya",
+                        "lat": 55.718523,
+                        "lng": 37.719236,
+                        "order": 18
+                    },
+                    {
+                        "id": "132.730",
+                        "name": "Tekstilschiki",
+                        "lat": 55.708934,
+                        "lng": 37.731283,
+                        "order": 19
+                    },
+                    {
+                        "id": "132.731",
+                        "name": "Lyublino",
+                        "lat": 55.676596,
+                        "lng": 37.761639,
+                        "order": 20
+                    },
+                    {
+                        "id": "132.732",
+                        "name": "Depo",
+                        "lat": 55.674257,
+                        "lng": 37.728446,
+                        "order": 21
+                    },
+                    {
+                        "id": "132.733",
+                        "name": "Pererva",
+                        "lat": 55.660809,
+                        "lng": 37.716278,
+                        "order": 22
+                    },
+                    {
+                        "id": "132.734",
+                        "name": "Moskvorechye",
+                        "lat": 55.641239,
+                        "lng": 37.689789,
+                        "order": 23
+                    },
+                    {
+                        "id": "132.735",
+                        "name": "Tsaritsyno",
+                        "lat": 55.618309,
+                        "lng": 37.668846,
+                        "order": 24
+                    },
+                    {
+                        "id": "132.736",
+                        "name": "Pokrovskoe",
+                        "lat": 55.814247,
+                        "lng": 37.47678,
+                        "order": 25
+                    },
+                    {
+                        "id": "132.737",
+                        "name": "Krasniy Stroitel",
+                        "lat": 55.589455,
+                        "lng": 37.615093,
+                        "order": 26
+                    },
+                    {
+                        "id": "132.738",
+                        "name": "Bitsa",
+                        "lat": 55.571186,
+                        "lng": 37.611443,
+                        "order": 27
+                    },
+                    {
+                        "id": "132.739",
+                        "name": "Butovo",
+                        "lat": 55.548279,
+                        "lng": 37.555668,
+                        "order": 28
+                    },
+                    {
+                        "id": "132.740",
+                        "name": "Scherbinka",
+                        "lat": 55.509724,
+                        "lng": 37.562008,
+                        "order": 29
+                    },
+                    {
+                        "id": "132.741",
+                        "name": "Ostafyevo",
+                        "lat": 55.50337,
+                        "lng": 37.520055,
+                        "order": 30
+                    },
+                    {
+                        "id": "132.742",
+                        "name": "Silikatnaya",
+                        "lat": 55.470278,
+                        "lng": 37.555278,
+                        "order": 31
+                    },
+                    {
+                        "id": "132.743",
+                        "name": "Podolsk",
+                        "lat": 55.431667,
+                        "lng": 37.565,
+                        "order": 32
+                    },
+                    {
+                        "id": "132.744",
+                        "name": "Trikotazhnaya",
+                        "lat": 55.833137,
+                        "lng": 37.398967,
+                        "order": 33
+                    },
+                    {
+                        "id": "132.807",
+                        "name": "Kuryanovo",
+                        "lat": 55.649722,
+                        "lng": 37.701667,
+                        "order": 34
                     }
                 ]
             },
@@ -1181,443 +2084,226 @@
                 ]
             },
             {
-                "id": "9",
-                "hex_color": "ADACAC",
-                "name": "Serpukhovsko-Timiryazevskaya",
+                "id": "95",
+                "hex_color": "CC4C6E",
+                "name": "Moscow Central Circle",
                 "stations": [
                     {
-                        "id": "9.9",
-                        "name": "Altufievo",
-                        "lat": 55.899034,
-                        "lng": 37.586473,
+                        "id": "95.515",
+                        "name": "Okruzhnaya",
+                        "lat": 55.848889,
+                        "lng": 37.571111,
                         "order": 0
                     },
                     {
-                        "id": "9.22",
-                        "name": "Bibirevo",
-                        "lat": 55.883868,
-                        "lng": 37.603011,
+                        "id": "95.516",
+                        "name": "Vladykino",
+                        "lat": 55.847222,
+                        "lng": 37.591944,
                         "order": 1
                     },
                     {
-                        "id": "9.97",
-                        "name": "Otradnoe",
-                        "lat": 55.864273,
-                        "lng": 37.605066,
+                        "id": "95.517",
+                        "name": "Botanichesky Sad",
+                        "lat": 55.845556,
+                        "lng": 37.640278,
                         "order": 2
                     },
                     {
-                        "id": "9.28",
-                        "name": "Vladykino",
-                        "lat": 55.848236,
-                        "lng": 37.590451,
+                        "id": "95.518",
+                        "name": "Rostokino",
+                        "lat": 55.839444,
+                        "lng": 37.667778,
                         "order": 3
                     },
                     {
-                        "id": "9.108",
-                        "name": "Petrovsko-Razumovskaya",
-                        "lat": 55.836565,
-                        "lng": 37.575512,
+                        "id": "95.519",
+                        "name": "Belokamennaya",
+                        "lat": 55.83,
+                        "lng": 37.700556,
                         "order": 4
                     },
                     {
-                        "id": "9.141",
-                        "name": "Timiryazevskaya",
-                        "lat": 55.81866,
-                        "lng": 37.574498,
+                        "id": "95.520",
+                        "name": "Bulvar Rokossovskogo",
+                        "lat": 55.817222,
+                        "lng": 37.736944,
                         "order": 5
                     },
                     {
-                        "id": "9.35",
-                        "name": "Dmitrovskaya",
-                        "lat": 55.808056,
-                        "lng": 37.581734,
+                        "id": "95.521",
+                        "name": "Lokomotiv",
+                        "lat": 55.803219,
+                        "lng": 37.745742,
                         "order": 6
                     },
                     {
-                        "id": "9.128",
-                        "name": "Savyolovskaya",
-                        "lat": 55.794054,
-                        "lng": 37.587163,
+                        "id": "95.522",
+                        "name": "Izmaylovo",
+                        "lat": 55.788611,
+                        "lng": 37.742778,
                         "order": 7
                     },
                     {
-                        "id": "9.83",
-                        "name": "Mendeleevskaya",
-                        "lat": 55.781999,
-                        "lng": 37.599141,
+                        "id": "95.523",
+                        "name": "Sokolinaya Gora",
+                        "lat": 55.77,
+                        "lng": 37.745278,
                         "order": 8
                     },
                     {
-                        "id": "9.154",
-                        "name": "Tsvetnoy Bul'var",
-                        "lat": 55.771653,
-                        "lng": 37.620466,
+                        "id": "95.524",
+                        "name": "Shosse Entuziastov",
+                        "lat": 55.758633,
+                        "lng": 37.748477,
                         "order": 9
                     },
                     {
-                        "id": "9.123",
-                        "name": "Chekhovskaya",
-                        "lat": 55.765747,
-                        "lng": 37.608493,
+                        "id": "95.525",
+                        "name": "Andronovka",
+                        "lat": 55.741111,
+                        "lng": 37.734444,
                         "order": 10
                     },
                     {
-                        "id": "9.7",
-                        "name": "Borovitskaya",
-                        "lat": 55.750399,
-                        "lng": 37.60934,
+                        "id": "95.526",
+                        "name": "Nizhegorodskaya",
+                        "lat": 55.732222,
+                        "lng": 37.72825,
                         "order": 11
                     },
                     {
-                        "id": "9.115",
-                        "name": "Polyanka",
-                        "lat": 55.736795,
-                        "lng": 37.618594,
+                        "id": "95.527",
+                        "name": "Novokhokhlovskaya",
+                        "lat": 55.723889,
+                        "lng": 37.716111,
                         "order": 12
                     },
                     {
-                        "id": "9.37",
-                        "name": "Serpukhovskaya",
-                        "lat": 55.726548,
-                        "lng": 37.624792,
+                        "id": "95.528",
+                        "name": "Ugreshskaya",
+                        "lat": 55.718333,
+                        "lng": 37.697778,
                         "order": 13
                     },
                     {
-                        "id": "9.142",
-                        "name": "Tulskaya",
-                        "lat": 55.70961,
-                        "lng": 37.622569,
+                        "id": "95.529",
+                        "name": "Dubrovka",
+                        "lat": 55.71268,
+                        "lng": 37.677775,
                         "order": 14
                     },
                     {
-                        "id": "9.85",
-                        "name": "Nagatinskaya",
-                        "lat": 55.682099,
-                        "lng": 37.620917,
+                        "id": "95.530",
+                        "name": "Avtozavodskaya",
+                        "lat": 55.70631,
+                        "lng": 37.66314,
                         "order": 15
                     },
                     {
-                        "id": "9.86",
-                        "name": "Nagornaya",
-                        "lat": 55.672962,
-                        "lng": 37.610397,
+                        "id": "95.531",
+                        "name": "ZIL",
+                        "lat": 55.698333,
+                        "lng": 37.648333,
                         "order": 16
                     },
                     {
-                        "id": "9.87",
-                        "name": "Nakhimovskiy Prospekt",
-                        "lat": 55.662379,
-                        "lng": 37.605274,
+                        "id": "95.532",
+                        "name": "Verkhniye Kotly",
+                        "lat": 55.69,
+                        "lng": 37.618889,
                         "order": 17
                     },
                     {
-                        "id": "9.43",
-                        "name": "Sevastopolskaya",
-                        "lat": 55.651451,
-                        "lng": 37.59809,
+                        "id": "95.533",
+                        "name": "Krymskaya",
+                        "lat": 55.690038,
+                        "lng": 37.605,
                         "order": 18
                     },
                     {
-                        "id": "9.156",
-                        "name": "Chertanovskaya",
-                        "lat": 55.640538,
-                        "lng": 37.606065,
+                        "id": "95.534",
+                        "name": "Ploshchad Gagarina",
+                        "lat": 55.706944,
+                        "lng": 37.585833,
                         "order": 19
                     },
                     {
-                        "id": "9.163",
-                        "name": "Yuzhnaya",
-                        "lat": 55.622436,
-                        "lng": 37.609047,
+                        "id": "95.535",
+                        "name": "Luzhniki",
+                        "lat": 55.720278,
+                        "lng": 37.563056,
                         "order": 20
                     },
                     {
-                        "id": "9.116",
-                        "name": "Prazhskaya",
-                        "lat": 55.610962,
-                        "lng": 37.602386,
+                        "id": "95.536",
+                        "name": "Kutuzovskaya",
+                        "lat": 55.740833,
+                        "lng": 37.533333,
                         "order": 21
                     },
                     {
-                        "id": "9.147",
-                        "name": "Ulitsa Akademika Yangelya",
-                        "lat": 55.596753,
-                        "lng": 37.601498,
+                        "id": "95.537",
+                        "name": "Business Center",
+                        "lat": 55.747222,
+                        "lng": 37.532222,
                         "order": 22
                     },
                     {
-                        "id": "9.10",
-                        "name": "Annino",
-                        "lat": 55.583477,
-                        "lng": 37.596999,
+                        "id": "95.538",
+                        "name": "Shelepikha",
+                        "lat": 55.7575,
+                        "lng": 37.525556,
                         "order": 23
                     },
                     {
-                        "id": "9.170",
-                        "name": "Bul'var Dmitriya Donskogo",
-                        "lat": 55.568201,
-                        "lng": 37.576856,
+                        "id": "95.539",
+                        "name": "Khoroshevo",
+                        "lat": 55.777222,
+                        "lng": 37.507222,
                         "order": 24
-                    }
-                ]
-            },
-            {
-                "id": "7",
-                "hex_color": "943E90",
-                "name": "Tagansko-Krasnopresnenskaya",
-                "stations": [
-                    {
-                        "id": "7.111",
-                        "name": "Planernaya",
-                        "lat": 55.859676,
-                        "lng": 37.436808,
-                        "order": 0
                     },
                     {
-                        "id": "7.138",
-                        "name": "Skhodnenskaya",
-                        "lat": 55.84926,
-                        "lng": 37.44076,
-                        "order": 1
+                        "id": "95.540",
+                        "name": "Zorge",
+                        "lat": 55.787778,
+                        "lng": 37.504444,
+                        "order": 25
                     },
                     {
-                        "id": "7.145",
-                        "name": "Tushinskaya",
-                        "lat": 55.825479,
-                        "lng": 37.437024,
-                        "order": 2
+                        "id": "95.541",
+                        "name": "Panfilovskaya",
+                        "lat": 55.799167,
+                        "lng": 37.498889,
+                        "order": 26
                     },
                     {
-                        "id": "7.507",
-                        "name": "Spartak",
-                        "lat": 55.8182,
-                        "lng": 37.4352,
-                        "order": 3
+                        "id": "95.542",
+                        "name": "Streshnevo",
+                        "lat": 55.813611,
+                        "lng": 37.486944,
+                        "order": 27
                     },
                     {
-                        "id": "7.160",
-                        "name": "Schukinskaya",
-                        "lat": 55.8094,
-                        "lng": 37.463241,
-                        "order": 4
+                        "id": "95.543",
+                        "name": "Baltiyskaya",
+                        "lat": 55.825833,
+                        "lng": 37.496111,
+                        "order": 28
                     },
                     {
-                        "id": "7.95",
-                        "name": "Oktyabr'skoye Pole",
-                        "lat": 55.793581,
-                        "lng": 37.493317,
-                        "order": 5
+                        "id": "95.544",
+                        "name": "Koptevo",
+                        "lat": 55.839637,
+                        "lng": 37.520037,
+                        "order": 29
                     },
                     {
-                        "id": "7.114",
-                        "name": "Polezhaevskaya",
-                        "lat": 55.777201,
-                        "lng": 37.517895,
-                        "order": 6
-                    },
-                    {
-                        "id": "7.18",
-                        "name": "Begovaya",
-                        "lat": 55.773505,
-                        "lng": 37.545518,
-                        "order": 7
-                    },
-                    {
-                        "id": "7.146",
-                        "name": "Ulitsa 1905 Goda",
-                        "lat": 55.763944,
-                        "lng": 37.562271,
-                        "order": 8
-                    },
-                    {
-                        "id": "7.16",
-                        "name": "Barrikadnaya",
-                        "lat": 55.760793,
-                        "lng": 37.581242,
-                        "order": 9
-                    },
-                    {
-                        "id": "7.124",
-                        "name": "Pushkinskaya",
-                        "lat": 55.765607,
-                        "lng": 37.604356,
-                        "order": 10
-                    },
-                    {
-                        "id": "7.67",
-                        "name": "Kuznetskiy Most",
-                        "lat": 55.761498,
-                        "lng": 37.624423,
-                        "order": 11
-                    },
-                    {
-                        "id": "7.51",
-                        "name": "Kitay-gorod",
-                        "lat": 55.75436,
-                        "lng": 37.633877,
-                        "order": 12
-                    },
-                    {
-                        "id": "7.77",
-                        "name": "Taganskaya",
-                        "lat": 55.739502,
-                        "lng": 37.653605,
-                        "order": 13
-                    },
-                    {
-                        "id": "7.62",
-                        "name": "Proletarskaya",
-                        "lat": 55.731546,
-                        "lng": 37.666917,
-                        "order": 14
-                    },
-                    {
-                        "id": "7.31",
-                        "name": "Volgogradskiy Prospekt",
-                        "lat": 55.725546,
-                        "lng": 37.685197,
-                        "order": 15
-                    },
-                    {
-                        "id": "7.139",
-                        "name": "Textilschiki",
-                        "lat": 55.709211,
-                        "lng": 37.732117,
-                        "order": 16
-                    },
-                    {
-                        "id": "7.68",
-                        "name": "Kuzminki",
-                        "lat": 55.705493,
-                        "lng": 37.763295,
-                        "order": 17
-                    },
-                    {
-                        "id": "7.127",
-                        "name": "Ryazanskiy Prospekt",
-                        "lat": 55.716139,
-                        "lng": 37.792694,
-                        "order": 18
-                    },
-                    {
-                        "id": "7.33",
-                        "name": "Vykhino",
-                        "lat": 55.715983,
-                        "lng": 37.816788,
-                        "order": 19
-                    },
-                    {
-                        "id": "7.464",
-                        "name": "Lermontovsky Prospekt ",
-                        "lat": 55.702036,
-                        "lng": 37.851044,
-                        "order": 20
-                    },
-                    {
-                        "id": "7.465",
-                        "name": "Zhulebino",
-                        "lat": 55.684722,
-                        "lng": 37.855833,
-                        "order": 21
-                    },
-                    {
-                        "id": "7.508",
-                        "name": "Kotelniki",
-                        "lat": 55.6743,
-                        "lng": 37.8582,
-                        "order": 22
-                    }
-                ]
-            },
-            {
-                "id": "5",
-                "hex_color": "915133",
-                "name": "Kol'tsevaya",
-                "stations": [
-                    {
-                        "id": "5.82",
-                        "name": "Novoslobodskaya",
-                        "lat": 55.779606,
-                        "lng": 37.601252,
-                        "order": 0
-                    },
-                    {
-                        "id": "5.119",
-                        "name": "Prospekt Mira",
-                        "lat": 55.779584,
-                        "lng": 37.633646,
-                        "order": 1
-                    },
-                    {
-                        "id": "5.55",
-                        "name": "Komsomolskaya",
-                        "lat": 55.775672,
-                        "lng": 37.654772,
-                        "order": 2
-                    },
-                    {
-                        "id": "5.71",
-                        "name": "Kurskaya",
-                        "lat": 55.758631,
-                        "lng": 37.661059,
-                        "order": 3
-                    },
-                    {
-                        "id": "5.76",
-                        "name": "Taganskaya",
-                        "lat": 55.742396,
-                        "lng": 37.653334,
-                        "order": 4
-                    },
-                    {
-                        "id": "5.102",
-                        "name": "Paveletskaya",
-                        "lat": 55.731414,
-                        "lng": 37.636294,
-                        "order": 5
-                    },
-                    {
-                        "id": "5.36",
-                        "name": "Dobryninskaya",
-                        "lat": 55.728994,
-                        "lng": 37.622533,
-                        "order": 6
-                    },
-                    {
-                        "id": "5.93",
-                        "name": "Oktyabr'skaya",
-                        "lat": 55.729264,
-                        "lng": 37.611049,
-                        "order": 7
-                    },
-                    {
-                        "id": "5.104",
-                        "name": "Park Kultury",
-                        "lat": 55.735221,
-                        "lng": 37.593095,
-                        "order": 8
-                    },
-                    {
-                        "id": "5.49",
-                        "name": "Kievskaya",
-                        "lat": 55.74361,
-                        "lng": 37.56735,
-                        "order": 10
-                    },
-                    {
-                        "id": "5.58",
-                        "name": "Krasnopresnenskaya",
-                        "lat": 55.760378,
-                        "lng": 37.577114,
-                        "order": 11
-                    },
-                    {
-                        "id": "5.20",
-                        "name": "Belorusskaya",
-                        "lat": 55.775179,
-                        "lng": 37.582303,
-                        "order": 12
+                        "id": "95.545",
+                        "name": "Likhobory",
+                        "lat": 55.847222,
+                        "lng": 37.551389,
+                        "order": 30
                     }
                 ]
             },
@@ -1965,933 +2651,247 @@
                 ]
             },
             {
-                "id": "95",
-                "hex_color": "CC4C6E",
-                "name": "Moscow Central Circle",
+                "id": "9",
+                "hex_color": "ADACAC",
+                "name": "Serpukhovsko-Timiryazevskaya",
                 "stations": [
                     {
-                        "id": "95.515",
-                        "name": "Okruzhnaya",
-                        "lat": 55.848889,
-                        "lng": 37.571111,
+                        "id": "9.9",
+                        "name": "Altufievo",
+                        "lat": 55.899034,
+                        "lng": 37.586473,
                         "order": 0
                     },
                     {
-                        "id": "95.516",
+                        "id": "9.22",
+                        "name": "Bibirevo",
+                        "lat": 55.883868,
+                        "lng": 37.603011,
+                        "order": 1
+                    },
+                    {
+                        "id": "9.97",
+                        "name": "Otradnoe",
+                        "lat": 55.864273,
+                        "lng": 37.605066,
+                        "order": 2
+                    },
+                    {
+                        "id": "9.28",
                         "name": "Vladykino",
-                        "lat": 55.847222,
-                        "lng": 37.591944,
-                        "order": 1
-                    },
-                    {
-                        "id": "95.517",
-                        "name": "Botanichesky Sad",
-                        "lat": 55.845556,
-                        "lng": 37.640278,
-                        "order": 2
-                    },
-                    {
-                        "id": "95.518",
-                        "name": "Rostokino",
-                        "lat": 55.839444,
-                        "lng": 37.667778,
+                        "lat": 55.848236,
+                        "lng": 37.590451,
                         "order": 3
                     },
                     {
-                        "id": "95.519",
-                        "name": "Belokamennaya",
-                        "lat": 55.83,
-                        "lng": 37.700556,
+                        "id": "9.108",
+                        "name": "Petrovsko-Razumovskaya",
+                        "lat": 55.836565,
+                        "lng": 37.575512,
                         "order": 4
                     },
                     {
-                        "id": "95.520",
-                        "name": "Bulvar Rokossovskogo",
-                        "lat": 55.817222,
-                        "lng": 37.736944,
-                        "order": 5
-                    },
-                    {
-                        "id": "95.521",
-                        "name": "Lokomotiv",
-                        "lat": 55.803219,
-                        "lng": 37.745742,
-                        "order": 6
-                    },
-                    {
-                        "id": "95.522",
-                        "name": "Izmaylovo",
-                        "lat": 55.788611,
-                        "lng": 37.742778,
-                        "order": 7
-                    },
-                    {
-                        "id": "95.523",
-                        "name": "Sokolinaya Gora",
-                        "lat": 55.77,
-                        "lng": 37.745278,
-                        "order": 8
-                    },
-                    {
-                        "id": "95.524",
-                        "name": "Shosse Entuziastov",
-                        "lat": 55.758633,
-                        "lng": 37.748477,
-                        "order": 9
-                    },
-                    {
-                        "id": "95.525",
-                        "name": "Andronovka",
-                        "lat": 55.741111,
-                        "lng": 37.734444,
-                        "order": 10
-                    },
-                    {
-                        "id": "95.526",
-                        "name": "Nizhegorodskaya",
-                        "lat": 55.732222,
-                        "lng": 37.72825,
-                        "order": 11
-                    },
-                    {
-                        "id": "95.527",
-                        "name": "Novokhokhlovskaya",
-                        "lat": 55.723889,
-                        "lng": 37.716111,
-                        "order": 12
-                    },
-                    {
-                        "id": "95.528",
-                        "name": "Ugreshskaya",
-                        "lat": 55.718333,
-                        "lng": 37.697778,
-                        "order": 13
-                    },
-                    {
-                        "id": "95.529",
-                        "name": "Dubrovka",
-                        "lat": 55.71268,
-                        "lng": 37.677775,
-                        "order": 14
-                    },
-                    {
-                        "id": "95.530",
-                        "name": "Avtozavodskaya",
-                        "lat": 55.70631,
-                        "lng": 37.66314,
-                        "order": 15
-                    },
-                    {
-                        "id": "95.531",
-                        "name": "ZIL",
-                        "lat": 55.698333,
-                        "lng": 37.648333,
-                        "order": 16
-                    },
-                    {
-                        "id": "95.532",
-                        "name": "Verkhniye Kotly",
-                        "lat": 55.69,
-                        "lng": 37.618889,
-                        "order": 17
-                    },
-                    {
-                        "id": "95.533",
-                        "name": "Krymskaya",
-                        "lat": 55.690038,
-                        "lng": 37.605,
-                        "order": 18
-                    },
-                    {
-                        "id": "95.534",
-                        "name": "Ploshchad Gagarina",
-                        "lat": 55.706944,
-                        "lng": 37.585833,
-                        "order": 19
-                    },
-                    {
-                        "id": "95.535",
-                        "name": "Luzhniki",
-                        "lat": 55.720278,
-                        "lng": 37.563056,
-                        "order": 20
-                    },
-                    {
-                        "id": "95.536",
-                        "name": "Kutuzovskaya",
-                        "lat": 55.740833,
-                        "lng": 37.533333,
-                        "order": 21
-                    },
-                    {
-                        "id": "95.537",
-                        "name": "Business Center",
-                        "lat": 55.747222,
-                        "lng": 37.532222,
-                        "order": 22
-                    },
-                    {
-                        "id": "95.538",
-                        "name": "Shelepikha",
-                        "lat": 55.7575,
-                        "lng": 37.525556,
-                        "order": 23
-                    },
-                    {
-                        "id": "95.539",
-                        "name": "Khoroshevo",
-                        "lat": 55.777222,
-                        "lng": 37.507222,
-                        "order": 24
-                    },
-                    {
-                        "id": "95.540",
-                        "name": "Zorge",
-                        "lat": 55.787778,
-                        "lng": 37.504444,
-                        "order": 25
-                    },
-                    {
-                        "id": "95.541",
-                        "name": "Panfilovskaya",
-                        "lat": 55.799167,
-                        "lng": 37.498889,
-                        "order": 26
-                    },
-                    {
-                        "id": "95.542",
-                        "name": "Streshnevo",
-                        "lat": 55.813611,
-                        "lng": 37.486944,
-                        "order": 27
-                    },
-                    {
-                        "id": "95.543",
-                        "name": "Baltiyskaya",
-                        "lat": 55.825833,
-                        "lng": 37.496111,
-                        "order": 28
-                    },
-                    {
-                        "id": "95.544",
-                        "name": "Koptevo",
-                        "lat": 55.839637,
-                        "lng": 37.520037,
-                        "order": 29
-                    },
-                    {
-                        "id": "95.545",
-                        "name": "Likhobory",
-                        "lat": 55.847222,
-                        "lng": 37.551389,
-                        "order": 30
-                    }
-                ]
-            },
-            {
-                "id": "96",
-                "hex_color": "006DA8",
-                "name": "Monorail",
-                "stations": [
-                    {
-                        "id": "96.549",
-                        "name": "Timiryazevskaya",
-                        "lat": 55.819049,
-                        "lng": 37.578882,
-                        "order": 0
-                    },
-                    {
-                        "id": "96.550",
-                        "name": "Ulitsa Milashenkova",
-                        "lat": 55.821876,
-                        "lng": 37.591206,
-                        "order": 1
-                    },
-                    {
-                        "id": "96.551",
-                        "name": "Television Center",
-                        "lat": 55.821795,
-                        "lng": 37.608975,
-                        "order": 2
-                    },
-                    {
-                        "id": "96.552",
-                        "name": "Ulitsa Akademika Koroleva",
-                        "lat": 55.821821,
-                        "lng": 37.627167,
-                        "order": 3
-                    },
-                    {
-                        "id": "96.553",
-                        "name": "Exhibition Center",
-                        "lat": 55.824086,
-                        "lng": 37.638494,
-                        "order": 4
-                    },
-                    {
-                        "id": "96.554",
-                        "name": "Ulitsa Sergeya Eisensteina",
-                        "lat": 55.829305,
-                        "lng": 37.644997,
-                        "order": 5
-                    }
-                ]
-            },
-            {
-                "id": "97",
-                "hex_color": "88CDCF",
-                "name": "Bolshaya Koltsevaya line",
-                "stations": [
-                    {
-                        "id": "97.599",
-                        "name": "Petrovsky Park",
-                        "lat": 55.79233,
-                        "lng": 37.55952,
-                        "order": 0
-                    },
-                    {
-                        "id": "97.600",
-                        "name": "CSKA",
-                        "lat": 55.78643,
-                        "lng": 37.53502,
-                        "order": 1
-                    },
-                    {
-                        "id": "97.601",
-                        "name": "Khoroshevskaya",
-                        "lat": 55.77643,
-                        "lng": 37.51981,
-                        "order": 2
-                    },
-                    {
-                        "id": "97.602",
-                        "name": "Shelepikha",
-                        "lat": 55.75723,
-                        "lng": 37.52571,
-                        "order": 3
-                    },
-                    {
-                        "id": "97.603",
-                        "name": "Business center",
-                        "lat": 55.7491,
-                        "lng": 37.5395,
-                        "order": 4
-                    },
-                    {
-                        "id": "97.685",
-                        "name": "Savyolovskaya",
-                        "lat": 55.794054,
-                        "lng": 37.587163,
-                        "order": 5
-                    },
-                    {
-                        "id": "97.803",
-                        "name": "Elektrozavodskaya",
-                        "lat": 55.782057,
-                        "lng": 37.7053,
-                        "order": 6
-                    },
-                    {
-                        "id": "97.805",
-                        "name": "Mnevniki",
-                        "lat": 55.761153,
-                        "lng": 37.47139,
-                        "order": 7
-                    },
-                    {
-                        "id": "97.806",
-                        "name": "People's Militia",
-                        "lat": 55.775278,
-                        "lng": 39.484444,
-                        "order": 8
-                    },
-                    {
-                        "id": "97.809",
-                        "name": "Terekhovo",
-                        "lat": 55.749167,
-                        "lng": 38.460556,
-                        "order": 9
-                    },
-                    {
-                        "id": "97.810",
-                        "name": "Kuntsevskaya",
-                        "lat": 55.730278,
-                        "lng": 37.445833,
-                        "order": 10
-                    },
-                    {
-                        "id": "97.811",
-                        "name": "Davydkovo",
-                        "lat": 55.765278,
-                        "lng": 37.451667,
-                        "order": 11
-                    },
-                    {
-                        "id": "97.812",
-                        "name": "Aminyevskaya",
-                        "lat": 55.697222,
-                        "lng": 37.464167,
-                        "order": 12
-                    },
-                    {
-                        "id": "97.813",
-                        "name": "Michurinskiy Prospekt",
-                        "lat": 55.688333,
-                        "lng": 37.485,
-                        "order": 13
-                    },
-                    {
-                        "id": "97.814",
-                        "name": "Prospekt Vernadskogo",
-                        "lat": 55.677778,
-                        "lng": 37.505,
-                        "order": 14
-                    },
-                    {
-                        "id": "97.815",
-                        "name": "Novatorskaya",
-                        "lat": 55.670833,
-                        "lng": 37.52,
-                        "order": 15
-                    },
-                    {
-                        "id": "97.816",
-                        "name": "Vorontsovskaya",
-                        "lat": 55.658333,
-                        "lng": 37.540833,
-                        "order": 16
-                    },
-                    {
-                        "id": "97.817",
-                        "name": "Zyuzino",
-                        "lat": 55.489722,
-                        "lng": 37.572222,
-                        "order": 17
-                    },
-                    {
-                        "id": "97.818",
-                        "name": "Kakhovskaya",
-                        "lat": 55.653056,
-                        "lng": 37.598333,
-                        "order": 18
-                    }
-                ]
-            },
-            {
-                "id": "98",
-                "hex_color": "CC0066",
-                "name": "Nekrasovskaya",
-                "stations": [
-                    {
-                        "id": "98.675",
-                        "name": "Kosino",
-                        "lat": 55.7026,
-                        "lng": 37.8511,
-                        "order": 0
-                    },
-                    {
-                        "id": "98.676",
-                        "name": "Dmitriyevskogo Street ",
-                        "lat": 55.7093,
-                        "lng": 37.8792,
-                        "order": 1
-                    },
-                    {
-                        "id": "98.677",
-                        "name": "Lukhmanovskaya",
-                        "lat": 55.7078,
-                        "lng": 37.9004,
-                        "order": 2
-                    },
-                    {
-                        "id": "98.641",
-                        "name": "Nekrasovka",
-                        "lat": 55.7029,
-                        "lng": 37.9264,
-                        "order": 3
-                    },
-                    {
-                        "id": "98.762",
-                        "name": "Yugo-Vostochnaya",
-                        "lat": 55.71,
-                        "lng": 37.82,
-                        "order": 4
-                    },
-                    {
-                        "id": "98.763",
-                        "name": "Okskaya",
-                        "lat": 55.72,
-                        "lng": 37.77,
-                        "order": 5
-                    },
-                    {
-                        "id": "98.764",
-                        "name": "Stakhanovskaya",
-                        "lat": 55.73,
-                        "lng": 37.76,
-                        "order": 6
-                    },
-                    {
-                        "id": "98.765",
-                        "name": "Nizhegorodskaya",
-                        "lat": 55.73,
-                        "lng": 37.73,
-                        "order": 7
-                    },
-                    {
-                        "id": "98.800",
-                        "name": "Lefortovo",
-                        "lat": 55.764444,
-                        "lng": 37.702778,
-                        "order": 8
-                    },
-                    {
-                        "id": "98.802",
-                        "name": "Elektrozavodskaya",
-                        "lat": 55.782057,
-                        "lng": 37.7053,
-                        "order": 9
-                    },
-                    {
-                        "id": "98.804",
-                        "name": "Aviamotornaya",
-                        "lat": 55.751933,
-                        "lng": 37.717444,
-                        "order": 10
-                    }
-                ]
-            },
-            {
-                "id": "131",
-                "hex_color": "F5A528",
-                "name": "D1",
-                "stations": [
-                    {
-                        "id": "131.687",
-                        "name": "Lobnya",
-                        "lat": 56.0048,
-                        "lng": 37.29057,
-                        "order": 0
-                    },
-                    {
-                        "id": "131.688",
-                        "name": "Sheremetyevskaya",
-                        "lat": 55.983882,
-                        "lng": 37.498752,
-                        "order": 1
-                    },
-                    {
-                        "id": "131.689",
-                        "name": "Khlebnikovo",
-                        "lat": 55.970682,
-                        "lng": 37.504638,
-                        "order": 2
-                    },
-                    {
-                        "id": "131.690",
-                        "name": "Vodniki",
-                        "lat": 55.953419,
-                        "lng": 37.511143,
-                        "order": 3
-                    },
-                    {
-                        "id": "131.691",
-                        "name": "Dolgoprudnaya",
-                        "lat": 55.938656,
-                        "lng": 37.520542,
-                        "order": 4
-                    },
-                    {
-                        "id": "131.692",
-                        "name": "Novodachnaya",
-                        "lat": 55.924459,
-                        "lng": 37.527877,
-                        "order": 5
-                    },
-                    {
-                        "id": "131.693",
-                        "name": "Mark",
-                        "lat": 55.904458,
-                        "lng": 37.538242,
-                        "order": 6
-                    },
-                    {
-                        "id": "131.694",
-                        "name": "Lianozovo",
-                        "lat": 55.897316,
-                        "lng": 37.553261,
-                        "order": 7
-                    },
-                    {
-                        "id": "131.695",
-                        "name": "Beskudnikovo",
-                        "lat": 55.882713,
-                        "lng": 37.567768,
-                        "order": 8
-                    },
-                    {
-                        "id": "131.696",
-                        "name": "Degunino",
-                        "lat": 55.86586,
-                        "lng": 37.573235,
-                        "order": 9
-                    },
-                    {
-                        "id": "131.697",
-                        "name": "Okruzhnaya",
-                        "lat": 55.848889,
-                        "lng": 37.571111,
-                        "order": 10
-                    },
-                    {
-                        "id": "131.698",
+                        "id": "9.141",
                         "name": "Timiryazevskaya",
                         "lat": 55.81866,
                         "lng": 37.574498,
+                        "order": 5
+                    },
+                    {
+                        "id": "9.35",
+                        "name": "Dmitrovskaya",
+                        "lat": 55.808056,
+                        "lng": 37.581734,
+                        "order": 6
+                    },
+                    {
+                        "id": "9.128",
+                        "name": "Savyolovskaya",
+                        "lat": 55.794054,
+                        "lng": 37.587163,
+                        "order": 7
+                    },
+                    {
+                        "id": "9.83",
+                        "name": "Mendeleevskaya",
+                        "lat": 55.781999,
+                        "lng": 37.599141,
+                        "order": 8
+                    },
+                    {
+                        "id": "9.154",
+                        "name": "Tsvetnoy Bul'var",
+                        "lat": 55.771653,
+                        "lng": 37.620466,
+                        "order": 9
+                    },
+                    {
+                        "id": "9.123",
+                        "name": "Chekhovskaya",
+                        "lat": 55.765747,
+                        "lng": 37.608493,
+                        "order": 10
+                    },
+                    {
+                        "id": "9.7",
+                        "name": "Borovitskaya",
+                        "lat": 55.750399,
+                        "lng": 37.60934,
                         "order": 11
                     },
                     {
-                        "id": "131.699",
-                        "name": "Savyolovskaya",
-                        "lat": 55.793936,
-                        "lng": 37.587038,
+                        "id": "9.115",
+                        "name": "Polyanka",
+                        "lat": 55.736795,
+                        "lng": 37.618594,
                         "order": 12
                     },
                     {
-                        "id": "131.700",
-                        "name": "Belorusskaya",
-                        "lat": 55.775179,
-                        "lng": 37.582303,
+                        "id": "9.37",
+                        "name": "Serpukhovskaya",
+                        "lat": 55.726548,
+                        "lng": 37.624792,
                         "order": 13
                     },
                     {
-                        "id": "131.701",
-                        "name": "Begovaya",
-                        "lat": 55.773505,
-                        "lng": 37.545518,
+                        "id": "9.142",
+                        "name": "Tulskaya",
+                        "lat": 55.70961,
+                        "lng": 37.622569,
                         "order": 14
                     },
                     {
-                        "id": "131.702",
-                        "name": "Testovskaya",
-                        "lat": 55.754292,
-                        "lng": 37.531551,
+                        "id": "9.85",
+                        "name": "Nagatinskaya",
+                        "lat": 55.682099,
+                        "lng": 37.620917,
                         "order": 15
                     },
                     {
-                        "id": "131.703",
-                        "name": "Fili",
-                        "lat": 55.744263,
-                        "lng": 37.514526,
+                        "id": "9.86",
+                        "name": "Nagornaya",
+                        "lat": 55.672962,
+                        "lng": 37.610397,
                         "order": 16
                     },
                     {
-                        "id": "131.704",
-                        "name": "Kuntsevskaya",
-                        "lat": 55.730554,
-                        "lng": 37.445591,
+                        "id": "9.87",
+                        "name": "Nakhimovskiy Prospekt",
+                        "lat": 55.662379,
+                        "lng": 37.605274,
                         "order": 17
                     },
                     {
-                        "id": "131.705",
-                        "name": "Rabochiy Posyolok",
-                        "lat": 55.726957,
-                        "lng": 37.415577,
+                        "id": "9.43",
+                        "name": "Sevastopolskaya",
+                        "lat": 55.651451,
+                        "lng": 37.59809,
                         "order": 18
                     },
                     {
-                        "id": "131.706",
-                        "name": "Setun",
-                        "lat": 55.723713,
-                        "lng": 37.397259,
+                        "id": "9.156",
+                        "name": "Chertanovskaya",
+                        "lat": 55.640538,
+                        "lng": 37.606065,
                         "order": 19
                     },
                     {
-                        "id": "131.707",
-                        "name": "Nemchinovka",
-                        "lat": 55.715668,
-                        "lng": 37.374611,
+                        "id": "9.163",
+                        "name": "Yuzhnaya",
+                        "lat": 55.622436,
+                        "lng": 37.609047,
                         "order": 20
                     },
                     {
-                        "id": "131.708",
-                        "name": "Skolkovo",
-                        "lat": 55.666801,
-                        "lng": 37.424618,
+                        "id": "9.116",
+                        "name": "Prazhskaya",
+                        "lat": 55.610962,
+                        "lng": 37.602386,
                         "order": 21
                     },
                     {
-                        "id": "131.709",
-                        "name": "Bakovka",
-                        "lat": 55.682816,
-                        "lng": 37.315205,
+                        "id": "9.147",
+                        "name": "Ulitsa Akademika Yangelya",
+                        "lat": 55.596753,
+                        "lng": 37.601498,
                         "order": 22
                     },
                     {
-                        "id": "131.710",
-                        "name": "Odintsovo",
-                        "lat": 55.67798,
-                        "lng": 37.27773,
+                        "id": "9.10",
+                        "name": "Annino",
+                        "lat": 55.583477,
+                        "lng": 37.596999,
                         "order": 23
                     },
                     {
-                        "id": "131.801",
-                        "name": "Slavyansky Boulevard",
-                        "lat": 55.729722,
-                        "lng": 37.470556,
+                        "id": "9.170",
+                        "name": "Bul'var Dmitriya Donskogo",
+                        "lat": 55.568201,
+                        "lng": 37.576856,
                         "order": 24
                     }
                 ]
             },
             {
-                "id": "132",
-                "hex_color": "E74683",
-                "name": "D2",
+                "id": "8",
+                "hex_color": "FFCD1C",
+                "name": "Kalininskaya",
                 "stations": [
                     {
-                        "id": "132.711",
-                        "name": "Nakhabino",
-                        "lat": 55.841522,
-                        "lng": 37.185204,
+                        "id": "8.189",
+                        "name": "Novokosino",
+                        "lat": 55.745113,
+                        "lng": 37.864052,
                         "order": 0
                     },
                     {
-                        "id": "132.712",
-                        "name": "Anikeevka",
-                        "lat": 55.832099,
-                        "lng": 37.219829,
+                        "id": "8.88",
+                        "name": "Novogireevo",
+                        "lat": 55.752237,
+                        "lng": 37.814587,
                         "order": 1
                     },
                     {
-                        "id": "132.713",
-                        "name": "Opalikha",
-                        "lat": 55.82333,
-                        "lng": 37.246843,
+                        "id": "8.107",
+                        "name": "Perovo",
+                        "lat": 55.75098,
+                        "lng": 37.78422,
                         "order": 2
                     },
                     {
-                        "id": "132.714",
-                        "name": "Krasnogorskaya",
-                        "lat": 55.814571,
-                        "lng": 37.303337,
+                        "id": "8.158",
+                        "name": "Shosse Entuziastov",
+                        "lat": 55.75809,
+                        "lng": 37.751703,
                         "order": 3
                     },
                     {
-                        "id": "132.715",
-                        "name": "Pavshino",
-                        "lat": 55.815231,
-                        "lng": 37.341461,
+                        "id": "8.1",
+                        "name": "Aviamotornaya",
+                        "lat": 55.751933,
+                        "lng": 37.717444,
                         "order": 4
                     },
                     {
-                        "id": "132.716",
-                        "name": "Penyagino",
-                        "lat": 55.822539,
-                        "lng": 37.361049,
+                        "id": "8.112",
+                        "name": "Ploschad Il'icha",
+                        "lat": 55.747115,
+                        "lng": 37.680726,
                         "order": 5
                     },
                     {
-                        "id": "132.717",
-                        "name": "Volokolamskaya",
-                        "lat": 55.835154,
-                        "lng": 37.382453,
+                        "id": "8.78",
+                        "name": "Marksistskaya",
+                        "lat": 55.740746,
+                        "lng": 37.65604,
                         "order": 6
                     },
                     {
-                        "id": "132.718",
-                        "name": "Tushinskaya",
-                        "lat": 55.825479,
-                        "lng": 37.437024,
+                        "id": "8.91",
+                        "name": "Tret'yakovskaya",
+                        "lat": 55.741125,
+                        "lng": 37.626142,
                         "order": 7
-                    },
-                    {
-                        "id": "132.719",
-                        "name": "Pokrovskoe-Streshnevo",
-                        "lat": 55.814247,
-                        "lng": 37.47678,
-                        "order": 8
-                    },
-                    {
-                        "id": "132.720",
-                        "name": "Streshnevo",
-                        "lat": 55.813611,
-                        "lng": 37.486944,
-                        "order": 9
-                    },
-                    {
-                        "id": "132.721",
-                        "name": "Krasniy Baltiets",
-                        "lat": 55.815514,
-                        "lng": 37.526367,
-                        "order": 10
-                    },
-                    {
-                        "id": "132.722",
-                        "name": "Grazhdanskaya",
-                        "lat": 55.805527,
-                        "lng": 37.55315,
-                        "order": 11
-                    },
-                    {
-                        "id": "132.723",
-                        "name": "Dmitrovskaya",
-                        "lat": 55.808056,
-                        "lng": 37.581734,
-                        "order": 12
-                    },
-                    {
-                        "id": "132.724",
-                        "name": "Rizhskaya",
-                        "lat": 55.792494,
-                        "lng": 37.636114,
-                        "order": 13
-                    },
-                    {
-                        "id": "132.725",
-                        "name": "Kalanchyovskaya",
-                        "lat": 55.77667,
-                        "lng": 37.65111,
-                        "order": 14
-                    },
-                    {
-                        "id": "132.726",
-                        "name": "Kurskaya",
-                        "lat": 55.757622,
-                        "lng": 37.660767,
-                        "order": 15
-                    },
-                    {
-                        "id": "132.727",
-                        "name": "Moskva-Tovarnaya",
-                        "lat": 55.745358,
-                        "lng": 37.688839,
-                        "order": 16
-                    },
-                    {
-                        "id": "132.728",
-                        "name": "Kalitniki",
-                        "lat": 55.733981,
-                        "lng": 37.702203,
-                        "order": 17
-                    },
-                    {
-                        "id": "132.729",
-                        "name": "Novokhokhlovskaya",
-                        "lat": 55.718523,
-                        "lng": 37.719236,
-                        "order": 18
-                    },
-                    {
-                        "id": "132.730",
-                        "name": "Tekstilschiki",
-                        "lat": 55.708934,
-                        "lng": 37.731283,
-                        "order": 19
-                    },
-                    {
-                        "id": "132.731",
-                        "name": "Lyublino",
-                        "lat": 55.676596,
-                        "lng": 37.761639,
-                        "order": 20
-                    },
-                    {
-                        "id": "132.732",
-                        "name": "Depo",
-                        "lat": 55.674257,
-                        "lng": 37.728446,
-                        "order": 21
-                    },
-                    {
-                        "id": "132.733",
-                        "name": "Pererva",
-                        "lat": 55.660809,
-                        "lng": 37.716278,
-                        "order": 22
-                    },
-                    {
-                        "id": "132.734",
-                        "name": "Moskvorechye",
-                        "lat": 55.641239,
-                        "lng": 37.689789,
-                        "order": 23
-                    },
-                    {
-                        "id": "132.735",
-                        "name": "Tsaritsyno",
-                        "lat": 55.618309,
-                        "lng": 37.668846,
-                        "order": 24
-                    },
-                    {
-                        "id": "132.736",
-                        "name": "Pokrovskoe",
-                        "lat": 55.814247,
-                        "lng": 37.47678,
-                        "order": 25
-                    },
-                    {
-                        "id": "132.737",
-                        "name": "Krasniy Stroitel",
-                        "lat": 55.589455,
-                        "lng": 37.615093,
-                        "order": 26
-                    },
-                    {
-                        "id": "132.738",
-                        "name": "Bitsa",
-                        "lat": 55.571186,
-                        "lng": 37.611443,
-                        "order": 27
-                    },
-                    {
-                        "id": "132.739",
-                        "name": "Butovo",
-                        "lat": 55.548279,
-                        "lng": 37.555668,
-                        "order": 28
-                    },
-                    {
-                        "id": "132.740",
-                        "name": "Scherbinka",
-                        "lat": 55.509724,
-                        "lng": 37.562008,
-                        "order": 29
-                    },
-                    {
-                        "id": "132.741",
-                        "name": "Ostafyevo",
-                        "lat": 55.50337,
-                        "lng": 37.520055,
-                        "order": 30
-                    },
-                    {
-                        "id": "132.742",
-                        "name": "Silikatnaya",
-                        "lat": 55.470278,
-                        "lng": 37.555278,
-                        "order": 31
-                    },
-                    {
-                        "id": "132.743",
-                        "name": "Podolsk",
-                        "lat": 55.431667,
-                        "lng": 37.565,
-                        "order": 32
-                    },
-                    {
-                        "id": "132.744",
-                        "name": "Trikotazhnaya",
-                        "lat": 55.833137,
-                        "lng": 37.398967,
-                        "order": 33
-                    },
-                    {
-                        "id": "132.807",
-                        "name": "Kuryanovo",
-                        "lat": 55.649722,
-                        "lng": 37.701667,
-                        "order": 34
                     }
                 ]
             }
@@ -3239,6 +3239,251 @@
         "url": "https://api.hh.ru/metro/2?locale=EN",
         "lines": [
             {
+                "id": "18",
+                "hex_color": "702785",
+                "name": "Frunzensko-Primorskaya",
+                "stations": [
+                    {
+                        "id": "18.245",
+                        "name": "Komendantskiy Prospekt",
+                        "lat": 60.008591,
+                        "lng": 30.258663,
+                        "order": 0
+                    },
+                    {
+                        "id": "18.246",
+                        "name": "Staraya Derevnya",
+                        "lat": 59.989433,
+                        "lng": 30.255163,
+                        "order": 1
+                    },
+                    {
+                        "id": "18.247",
+                        "name": "Krestovskiy Ostrov",
+                        "lat": 59.971821,
+                        "lng": 30.259436,
+                        "order": 2
+                    },
+                    {
+                        "id": "18.248",
+                        "name": "Chkalovskaya",
+                        "lat": 59.961033,
+                        "lng": 30.292006,
+                        "order": 3
+                    },
+                    {
+                        "id": "18.249",
+                        "name": "Sportivnaya",
+                        "lat": 59.952026,
+                        "lng": 30.291338,
+                        "order": 4
+                    },
+                    {
+                        "id": "18.258",
+                        "name": "Admiralteyskaya",
+                        "lat": 59.935867,
+                        "lng": 30.31523,
+                        "order": 5
+                    },
+                    {
+                        "id": "18.250",
+                        "name": "Sadovaya",
+                        "lat": 59.926739,
+                        "lng": 30.317753,
+                        "order": 6
+                    },
+                    {
+                        "id": "18.251",
+                        "name": "Zvenigorodskaya",
+                        "lat": 59.92065,
+                        "lng": 30.329599,
+                        "order": 7
+                    },
+                    {
+                        "id": "18.252",
+                        "name": "Obvodny Kanal",
+                        "lat": 59.914686,
+                        "lng": 30.34815,
+                        "order": 8
+                    },
+                    {
+                        "id": "18.253",
+                        "name": "Volkovskaya",
+                        "lat": 59.896023,
+                        "lng": 30.35754,
+                        "order": 9
+                    },
+                    {
+                        "id": "18.259",
+                        "name": "Bukharestskaya",
+                        "lat": 59.883769,
+                        "lng": 30.368932,
+                        "order": 10
+                    },
+                    {
+                        "id": "18.260",
+                        "name": "Mezhdunarodnaya",
+                        "lat": 59.870203,
+                        "lng": 30.379289,
+                        "order": 11
+                    },
+                    {
+                        "id": "18.682",
+                        "name": "Dunayskaya",
+                        "lat": 59.839889,
+                        "lng": 30.410667,
+                        "order": 12
+                    },
+                    {
+                        "id": "18.683",
+                        "name": "Slavy Prospekt",
+                        "lat": 59.856704,
+                        "lng": 30.395402,
+                        "order": 13
+                    },
+                    {
+                        "id": "18.684",
+                        "name": "Shushary",
+                        "lat": 59.819973,
+                        "lng": 30.432718,
+                        "order": 14
+                    }
+                ]
+            },
+            {
+                "id": "15",
+                "hex_color": "0078C9",
+                "name": "Moskovsko-Petrogradskaya",
+                "stations": [
+                    {
+                        "id": "15.209",
+                        "name": "Parnas",
+                        "lat": 60.06699,
+                        "lng": 30.333839,
+                        "order": 0
+                    },
+                    {
+                        "id": "15.210",
+                        "name": "Prospect Prosvescheniya",
+                        "lat": 60.051456,
+                        "lng": 30.332544,
+                        "order": 1
+                    },
+                    {
+                        "id": "15.211",
+                        "name": "Ozerki",
+                        "lat": 60.037098,
+                        "lng": 30.321495,
+                        "order": 2
+                    },
+                    {
+                        "id": "15.212",
+                        "name": "Udel'naya",
+                        "lat": 60.016697,
+                        "lng": 30.315607,
+                        "order": 3
+                    },
+                    {
+                        "id": "15.213",
+                        "name": "Pionerskaya",
+                        "lat": 60.002487,
+                        "lng": 30.296759,
+                        "order": 4
+                    },
+                    {
+                        "id": "15.214",
+                        "name": "Chyornaya Rechka",
+                        "lat": 59.985455,
+                        "lng": 30.300833,
+                        "order": 5
+                    },
+                    {
+                        "id": "15.215",
+                        "name": "Petrogradskaya",
+                        "lat": 59.966389,
+                        "lng": 30.311293,
+                        "order": 6
+                    },
+                    {
+                        "id": "15.216",
+                        "name": "Gor'kovskaya",
+                        "lat": 59.956112,
+                        "lng": 30.31889,
+                        "order": 7
+                    },
+                    {
+                        "id": "15.217",
+                        "name": "Nevskiy Prospekt",
+                        "lat": 59.935421,
+                        "lng": 30.327052,
+                        "order": 8
+                    },
+                    {
+                        "id": "15.218",
+                        "name": "Sennaya Ploschad'",
+                        "lat": 59.927135,
+                        "lng": 30.320316,
+                        "order": 9
+                    },
+                    {
+                        "id": "15.219",
+                        "name": "Tekhnologichesky Institut 2",
+                        "lat": 59.916512,
+                        "lng": 30.318485,
+                        "order": 10
+                    },
+                    {
+                        "id": "15.220",
+                        "name": "Frunzenskaya",
+                        "lat": 59.906273,
+                        "lng": 30.31745,
+                        "order": 11
+                    },
+                    {
+                        "id": "15.221",
+                        "name": "Moskovskiye Vorota",
+                        "lat": 59.891788,
+                        "lng": 30.317873,
+                        "order": 12
+                    },
+                    {
+                        "id": "15.222",
+                        "name": "Elektrosila",
+                        "lat": 59.879189,
+                        "lng": 30.318659,
+                        "order": 13
+                    },
+                    {
+                        "id": "15.223",
+                        "name": "Park Pobedy",
+                        "lat": 59.866344,
+                        "lng": 30.321802,
+                        "order": 14
+                    },
+                    {
+                        "id": "15.224",
+                        "name": "Moskovskaya",
+                        "lat": 59.848873,
+                        "lng": 30.321483,
+                        "order": 15
+                    },
+                    {
+                        "id": "15.225",
+                        "name": "Zvyozdnaya",
+                        "lat": 59.833241,
+                        "lng": 30.349428,
+                        "order": 16
+                    },
+                    {
+                        "id": "15.226",
+                        "name": "Kupchino",
+                        "lat": 59.829781,
+                        "lng": 30.375702,
+                        "order": 17
+                    }
+                ]
+            },
+            {
                 "id": "14",
                 "hex_color": "D6083B",
                 "name": "Kirovsko-Vyborgskaya",
@@ -3379,135 +3624,65 @@
                 ]
             },
             {
-                "id": "15",
-                "hex_color": "0078C9",
-                "name": "Moskovsko-Petrogradskaya",
+                "id": "17",
+                "hex_color": "EA7125",
+                "name": "Pravoberezhnaya",
                 "stations": [
                     {
-                        "id": "15.209",
-                        "name": "Parnas",
-                        "lat": 60.06699,
-                        "lng": 30.333839,
+                        "id": "17.237",
+                        "name": "Spasskaya",
+                        "lat": 59.927135,
+                        "lng": 30.320316,
                         "order": 0
                     },
                     {
-                        "id": "15.210",
-                        "name": "Prospect Prosvescheniya",
-                        "lat": 60.051456,
-                        "lng": 30.332544,
+                        "id": "17.238",
+                        "name": "Dostoyevskaya",
+                        "lat": 59.928234,
+                        "lng": 30.346029,
                         "order": 1
                     },
                     {
-                        "id": "15.211",
-                        "name": "Ozerki",
-                        "lat": 60.037098,
-                        "lng": 30.321495,
+                        "id": "17.239",
+                        "name": "Ligovskiy Prospekt",
+                        "lat": 59.920811,
+                        "lng": 30.355055,
                         "order": 2
                     },
                     {
-                        "id": "15.212",
-                        "name": "Udel'naya",
-                        "lat": 60.016697,
-                        "lng": 30.315607,
+                        "id": "17.240",
+                        "name": "Ploschad' Alexandra Nevskogo II",
+                        "lat": 59.923563,
+                        "lng": 30.383421,
                         "order": 3
                     },
                     {
-                        "id": "15.213",
-                        "name": "Pionerskaya",
-                        "lat": 60.002487,
-                        "lng": 30.296759,
+                        "id": "17.241",
+                        "name": "Novocherkasskaya",
+                        "lat": 59.929092,
+                        "lng": 30.411915,
                         "order": 4
                     },
                     {
-                        "id": "15.214",
-                        "name": "Chyornaya Rechka",
-                        "lat": 59.985455,
-                        "lng": 30.300833,
+                        "id": "17.242",
+                        "name": "Ladozhskaya",
+                        "lat": 59.93243,
+                        "lng": 30.439274,
                         "order": 5
                     },
                     {
-                        "id": "15.215",
-                        "name": "Petrogradskaya",
-                        "lat": 59.966389,
-                        "lng": 30.311293,
+                        "id": "17.243",
+                        "name": "Prospekt Bol'shevikov",
+                        "lat": 59.919838,
+                        "lng": 30.466757,
                         "order": 6
                     },
                     {
-                        "id": "15.216",
-                        "name": "Gor'kovskaya",
-                        "lat": 59.956112,
-                        "lng": 30.31889,
+                        "id": "17.244",
+                        "name": "Ulitsa Dybenko",
+                        "lat": 59.907417,
+                        "lng": 30.483311,
                         "order": 7
-                    },
-                    {
-                        "id": "15.217",
-                        "name": "Nevskiy Prospekt",
-                        "lat": 59.935421,
-                        "lng": 30.327052,
-                        "order": 8
-                    },
-                    {
-                        "id": "15.218",
-                        "name": "Sennaya Ploschad'",
-                        "lat": 59.927135,
-                        "lng": 30.320316,
-                        "order": 9
-                    },
-                    {
-                        "id": "15.219",
-                        "name": "Tekhnologichesky Institut 2",
-                        "lat": 59.916512,
-                        "lng": 30.318485,
-                        "order": 10
-                    },
-                    {
-                        "id": "15.220",
-                        "name": "Frunzenskaya",
-                        "lat": 59.906273,
-                        "lng": 30.31745,
-                        "order": 11
-                    },
-                    {
-                        "id": "15.221",
-                        "name": "Moskovskiye Vorota",
-                        "lat": 59.891788,
-                        "lng": 30.317873,
-                        "order": 12
-                    },
-                    {
-                        "id": "15.222",
-                        "name": "Elektrosila",
-                        "lat": 59.879189,
-                        "lng": 30.318659,
-                        "order": 13
-                    },
-                    {
-                        "id": "15.223",
-                        "name": "Park Pobedy",
-                        "lat": 59.866344,
-                        "lng": 30.321802,
-                        "order": 14
-                    },
-                    {
-                        "id": "15.224",
-                        "name": "Moskovskaya",
-                        "lat": 59.848873,
-                        "lng": 30.321483,
-                        "order": 15
-                    },
-                    {
-                        "id": "15.225",
-                        "name": "Zvyozdnaya",
-                        "lat": 59.833241,
-                        "lng": 30.349428,
-                        "order": 16
-                    },
-                    {
-                        "id": "15.226",
-                        "name": "Kupchino",
-                        "lat": 59.829781,
-                        "lng": 30.375702,
-                        "order": 17
                     }
                 ]
             },
@@ -3601,181 +3776,6 @@
                         "order": 12
                     }
                 ]
-            },
-            {
-                "id": "17",
-                "hex_color": "EA7125",
-                "name": "Pravoberezhnaya",
-                "stations": [
-                    {
-                        "id": "17.237",
-                        "name": "Spasskaya",
-                        "lat": 59.927135,
-                        "lng": 30.320316,
-                        "order": 0
-                    },
-                    {
-                        "id": "17.238",
-                        "name": "Dostoyevskaya",
-                        "lat": 59.928234,
-                        "lng": 30.346029,
-                        "order": 1
-                    },
-                    {
-                        "id": "17.239",
-                        "name": "Ligovskiy Prospekt",
-                        "lat": 59.920811,
-                        "lng": 30.355055,
-                        "order": 2
-                    },
-                    {
-                        "id": "17.240",
-                        "name": "Ploschad' Alexandra Nevskogo II",
-                        "lat": 59.923563,
-                        "lng": 30.383421,
-                        "order": 3
-                    },
-                    {
-                        "id": "17.241",
-                        "name": "Novocherkasskaya",
-                        "lat": 59.929092,
-                        "lng": 30.411915,
-                        "order": 4
-                    },
-                    {
-                        "id": "17.242",
-                        "name": "Ladozhskaya",
-                        "lat": 59.93243,
-                        "lng": 30.439274,
-                        "order": 5
-                    },
-                    {
-                        "id": "17.243",
-                        "name": "Prospekt Bol'shevikov",
-                        "lat": 59.919838,
-                        "lng": 30.466757,
-                        "order": 6
-                    },
-                    {
-                        "id": "17.244",
-                        "name": "Ulitsa Dybenko",
-                        "lat": 59.907417,
-                        "lng": 30.483311,
-                        "order": 7
-                    }
-                ]
-            },
-            {
-                "id": "18",
-                "hex_color": "702785",
-                "name": "Frunzensko-Primorskaya",
-                "stations": [
-                    {
-                        "id": "18.245",
-                        "name": "Komendantskiy Prospekt",
-                        "lat": 60.008591,
-                        "lng": 30.258663,
-                        "order": 0
-                    },
-                    {
-                        "id": "18.246",
-                        "name": "Staraya Derevnya",
-                        "lat": 59.989433,
-                        "lng": 30.255163,
-                        "order": 1
-                    },
-                    {
-                        "id": "18.247",
-                        "name": "Krestovskiy Ostrov",
-                        "lat": 59.971821,
-                        "lng": 30.259436,
-                        "order": 2
-                    },
-                    {
-                        "id": "18.248",
-                        "name": "Chkalovskaya",
-                        "lat": 59.961033,
-                        "lng": 30.292006,
-                        "order": 3
-                    },
-                    {
-                        "id": "18.249",
-                        "name": "Sportivnaya",
-                        "lat": 59.952026,
-                        "lng": 30.291338,
-                        "order": 4
-                    },
-                    {
-                        "id": "18.258",
-                        "name": "Admiralteyskaya",
-                        "lat": 59.935867,
-                        "lng": 30.31523,
-                        "order": 5
-                    },
-                    {
-                        "id": "18.250",
-                        "name": "Sadovaya",
-                        "lat": 59.926739,
-                        "lng": 30.317753,
-                        "order": 6
-                    },
-                    {
-                        "id": "18.251",
-                        "name": "Zvenigorodskaya",
-                        "lat": 59.92065,
-                        "lng": 30.329599,
-                        "order": 7
-                    },
-                    {
-                        "id": "18.252",
-                        "name": "Obvodny Kanal",
-                        "lat": 59.914686,
-                        "lng": 30.34815,
-                        "order": 8
-                    },
-                    {
-                        "id": "18.253",
-                        "name": "Volkovskaya",
-                        "lat": 59.896023,
-                        "lng": 30.35754,
-                        "order": 9
-                    },
-                    {
-                        "id": "18.259",
-                        "name": "Bukharestskaya",
-                        "lat": 59.883769,
-                        "lng": 30.368932,
-                        "order": 10
-                    },
-                    {
-                        "id": "18.260",
-                        "name": "Mezhdunarodnaya",
-                        "lat": 59.870203,
-                        "lng": 30.379289,
-                        "order": 11
-                    },
-                    {
-                        "id": "18.682",
-                        "name": "Dunayskaya",
-                        "lat": 59.839889,
-                        "lng": 30.410667,
-                        "order": 12
-                    },
-                    {
-                        "id": "18.683",
-                        "name": "Slavy Prospekt",
-                        "lat": 59.856704,
-                        "lng": 30.395402,
-                        "order": 13
-                    },
-                    {
-                        "id": "18.684",
-                        "name": "Shushary",
-                        "lat": 59.819973,
-                        "lng": 30.432718,
-                        "order": 14
-                    }
-                ]
             }
         ]
     },
@@ -3784,139 +3784,6 @@
         "name": "Kyiv",
         "url": "https://api.hh.ru/metro/115?locale=EN",
         "lines": [
-            {
-                "id": "55",
-                "hex_color": "CD0505",
-                "name": "Sviatoshynsko-Brovarska",
-                "stations": [
-                    {
-                        "id": "55.316",
-                        "name": "Akademgorodok",
-                        "lat": 50.464784,
-                        "lng": 30.355511,
-                        "order": 0
-                    },
-                    {
-                        "id": "55.317",
-                        "name": "Zhytomyrska",
-                        "lat": 50.455884,
-                        "lng": 30.36479,
-                        "order": 1
-                    },
-                    {
-                        "id": "55.318",
-                        "name": "Sviatoshyn",
-                        "lat": 50.457685,
-                        "lng": 30.391776,
-                        "order": 2
-                    },
-                    {
-                        "id": "55.319",
-                        "name": "Nyvky",
-                        "lat": 50.458602,
-                        "lng": 30.405682,
-                        "order": 3
-                    },
-                    {
-                        "id": "55.320",
-                        "name": "Beresteiska",
-                        "lat": 50.458562,
-                        "lng": 30.420522,
-                        "order": 4
-                    },
-                    {
-                        "id": "55.321",
-                        "name": "Shuliavska",
-                        "lat": 50.454622,
-                        "lng": 30.445208,
-                        "order": 5
-                    },
-                    {
-                        "id": "55.322",
-                        "name": "Politekhnichnyi Instytut",
-                        "lat": 50.450814,
-                        "lng": 30.466327,
-                        "order": 6
-                    },
-                    {
-                        "id": "55.323",
-                        "name": "Vokzalna",
-                        "lat": 50.44178,
-                        "lng": 30.488273,
-                        "order": 7
-                    },
-                    {
-                        "id": "55.324",
-                        "name": "Universytet",
-                        "lat": 50.444401,
-                        "lng": 30.506006,
-                        "order": 8
-                    },
-                    {
-                        "id": "55.325",
-                        "name": "Teatralna",
-                        "lat": 50.445135,
-                        "lng": 30.518178,
-                        "order": 9
-                    },
-                    {
-                        "id": "55.326",
-                        "name": "Khreshchatyk",
-                        "lat": 50.447218,
-                        "lng": 30.524933,
-                        "order": 10
-                    },
-                    {
-                        "id": "55.327",
-                        "name": "Arsenalna",
-                        "lat": 50.444332,
-                        "lng": 30.545379,
-                        "order": 11
-                    },
-                    {
-                        "id": "55.328",
-                        "name": "Dnipro",
-                        "lat": 50.441217,
-                        "lng": 30.559374,
-                        "order": 12
-                    },
-                    {
-                        "id": "55.329",
-                        "name": "Hidropark",
-                        "lat": 50.445956,
-                        "lng": 30.57699,
-                        "order": 13
-                    },
-                    {
-                        "id": "55.330",
-                        "name": "Livoberezhna",
-                        "lat": 50.4518,
-                        "lng": 30.59811,
-                        "order": 14
-                    },
-                    {
-                        "id": "55.331",
-                        "name": "Darnytsia",
-                        "lat": 50.455924,
-                        "lng": 30.612905,
-                        "order": 15
-                    },
-                    {
-                        "id": "55.332",
-                        "name": "Chernihivska",
-                        "lat": 50.459852,
-                        "lng": 30.630269,
-                        "order": 16
-                    },
-                    {
-                        "id": "55.333",
-                        "name": "Lisova",
-                        "lat": 50.464629,
-                        "lng": 30.645541,
-                        "order": 17
-                    }
-                ]
-            },
             {
                 "id": "56",
                 "hex_color": "069CD3",
@@ -4046,6 +3913,139 @@
                         "name": "Teremki",
                         "lat": 50.367044,
                         "lng": 30.454203,
+                        "order": 17
+                    }
+                ]
+            },
+            {
+                "id": "55",
+                "hex_color": "CD0505",
+                "name": "Sviatoshynsko-Brovarska",
+                "stations": [
+                    {
+                        "id": "55.316",
+                        "name": "Akademgorodok",
+                        "lat": 50.464784,
+                        "lng": 30.355511,
+                        "order": 0
+                    },
+                    {
+                        "id": "55.317",
+                        "name": "Zhytomyrska",
+                        "lat": 50.455884,
+                        "lng": 30.36479,
+                        "order": 1
+                    },
+                    {
+                        "id": "55.318",
+                        "name": "Sviatoshyn",
+                        "lat": 50.457685,
+                        "lng": 30.391776,
+                        "order": 2
+                    },
+                    {
+                        "id": "55.319",
+                        "name": "Nyvky",
+                        "lat": 50.458602,
+                        "lng": 30.405682,
+                        "order": 3
+                    },
+                    {
+                        "id": "55.320",
+                        "name": "Beresteiska",
+                        "lat": 50.458562,
+                        "lng": 30.420522,
+                        "order": 4
+                    },
+                    {
+                        "id": "55.321",
+                        "name": "Shuliavska",
+                        "lat": 50.454622,
+                        "lng": 30.445208,
+                        "order": 5
+                    },
+                    {
+                        "id": "55.322",
+                        "name": "Politekhnichnyi Instytut",
+                        "lat": 50.450814,
+                        "lng": 30.466327,
+                        "order": 6
+                    },
+                    {
+                        "id": "55.323",
+                        "name": "Vokzalna",
+                        "lat": 50.44178,
+                        "lng": 30.488273,
+                        "order": 7
+                    },
+                    {
+                        "id": "55.324",
+                        "name": "Universytet",
+                        "lat": 50.444401,
+                        "lng": 30.506006,
+                        "order": 8
+                    },
+                    {
+                        "id": "55.325",
+                        "name": "Teatralna",
+                        "lat": 50.445135,
+                        "lng": 30.518178,
+                        "order": 9
+                    },
+                    {
+                        "id": "55.326",
+                        "name": "Khreshchatyk",
+                        "lat": 50.447218,
+                        "lng": 30.524933,
+                        "order": 10
+                    },
+                    {
+                        "id": "55.327",
+                        "name": "Arsenalna",
+                        "lat": 50.444332,
+                        "lng": 30.545379,
+                        "order": 11
+                    },
+                    {
+                        "id": "55.328",
+                        "name": "Dnipro",
+                        "lat": 50.441217,
+                        "lng": 30.559374,
+                        "order": 12
+                    },
+                    {
+                        "id": "55.329",
+                        "name": "Hidropark",
+                        "lat": 50.445956,
+                        "lng": 30.57699,
+                        "order": 13
+                    },
+                    {
+                        "id": "55.330",
+                        "name": "Livoberezhna",
+                        "lat": 50.4518,
+                        "lng": 30.59811,
+                        "order": 14
+                    },
+                    {
+                        "id": "55.331",
+                        "name": "Darnytsia",
+                        "lat": 50.455924,
+                        "lng": 30.612905,
+                        "order": 15
+                    },
+                    {
+                        "id": "55.332",
+                        "name": "Chernihivska",
+                        "lat": 50.459852,
+                        "lng": 30.630269,
+                        "order": 16
+                    },
+                    {
+                        "id": "55.333",
+                        "name": "Lisova",
+                        "lat": 50.464629,
+                        "lng": 30.645541,
                         "order": 17
                     }
                 ]
