@@ -22,14 +22,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 135,Kharkov,59,Kholodnohirsko-Zavodska,CD0505,59.383,"Imeni O.S. Maselskoho",49.958526,36.359787,10
 135,Kharkov,59,Kholodnohirsko-Zavodska,CD0505,59.384,"Traktornyi Zavod",49.952614,36.37876,11
 135,Kharkov,59,Kholodnohirsko-Zavodska,CD0505,59.385,Proletarska,49.946562,36.399062,12
-135,Kharkov,61,Oleksiivska,0A6F20,61.394,Oleksiivska,50.0496,36.20666,0
-135,Kharkov,61,Oleksiivska,0A6F20,61.395,"23 Serpnia",50.035524,36.220279,1
-135,Kharkov,61,Oleksiivska,0A6F20,61.396,"Botanichnyi Sad",50.026659,36.222938,2
-135,Kharkov,61,Oleksiivska,0A6F20,61.397,Naukova,50.013,36.226962,3
-135,Kharkov,61,Oleksiivska,0A6F20,61.398,Derzhprom,50.004797,36.231571,4
-135,Kharkov,61,Oleksiivska,0A6F20,61.399,"Arkhitektora Beketova",49.998966,36.240518,5
-135,Kharkov,61,Oleksiivska,0A6F20,61.400,"Ploshcha Povstannia",49.988652,36.264808,6
-135,Kharkov,61,Oleksiivska,0A6F20,61.401,"Metrobudivnykiv Imeni H.I. Vashchenko",49.978915,36.262823,7
 135,Kharkov,60,"Saltivska Line",069CD3,60.386,"Heroyiv Pratsi",50.025398,36.336287,0
 135,Kharkov,60,"Saltivska Line",069CD3,60.387,Studentska,50.017683,36.329972,1
 135,Kharkov,60,"Saltivska Line",069CD3,60.388,"Akademika Pavlova",50.008965,36.317755,2
@@ -38,18 +30,22 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 135,Kharkov,60,"Saltivska Line",069CD3,60.391,Pushkinska,50.003685,36.247489,5
 135,Kharkov,60,"Saltivska Line",069CD3,60.392,Universytet,50.004501,36.233781,6
 135,Kharkov,60,"Saltivska Line",069CD3,60.393,"Istorychnyi Muzey",49.992926,36.231211,7
-1,Moscow,5,"Kol'tsevaya",915133,5.82,Novoslobodskaya,55.779606,37.601252,0
-1,Moscow,5,"Kol'tsevaya",915133,5.119,"Prospekt Mira",55.779584,37.633646,1
-1,Moscow,5,"Kol'tsevaya",915133,5.55,Komsomolskaya,55.775672,37.654772,2
-1,Moscow,5,"Kol'tsevaya",915133,5.71,Kurskaya,55.758631,37.661059,3
-1,Moscow,5,"Kol'tsevaya",915133,5.76,Taganskaya,55.742396,37.653334,4
-1,Moscow,5,"Kol'tsevaya",915133,5.102,Paveletskaya,55.731414,37.636294,5
-1,Moscow,5,"Kol'tsevaya",915133,5.36,Dobryninskaya,55.728994,37.622533,6
-1,Moscow,5,"Kol'tsevaya",915133,5.93,"Oktyabr'skaya",55.729264,37.611049,7
-1,Moscow,5,"Kol'tsevaya",915133,5.104,"Park Kultury",55.735221,37.593095,8
-1,Moscow,5,"Kol'tsevaya",915133,5.49,Kievskaya,55.74361,37.56735,10
-1,Moscow,5,"Kol'tsevaya",915133,5.58,Krasnopresnenskaya,55.760378,37.577114,11
-1,Moscow,5,"Kol'tsevaya",915133,5.20,Belorusskaya,55.775179,37.582303,12
+135,Kharkov,61,Oleksiivska,0A6F20,61.394,Oleksiivska,50.0496,36.20666,0
+135,Kharkov,61,Oleksiivska,0A6F20,61.395,"23 Serpnia",50.035524,36.220279,1
+135,Kharkov,61,Oleksiivska,0A6F20,61.396,"Botanichnyi Sad",50.026659,36.222938,2
+135,Kharkov,61,Oleksiivska,0A6F20,61.397,Naukova,50.013,36.226962,3
+135,Kharkov,61,Oleksiivska,0A6F20,61.398,Derzhprom,50.004797,36.231571,4
+135,Kharkov,61,Oleksiivska,0A6F20,61.399,"Arkhitektora Beketova",49.998966,36.240518,5
+135,Kharkov,61,Oleksiivska,0A6F20,61.400,"Ploshcha Povstannia",49.988652,36.264808,6
+135,Kharkov,61,Oleksiivska,0A6F20,61.401,"Metrobudivnykiv Imeni H.I. Vashchenko",49.978915,36.262823,7
+1,Moscow,8,Kalininskaya,FFCD1C,8.189,Novokosino,55.745113,37.864052,0
+1,Moscow,8,Kalininskaya,FFCD1C,8.88,Novogireevo,55.752237,37.814587,1
+1,Moscow,8,Kalininskaya,FFCD1C,8.107,Perovo,55.75098,37.78422,2
+1,Moscow,8,Kalininskaya,FFCD1C,8.158,"Shosse Entuziastov",55.75809,37.751703,3
+1,Moscow,8,Kalininskaya,FFCD1C,8.1,Aviamotornaya,55.751933,37.717444,4
+1,Moscow,8,Kalininskaya,FFCD1C,8.112,"Ploschad Il'icha",55.747115,37.680726,5
+1,Moscow,8,Kalininskaya,FFCD1C,8.78,Marksistskaya,55.740746,37.65604,6
+1,Moscow,8,Kalininskaya,FFCD1C,8.91,"Tret'yakovskaya",55.741125,37.626142,7
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.558,Khovrino,55.8777,37.4877,0
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.674,Belomorskaya,55.8651,37.4764,1
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.125,"Rechnoy Vokzal",55.854152,37.476728,2
@@ -74,29 +70,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.38,Domodedovskaya,55.610131,37.717111,21
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.57,Krasnogvardeyskaya,55.614075,37.742697,22
 1,Moscow,2,Zamoskvoretskaya,4FB04F,2.257,Alma-Atinskaya,55.63349,37.765678,23
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.111,Planernaya,55.859676,37.436808,0
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.138,Skhodnenskaya,55.84926,37.44076,1
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.145,Tushinskaya,55.825479,37.437024,2
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.507,Spartak,55.8182,37.4352,3
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.160,Schukinskaya,55.8094,37.463241,4
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.95,"Oktyabr'skoye Pole",55.793581,37.493317,5
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.114,Polezhaevskaya,55.777201,37.517895,6
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.18,Begovaya,55.773505,37.545518,7
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.146,"Ulitsa 1905 Goda",55.763944,37.562271,8
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.16,Barrikadnaya,55.760793,37.581242,9
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.124,Pushkinskaya,55.765607,37.604356,10
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.67,"Kuznetskiy Most",55.761498,37.624423,11
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.51,Kitay-gorod,55.75436,37.633877,12
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.77,Taganskaya,55.739502,37.653605,13
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.62,Proletarskaya,55.731546,37.666917,14
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.31,"Volgogradskiy Prospekt",55.725546,37.685197,15
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.139,Textilschiki,55.709211,37.732117,16
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.68,Kuzminki,55.705493,37.763295,17
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.127,"Ryazanskiy Prospekt",55.716139,37.792694,18
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.33,Vykhino,55.715983,37.816788,19
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.464,"Lermontovsky Prospekt ",55.702036,37.851044,20
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.465,Zhulebino,55.684722,37.855833,21
-1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.508,Kotelniki,55.6743,37.8582,22
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.81,Medvedkovo,55.888103,37.661562,0
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.13,Babushkinskaya,55.870641,37.664341,1
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.129,Sviblovo,55.855558,37.653379,2
@@ -121,28 +94,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.140,"Tyoply Stan",55.61873,37.505912,21
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.164,Yasenevo,55.606182,37.5334,22
 1,Moscow,6,Kaluzhsko-Rizhskaya,F07E24,6.23,Novoyasenevskaya,55.601947,37.553017,23
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.159,Schelkovskaya,55.809962,37.798261,0
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.106,Pervomayskaya,55.794376,37.799364,1
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.40,Izmailovskaya,55.787713,37.779896,2
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.105,Partizanskaya,55.788401,37.74882,3
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.130,Semyonovskaya,55.783096,37.719289,4
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.161,Elektrozavodskaya,55.782057,37.7053,5
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.17,Baumanskaya,55.772405,37.67904,6
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.100,"Ploschad Revolutsii",55.756741,37.62236,7
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.70,Kurskaya,55.758564,37.659039,8
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.5,Arbatskaya,55.752312,37.60349,9
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.131,Smolenskaya,55.747713,37.583802,10
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.47,Kievskaya,55.743117,37.564132,11
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.173,"Park Pobedy",55.735679,37.516865,12
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.176,"Slavyanskiy Bul'var",55.729542,37.470973,13
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.69,Kuntsevskaya,55.730673,37.446522,14
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.84,Molodyozhnaya,55.741375,37.415627,15
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.65,Krylatskoe,55.756842,37.408139,16
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.174,Strogino,55.803831,37.402405,17
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.181,Myakinino,55.823342,37.385214,18
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.182,Volokolamskaya,55.835154,37.382453,19
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.183,Mitino,55.846098,37.36122,20
-1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.463,"Pyatnitskoye Shosse",55.853634,37.353108,21
 1,Moscow,1,Sokolnicheskaya,E42313,1.148," Bulvar Rokossovskogo",55.814916,37.732227,0
 1,Moscow,1,Sokolnicheskaya,E42313,1.155,Cherkizovskaya,55.802787,37.744863,1
 1,Moscow,1,Sokolnicheskaya,E42313,1.117,"Preobrazhenskaya Ploschad",55.796322,37.713582,2
@@ -169,102 +120,28 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,1,Sokolnicheskaya,E42313,1.679,"Prokshino ",55.5813,37.4425,23
 1,Moscow,1,Sokolnicheskaya,E42313,1.680,"Olkhovaya ",55.5692,37.4589,24
 1,Moscow,1,Sokolnicheskaya,E42313,1.681,Kommunarka,55.559765,37.468716,25
-1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
-1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street ",55.7093,37.8792,1
-1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2
-1,Moscow,98,Nekrasovskaya,CC0066,98.641,Nekrasovka,55.7029,37.9264,3
-1,Moscow,98,Nekrasovskaya,CC0066,98.762,Yugo-Vostochnaya,55.71,37.82,4
-1,Moscow,98,Nekrasovskaya,CC0066,98.763,Okskaya,55.72,37.77,5
-1,Moscow,98,Nekrasovskaya,CC0066,98.764,Stakhanovskaya,55.73,37.76,6
-1,Moscow,98,Nekrasovskaya,CC0066,98.765,Nizhegorodskaya,55.73,37.73,7
-1,Moscow,98,Nekrasovskaya,CC0066,98.800,Lefortovo,55.764444,37.702778,8
-1,Moscow,98,Nekrasovskaya,CC0066,98.802,Elektrozavodskaya,55.782057,37.7053,9
-1,Moscow,98,Nekrasovskaya,CC0066,98.804,Aviamotornaya,55.751933,37.717444,10
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.599,"Petrovsky Park",55.79233,37.55952,0
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.600,CSKA,55.78643,37.53502,1
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.601,Khoroshevskaya,55.77643,37.51981,2
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.602,Shelepikha,55.75723,37.52571,3
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,4
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.685,Savyolovskaya,55.794054,37.587163,5
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.803,Elektrozavodskaya,55.782057,37.7053,6
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,7
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775278,39.484444,8
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,Terekhovo,55.749167,38.460556,9
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,10
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.811,Davydkovo,55.765278,37.451667,11
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.812,Aminyevskaya,55.697222,37.464167,12
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.813,"Michurinskiy Prospekt",55.688333,37.485,13
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Prospekt Vernadskogo",55.677778,37.505,14
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,15
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.816,Vorontsovskaya,55.658333,37.540833,16
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.817,Zyuzino,55.489722,37.572222,17
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.818,Kakhovskaya,55.653056,37.598333,18
-1,Moscow,131,D1,F5A528,131.687,Lobnya,56.0048,37.29057,0
-1,Moscow,131,D1,F5A528,131.688,Sheremetyevskaya,55.983882,37.498752,1
-1,Moscow,131,D1,F5A528,131.689,Khlebnikovo,55.970682,37.504638,2
-1,Moscow,131,D1,F5A528,131.690,Vodniki,55.953419,37.511143,3
-1,Moscow,131,D1,F5A528,131.691,Dolgoprudnaya,55.938656,37.520542,4
-1,Moscow,131,D1,F5A528,131.692,Novodachnaya,55.924459,37.527877,5
-1,Moscow,131,D1,F5A528,131.693,Mark,55.904458,37.538242,6
-1,Moscow,131,D1,F5A528,131.694,Lianozovo,55.897316,37.553261,7
-1,Moscow,131,D1,F5A528,131.695,Beskudnikovo,55.882713,37.567768,8
-1,Moscow,131,D1,F5A528,131.696,Degunino,55.86586,37.573235,9
-1,Moscow,131,D1,F5A528,131.697,Okruzhnaya,55.848889,37.571111,10
-1,Moscow,131,D1,F5A528,131.698,Timiryazevskaya,55.81866,37.574498,11
-1,Moscow,131,D1,F5A528,131.699,Savyolovskaya,55.793936,37.587038,12
-1,Moscow,131,D1,F5A528,131.700,Belorusskaya,55.775179,37.582303,13
-1,Moscow,131,D1,F5A528,131.701,Begovaya,55.773505,37.545518,14
-1,Moscow,131,D1,F5A528,131.702,Testovskaya,55.754292,37.531551,15
-1,Moscow,131,D1,F5A528,131.703,Fili,55.744263,37.514526,16
-1,Moscow,131,D1,F5A528,131.704,Kuntsevskaya,55.730554,37.445591,17
-1,Moscow,131,D1,F5A528,131.705,"Rabochiy Posyolok",55.726957,37.415577,18
-1,Moscow,131,D1,F5A528,131.706,Setun,55.723713,37.397259,19
-1,Moscow,131,D1,F5A528,131.707,Nemchinovka,55.715668,37.374611,20
-1,Moscow,131,D1,F5A528,131.708,Skolkovo,55.666801,37.424618,21
-1,Moscow,131,D1,F5A528,131.709,Bakovka,55.682816,37.315205,22
-1,Moscow,131,D1,F5A528,131.710,Odintsovo,55.67798,37.27773,23
-1,Moscow,131,D1,F5A528,131.801,"Slavyansky Boulevard",55.729722,37.470556,24
-1,Moscow,96,Monorail,006DA8,96.549,Timiryazevskaya,55.819049,37.578882,0
-1,Moscow,96,Monorail,006DA8,96.550,"Ulitsa Milashenkova",55.821876,37.591206,1
-1,Moscow,96,Monorail,006DA8,96.551,"Television Center",55.821795,37.608975,2
-1,Moscow,96,Monorail,006DA8,96.552,"Ulitsa Akademika Koroleva",55.821821,37.627167,3
-1,Moscow,96,Monorail,006DA8,96.553,"Exhibition Center",55.824086,37.638494,4
-1,Moscow,96,Monorail,006DA8,96.554,"Ulitsa Sergeya Eisensteina",55.829305,37.644997,5
-1,Moscow,132,D2,E74683,132.711,Nakhabino,55.841522,37.185204,0
-1,Moscow,132,D2,E74683,132.712,Anikeevka,55.832099,37.219829,1
-1,Moscow,132,D2,E74683,132.713,Opalikha,55.82333,37.246843,2
-1,Moscow,132,D2,E74683,132.714,Krasnogorskaya,55.814571,37.303337,3
-1,Moscow,132,D2,E74683,132.715,Pavshino,55.815231,37.341461,4
-1,Moscow,132,D2,E74683,132.716,Penyagino,55.822539,37.361049,5
-1,Moscow,132,D2,E74683,132.717,Volokolamskaya,55.835154,37.382453,6
-1,Moscow,132,D2,E74683,132.718,Tushinskaya,55.825479,37.437024,7
-1,Moscow,132,D2,E74683,132.719,Pokrovskoe-Streshnevo,55.814247,37.47678,8
-1,Moscow,132,D2,E74683,132.720,Streshnevo,55.813611,37.486944,9
-1,Moscow,132,D2,E74683,132.721,"Krasniy Baltiets",55.815514,37.526367,10
-1,Moscow,132,D2,E74683,132.722,Grazhdanskaya,55.805527,37.55315,11
-1,Moscow,132,D2,E74683,132.723,Dmitrovskaya,55.808056,37.581734,12
-1,Moscow,132,D2,E74683,132.724,Rizhskaya,55.792494,37.636114,13
-1,Moscow,132,D2,E74683,132.725,Kalanchyovskaya,55.77667,37.65111,14
-1,Moscow,132,D2,E74683,132.726,Kurskaya,55.757622,37.660767,15
-1,Moscow,132,D2,E74683,132.727,Moskva-Tovarnaya,55.745358,37.688839,16
-1,Moscow,132,D2,E74683,132.728,Kalitniki,55.733981,37.702203,17
-1,Moscow,132,D2,E74683,132.729,Novokhokhlovskaya,55.718523,37.719236,18
-1,Moscow,132,D2,E74683,132.730,Tekstilschiki,55.708934,37.731283,19
-1,Moscow,132,D2,E74683,132.731,Lyublino,55.676596,37.761639,20
-1,Moscow,132,D2,E74683,132.732,Depo,55.674257,37.728446,21
-1,Moscow,132,D2,E74683,132.733,Pererva,55.660809,37.716278,22
-1,Moscow,132,D2,E74683,132.734,Moskvorechye,55.641239,37.689789,23
-1,Moscow,132,D2,E74683,132.735,Tsaritsyno,55.618309,37.668846,24
-1,Moscow,132,D2,E74683,132.736,Pokrovskoe,55.814247,37.47678,25
-1,Moscow,132,D2,E74683,132.737,"Krasniy Stroitel",55.589455,37.615093,26
-1,Moscow,132,D2,E74683,132.738,Bitsa,55.571186,37.611443,27
-1,Moscow,132,D2,E74683,132.739,Butovo,55.548279,37.555668,28
-1,Moscow,132,D2,E74683,132.740,Scherbinka,55.509724,37.562008,29
-1,Moscow,132,D2,E74683,132.741,Ostafyevo,55.50337,37.520055,30
-1,Moscow,132,D2,E74683,132.742,Silikatnaya,55.470278,37.555278,31
-1,Moscow,132,D2,E74683,132.743,Podolsk,55.431667,37.565,32
-1,Moscow,132,D2,E74683,132.744,Trikotazhnaya,55.833137,37.398967,33
-1,Moscow,132,D2,E74683,132.807,Kuryanovo,55.649722,37.701667,34
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.159,Schelkovskaya,55.809962,37.798261,0
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.106,Pervomayskaya,55.794376,37.799364,1
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.40,Izmailovskaya,55.787713,37.779896,2
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.105,Partizanskaya,55.788401,37.74882,3
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.130,Semyonovskaya,55.783096,37.719289,4
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.161,Elektrozavodskaya,55.782057,37.7053,5
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.17,Baumanskaya,55.772405,37.67904,6
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.100,"Ploschad Revolutsii",55.756741,37.62236,7
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.70,Kurskaya,55.758564,37.659039,8
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.5,Arbatskaya,55.752312,37.60349,9
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.131,Smolenskaya,55.747713,37.583802,10
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.47,Kievskaya,55.743117,37.564132,11
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.173,"Park Pobedy",55.735679,37.516865,12
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.176,"Slavyanskiy Bul'var",55.729542,37.470973,13
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.69,Kuntsevskaya,55.730673,37.446522,14
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.84,Molodyozhnaya,55.741375,37.415627,15
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.65,Krylatskoe,55.756842,37.408139,16
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.174,Strogino,55.803831,37.402405,17
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.181,Myakinino,55.823342,37.385214,18
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.182,Volokolamskaya,55.835154,37.382453,19
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.183,Mitino,55.846098,37.36122,20
+1,Moscow,3,Arbatsko-Pokrovskaya,0072BA,3.463,"Pyatnitskoye Shosse",55.853634,37.353108,21
 1,Moscow,4,Filyovskaya,1EBCEF,4.471,Kuntsevskaya,55.730815,37.446754,0
 1,Moscow,4,Filyovskaya,1EBCEF,4.110,Pionerskaya,55.736027,37.466728,1
 1,Moscow,4,Filyovskaya,1EBCEF,4.150,"Filyovskiy Park",55.739665,37.483902,2
@@ -278,37 +155,66 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,4,Filyovskaya,1EBCEF,4.6,"Alexandrovskiy Sad",55.752255,37.608775,10
 1,Moscow,4,Filyovskaya,1EBCEF,4.172,Vystavochnaya,55.750243,37.542641,11
 1,Moscow,4,Filyovskaya,1EBCEF,4.179,Mezhdunarodnaya,55.748324,37.533282,12
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.515,Okruzhnaya,55.848889,37.571111,0
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.516,Vladykino,55.847222,37.591944,1
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.517,"Botanichesky Sad",55.845556,37.640278,2
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.518,Rostokino,55.839444,37.667778,3
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.519,Belokamennaya,55.83,37.700556,4
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.520,"Bulvar Rokossovskogo",55.817222,37.736944,5
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.521,Lokomotiv,55.803219,37.745742,6
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.522,Izmaylovo,55.788611,37.742778,7
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.523,"Sokolinaya Gora",55.77,37.745278,8
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.524,"Shosse Entuziastov",55.758633,37.748477,9
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.525,Andronovka,55.741111,37.734444,10
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.526,Nizhegorodskaya,55.732222,37.72825,11
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.527,Novokhokhlovskaya,55.723889,37.716111,12
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.528,Ugreshskaya,55.718333,37.697778,13
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.529,Dubrovka,55.71268,37.677775,14
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.530,Avtozavodskaya,55.70631,37.66314,15
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.531,ZIL,55.698333,37.648333,16
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.532,"Verkhniye Kotly",55.69,37.618889,17
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.533,Krymskaya,55.690038,37.605,18
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.534,"Ploshchad Gagarina",55.706944,37.585833,19
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.535,Luzhniki,55.720278,37.563056,20
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.536,Kutuzovskaya,55.740833,37.533333,21
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.537,"Business Center",55.747222,37.532222,22
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.538,Shelepikha,55.7575,37.525556,23
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.539,Khoroshevo,55.777222,37.507222,24
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.540,Zorge,55.787778,37.504444,25
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.541,Panfilovskaya,55.799167,37.498889,26
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.542,Streshnevo,55.813611,37.486944,27
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.543,Baltiyskaya,55.825833,37.496111,28
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.544,Koptevo,55.839637,37.520037,29
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.545,Likhobory,55.847222,37.551389,30
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.9,Altufievo,55.899034,37.586473,0
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.22,Bibirevo,55.883868,37.603011,1
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.97,Otradnoe,55.864273,37.605066,2
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.28,Vladykino,55.848236,37.590451,3
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.108,Petrovsko-Razumovskaya,55.836565,37.575512,4
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.141,Timiryazevskaya,55.81866,37.574498,5
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.35,Dmitrovskaya,55.808056,37.581734,6
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.128,Savyolovskaya,55.794054,37.587163,7
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.83,Mendeleevskaya,55.781999,37.599141,8
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.154,"Tsvetnoy Bul'var",55.771653,37.620466,9
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.123,Chekhovskaya,55.765747,37.608493,10
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.7,Borovitskaya,55.750399,37.60934,11
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.115,Polyanka,55.736795,37.618594,12
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.37,Serpukhovskaya,55.726548,37.624792,13
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.142,Tulskaya,55.70961,37.622569,14
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.85,Nagatinskaya,55.682099,37.620917,15
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.86,Nagornaya,55.672962,37.610397,16
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.87,"Nakhimovskiy Prospekt",55.662379,37.605274,17
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.43,Sevastopolskaya,55.651451,37.59809,18
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.156,Chertanovskaya,55.640538,37.606065,19
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.163,Yuzhnaya,55.622436,37.609047,20
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.116,Prazhskaya,55.610962,37.602386,21
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.147,"Ulitsa Akademika Yangelya",55.596753,37.601498,22
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.10,Annino,55.583477,37.596999,23
+1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.170,"Bul'var Dmitriya Donskogo",55.568201,37.576856,24
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.111,Planernaya,55.859676,37.436808,0
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.138,Skhodnenskaya,55.84926,37.44076,1
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.145,Tushinskaya,55.825479,37.437024,2
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.507,Spartak,55.8182,37.4352,3
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.160,Schukinskaya,55.8094,37.463241,4
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.95,"Oktyabr'skoye Pole",55.793581,37.493317,5
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.114,Polezhaevskaya,55.777201,37.517895,6
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.18,Begovaya,55.773505,37.545518,7
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.146,"Ulitsa 1905 Goda",55.763944,37.562271,8
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.16,Barrikadnaya,55.760793,37.581242,9
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.124,Pushkinskaya,55.765607,37.604356,10
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.67,"Kuznetskiy Most",55.761498,37.624423,11
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.51,Kitay-gorod,55.75436,37.633877,12
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.77,Taganskaya,55.739502,37.653605,13
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.62,Proletarskaya,55.731546,37.666917,14
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.31,"Volgogradskiy Prospekt",55.725546,37.685197,15
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.139,Textilschiki,55.709211,37.732117,16
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.68,Kuzminki,55.705493,37.763295,17
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.127,"Ryazanskiy Prospekt",55.716139,37.792694,18
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.33,Vykhino,55.715983,37.816788,19
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.464,"Lermontovsky Prospekt ",55.702036,37.851044,20
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.465,Zhulebino,55.684722,37.855833,21
+1,Moscow,7,Tagansko-Krasnopresnenskaya,943E90,7.508,Kotelniki,55.6743,37.8582,22
+1,Moscow,5,"Kol'tsevaya",915133,5.82,Novoslobodskaya,55.779606,37.601252,0
+1,Moscow,5,"Kol'tsevaya",915133,5.119,"Prospekt Mira",55.779584,37.633646,1
+1,Moscow,5,"Kol'tsevaya",915133,5.55,Komsomolskaya,55.775672,37.654772,2
+1,Moscow,5,"Kol'tsevaya",915133,5.71,Kurskaya,55.758631,37.661059,3
+1,Moscow,5,"Kol'tsevaya",915133,5.76,Taganskaya,55.742396,37.653334,4
+1,Moscow,5,"Kol'tsevaya",915133,5.102,Paveletskaya,55.731414,37.636294,5
+1,Moscow,5,"Kol'tsevaya",915133,5.36,Dobryninskaya,55.728994,37.622533,6
+1,Moscow,5,"Kol'tsevaya",915133,5.93,"Oktyabr'skaya",55.729264,37.611049,7
+1,Moscow,5,"Kol'tsevaya",915133,5.104,"Park Kultury",55.735221,37.593095,8
+1,Moscow,5,"Kol'tsevaya",915133,5.49,Kievskaya,55.74361,37.56735,10
+1,Moscow,5,"Kol'tsevaya",915133,5.58,Krasnopresnenskaya,55.760378,37.577114,11
+1,Moscow,5,"Kol'tsevaya",915133,5.20,Belorusskaya,55.775179,37.582303,12
 1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.597,Seligerskaya,55.86483,37.55005,0
 1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.598,"Verkhniye Likhobory",55.85566,37.56282,1
 1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.596,Okruzhnaya,55.848889,37.571111,2
@@ -354,39 +260,133 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,133,"Line 8A",FFCD1C,133.611,"Borovskoye Highway",55.647,37.3701,21
 1,Moscow,133,"Line 8A",FFCD1C,133.612,Novoperedelkino,55.6385,37.3544,22
 1,Moscow,133,"Line 8A",FFCD1C,133.613,Rasskazovka,55.6324,37.3328,23
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.9,Altufievo,55.899034,37.586473,0
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.22,Bibirevo,55.883868,37.603011,1
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.97,Otradnoe,55.864273,37.605066,2
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.28,Vladykino,55.848236,37.590451,3
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.108,Petrovsko-Razumovskaya,55.836565,37.575512,4
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.141,Timiryazevskaya,55.81866,37.574498,5
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.35,Dmitrovskaya,55.808056,37.581734,6
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.128,Savyolovskaya,55.794054,37.587163,7
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.83,Mendeleevskaya,55.781999,37.599141,8
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.154,"Tsvetnoy Bul'var",55.771653,37.620466,9
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.123,Chekhovskaya,55.765747,37.608493,10
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.7,Borovitskaya,55.750399,37.60934,11
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.115,Polyanka,55.736795,37.618594,12
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.37,Serpukhovskaya,55.726548,37.624792,13
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.142,Tulskaya,55.70961,37.622569,14
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.85,Nagatinskaya,55.682099,37.620917,15
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.86,Nagornaya,55.672962,37.610397,16
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.87,"Nakhimovskiy Prospekt",55.662379,37.605274,17
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.43,Sevastopolskaya,55.651451,37.59809,18
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.156,Chertanovskaya,55.640538,37.606065,19
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.163,Yuzhnaya,55.622436,37.609047,20
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.116,Prazhskaya,55.610962,37.602386,21
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.147,"Ulitsa Akademika Yangelya",55.596753,37.601498,22
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.10,Annino,55.583477,37.596999,23
-1,Moscow,9,Serpukhovsko-Timiryazevskaya,ADACAC,9.170,"Bul'var Dmitriya Donskogo",55.568201,37.576856,24
-1,Moscow,8,Kalininskaya,FFCD1C,8.189,Novokosino,55.745113,37.864052,0
-1,Moscow,8,Kalininskaya,FFCD1C,8.88,Novogireevo,55.752237,37.814587,1
-1,Moscow,8,Kalininskaya,FFCD1C,8.107,Perovo,55.75098,37.78422,2
-1,Moscow,8,Kalininskaya,FFCD1C,8.158,"Shosse Entuziastov",55.75809,37.751703,3
-1,Moscow,8,Kalininskaya,FFCD1C,8.1,Aviamotornaya,55.751933,37.717444,4
-1,Moscow,8,Kalininskaya,FFCD1C,8.112,"Ploschad Il'icha",55.747115,37.680726,5
-1,Moscow,8,Kalininskaya,FFCD1C,8.78,Marksistskaya,55.740746,37.65604,6
-1,Moscow,8,Kalininskaya,FFCD1C,8.91,"Tret'yakovskaya",55.741125,37.626142,7
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.515,Okruzhnaya,55.848889,37.571111,0
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.516,Vladykino,55.847222,37.591944,1
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.517,"Botanichesky Sad",55.845556,37.640278,2
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.518,Rostokino,55.839444,37.667778,3
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.519,Belokamennaya,55.83,37.700556,4
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.520,"Bulvar Rokossovskogo",55.817222,37.736944,5
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.521,Lokomotiv,55.803219,37.745742,6
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.522,Izmaylovo,55.788611,37.742778,7
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.523,"Sokolinaya Gora",55.77,37.745278,8
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.524,"Shosse Entuziastov",55.758633,37.748477,9
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.525,Andronovka,55.741111,37.734444,10
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.526,Nizhegorodskaya,55.732222,37.72825,11
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.527,Novokhokhlovskaya,55.723889,37.716111,12
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.528,Ugreshskaya,55.718333,37.697778,13
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.529,Dubrovka,55.71268,37.677775,14
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.530,Avtozavodskaya,55.70631,37.66314,15
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.531,ZIL,55.698333,37.648333,16
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.532,"Verkhniye Kotly",55.69,37.618889,17
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.533,Krymskaya,55.690038,37.605,18
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.534,"Ploshchad Gagarina",55.706944,37.585833,19
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.535,Luzhniki,55.720278,37.563056,20
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.536,Kutuzovskaya,55.740833,37.533333,21
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.537,"Business Center",55.747222,37.532222,22
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.538,Shelepikha,55.7575,37.525556,23
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.539,Khoroshevo,55.777222,37.507222,24
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.540,Zorge,55.787778,37.504444,25
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.541,Panfilovskaya,55.799167,37.498889,26
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.542,Streshnevo,55.813611,37.486944,27
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.543,Baltiyskaya,55.825833,37.496111,28
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.544,Koptevo,55.839637,37.520037,29
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.545,Likhobory,55.847222,37.551389,30
+1,Moscow,96,Monorail,006DA8,96.549,Timiryazevskaya,55.819049,37.578882,0
+1,Moscow,96,Monorail,006DA8,96.550,"Ulitsa Milashenkova",55.821876,37.591206,1
+1,Moscow,96,Monorail,006DA8,96.551,"Television Center",55.821795,37.608975,2
+1,Moscow,96,Monorail,006DA8,96.552,"Ulitsa Akademika Koroleva",55.821821,37.627167,3
+1,Moscow,96,Monorail,006DA8,96.553,"Exhibition Center",55.824086,37.638494,4
+1,Moscow,96,Monorail,006DA8,96.554,"Ulitsa Sergeya Eisensteina",55.829305,37.644997,5
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.599,"Petrovsky Park",55.79233,37.55952,0
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.600,CSKA,55.78643,37.53502,1
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.601,Khoroshevskaya,55.77643,37.51981,2
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.602,Shelepikha,55.75723,37.52571,3
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,4
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.685,Savyolovskaya,55.794054,37.587163,5
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.803,Elektrozavodskaya,55.782057,37.7053,6
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,7
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775278,39.484444,8
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,Terekhovo,55.749167,38.460556,9
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,10
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.811,Davydkovo,55.765278,37.451667,11
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.812,Aminyevskaya,55.697222,37.464167,12
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.813,"Michurinskiy Prospekt",55.688333,37.485,13
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Prospekt Vernadskogo",55.677778,37.505,14
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,15
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.816,Vorontsovskaya,55.658333,37.540833,16
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.817,Zyuzino,55.489722,37.572222,17
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.818,Kakhovskaya,55.653056,37.598333,18
+1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
+1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street ",55.7093,37.8792,1
+1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2
+1,Moscow,98,Nekrasovskaya,CC0066,98.641,Nekrasovka,55.7029,37.9264,3
+1,Moscow,98,Nekrasovskaya,CC0066,98.762,Yugo-Vostochnaya,55.71,37.82,4
+1,Moscow,98,Nekrasovskaya,CC0066,98.763,Okskaya,55.72,37.77,5
+1,Moscow,98,Nekrasovskaya,CC0066,98.764,Stakhanovskaya,55.73,37.76,6
+1,Moscow,98,Nekrasovskaya,CC0066,98.765,Nizhegorodskaya,55.73,37.73,7
+1,Moscow,98,Nekrasovskaya,CC0066,98.800,Lefortovo,55.764444,37.702778,8
+1,Moscow,98,Nekrasovskaya,CC0066,98.802,Elektrozavodskaya,55.782057,37.7053,9
+1,Moscow,98,Nekrasovskaya,CC0066,98.804,Aviamotornaya,55.751933,37.717444,10
+1,Moscow,131,D1,F5A528,131.687,Lobnya,56.0048,37.29057,0
+1,Moscow,131,D1,F5A528,131.688,Sheremetyevskaya,55.983882,37.498752,1
+1,Moscow,131,D1,F5A528,131.689,Khlebnikovo,55.970682,37.504638,2
+1,Moscow,131,D1,F5A528,131.690,Vodniki,55.953419,37.511143,3
+1,Moscow,131,D1,F5A528,131.691,Dolgoprudnaya,55.938656,37.520542,4
+1,Moscow,131,D1,F5A528,131.692,Novodachnaya,55.924459,37.527877,5
+1,Moscow,131,D1,F5A528,131.693,Mark,55.904458,37.538242,6
+1,Moscow,131,D1,F5A528,131.694,Lianozovo,55.897316,37.553261,7
+1,Moscow,131,D1,F5A528,131.695,Beskudnikovo,55.882713,37.567768,8
+1,Moscow,131,D1,F5A528,131.696,Degunino,55.86586,37.573235,9
+1,Moscow,131,D1,F5A528,131.697,Okruzhnaya,55.848889,37.571111,10
+1,Moscow,131,D1,F5A528,131.698,Timiryazevskaya,55.81866,37.574498,11
+1,Moscow,131,D1,F5A528,131.699,Savyolovskaya,55.793936,37.587038,12
+1,Moscow,131,D1,F5A528,131.700,Belorusskaya,55.775179,37.582303,13
+1,Moscow,131,D1,F5A528,131.701,Begovaya,55.773505,37.545518,14
+1,Moscow,131,D1,F5A528,131.702,Testovskaya,55.754292,37.531551,15
+1,Moscow,131,D1,F5A528,131.703,Fili,55.744263,37.514526,16
+1,Moscow,131,D1,F5A528,131.704,Kuntsevskaya,55.730554,37.445591,17
+1,Moscow,131,D1,F5A528,131.705,"Rabochiy Posyolok",55.726957,37.415577,18
+1,Moscow,131,D1,F5A528,131.706,Setun,55.723713,37.397259,19
+1,Moscow,131,D1,F5A528,131.707,Nemchinovka,55.715668,37.374611,20
+1,Moscow,131,D1,F5A528,131.708,Skolkovo,55.666801,37.424618,21
+1,Moscow,131,D1,F5A528,131.709,Bakovka,55.682816,37.315205,22
+1,Moscow,131,D1,F5A528,131.710,Odintsovo,55.67798,37.27773,23
+1,Moscow,131,D1,F5A528,131.801,"Slavyansky Boulevard",55.729722,37.470556,24
+1,Moscow,132,D2,E74683,132.711,Nakhabino,55.841522,37.185204,0
+1,Moscow,132,D2,E74683,132.712,Anikeevka,55.832099,37.219829,1
+1,Moscow,132,D2,E74683,132.713,Opalikha,55.82333,37.246843,2
+1,Moscow,132,D2,E74683,132.714,Krasnogorskaya,55.814571,37.303337,3
+1,Moscow,132,D2,E74683,132.715,Pavshino,55.815231,37.341461,4
+1,Moscow,132,D2,E74683,132.716,Penyagino,55.822539,37.361049,5
+1,Moscow,132,D2,E74683,132.717,Volokolamskaya,55.835154,37.382453,6
+1,Moscow,132,D2,E74683,132.718,Tushinskaya,55.825479,37.437024,7
+1,Moscow,132,D2,E74683,132.719,Pokrovskoe-Streshnevo,55.814247,37.47678,8
+1,Moscow,132,D2,E74683,132.720,Streshnevo,55.813611,37.486944,9
+1,Moscow,132,D2,E74683,132.721,"Krasniy Baltiets",55.815514,37.526367,10
+1,Moscow,132,D2,E74683,132.722,Grazhdanskaya,55.805527,37.55315,11
+1,Moscow,132,D2,E74683,132.723,Dmitrovskaya,55.808056,37.581734,12
+1,Moscow,132,D2,E74683,132.724,Rizhskaya,55.792494,37.636114,13
+1,Moscow,132,D2,E74683,132.725,Kalanchyovskaya,55.77667,37.65111,14
+1,Moscow,132,D2,E74683,132.726,Kurskaya,55.757622,37.660767,15
+1,Moscow,132,D2,E74683,132.727,Moskva-Tovarnaya,55.745358,37.688839,16
+1,Moscow,132,D2,E74683,132.728,Kalitniki,55.733981,37.702203,17
+1,Moscow,132,D2,E74683,132.729,Novokhokhlovskaya,55.718523,37.719236,18
+1,Moscow,132,D2,E74683,132.730,Tekstilschiki,55.708934,37.731283,19
+1,Moscow,132,D2,E74683,132.731,Lyublino,55.676596,37.761639,20
+1,Moscow,132,D2,E74683,132.732,Depo,55.674257,37.728446,21
+1,Moscow,132,D2,E74683,132.733,Pererva,55.660809,37.716278,22
+1,Moscow,132,D2,E74683,132.734,Moskvorechye,55.641239,37.689789,23
+1,Moscow,132,D2,E74683,132.735,Tsaritsyno,55.618309,37.668846,24
+1,Moscow,132,D2,E74683,132.736,Pokrovskoe,55.814247,37.47678,25
+1,Moscow,132,D2,E74683,132.737,"Krasniy Stroitel",55.589455,37.615093,26
+1,Moscow,132,D2,E74683,132.738,Bitsa,55.571186,37.611443,27
+1,Moscow,132,D2,E74683,132.739,Butovo,55.548279,37.555668,28
+1,Moscow,132,D2,E74683,132.740,Scherbinka,55.509724,37.562008,29
+1,Moscow,132,D2,E74683,132.741,Ostafyevo,55.50337,37.520055,30
+1,Moscow,132,D2,E74683,132.742,Silikatnaya,55.470278,37.555278,31
+1,Moscow,132,D2,E74683,132.743,Podolsk,55.431667,37.565,32
+1,Moscow,132,D2,E74683,132.744,Trikotazhnaya,55.833137,37.398967,33
+1,Moscow,132,D2,E74683,132.807,Kuryanovo,55.649722,37.701667,34
 160,Almaty,64,Pervaya,CD0505,64.430,"Raiymbek Batyr",43.271201,76.9448,0
 160,Almaty,64,Pervaya,CD0505,64.431,"Zhibek Zholy",43.260199,76.946103,1
 160,Almaty,64,Pervaya,CD0505,64.432,Almaly,43.251295,76.945456,2
@@ -426,39 +426,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.304,"Marshala Pokryshkina",55.043634,82.935566,2
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.305,"Berezovaya Roshcha",55.043242,82.952913,3
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.306,"Zolotaya Niva",55.037928,82.976044,4
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.245,"Komendantskiy Prospekt",60.008591,30.258663,0
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.246,"Staraya Derevnya",59.989433,30.255163,1
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.247,"Krestovskiy Ostrov",59.971821,30.259436,2
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.248,Chkalovskaya,59.961033,30.292006,3
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.249,Sportivnaya,59.952026,30.291338,4
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.258,Admiralteyskaya,59.935867,30.31523,5
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.250,Sadovaya,59.926739,30.317753,6
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.251,Zvenigorodskaya,59.92065,30.329599,7
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.252,"Obvodny Kanal",59.914686,30.34815,8
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.253,Volkovskaya,59.896023,30.35754,9
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.259,Bukharestskaya,59.883769,30.368932,10
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.260,Mezhdunarodnaya,59.870203,30.379289,11
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.682,Dunayskaya,59.839889,30.410667,12
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.683,"Slavy Prospekt",59.856704,30.395402,13
-2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.684,Shushary,59.819973,30.432718,14
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.209,Parnas,60.06699,30.333839,0
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.210,"Prospect Prosvescheniya",60.051456,30.332544,1
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.211,Ozerki,60.037098,30.321495,2
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.212,"Udel'naya",60.016697,30.315607,3
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.213,Pionerskaya,60.002487,30.296759,4
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.214,"Chyornaya Rechka",59.985455,30.300833,5
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.215,Petrogradskaya,59.966389,30.311293,6
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.216,"Gor'kovskaya",59.956112,30.31889,7
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.217,"Nevskiy Prospekt",59.935421,30.327052,8
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.218,"Sennaya Ploschad'",59.927135,30.320316,9
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.219,"Tekhnologichesky Institut 2",59.916512,30.318485,10
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.220,Frunzenskaya,59.906273,30.31745,11
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.221,"Moskovskiye Vorota",59.891788,30.317873,12
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.222,Elektrosila,59.879189,30.318659,13
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.223,"Park Pobedy",59.866344,30.321802,14
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.224,Moskovskaya,59.848873,30.321483,15
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.225,Zvyozdnaya,59.833241,30.349428,16
-2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.226,Kupchino,59.829781,30.375702,17
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2
@@ -478,14 +445,24 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.206,Avtovo,59.867325,30.261337,16
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.207,"Leninskiy Prospekt",59.85117,30.268274,17
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.208,"Prospekt Veteranov",59.84211,30.250588,18
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.237,Spasskaya,59.927135,30.320316,0
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.238,Dostoyevskaya,59.928234,30.346029,1
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.239,"Ligovskiy Prospekt",59.920811,30.355055,2
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.240,"Ploschad' Alexandra Nevskogo II",59.923563,30.383421,3
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.241,Novocherkasskaya,59.929092,30.411915,4
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.242,Ladozhskaya,59.93243,30.439274,5
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.243,"Prospekt Bol'shevikov",59.919838,30.466757,6
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.244,"Ulitsa Dybenko",59.907417,30.483311,7
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.209,Parnas,60.06699,30.333839,0
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.210,"Prospect Prosvescheniya",60.051456,30.332544,1
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.211,Ozerki,60.037098,30.321495,2
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.212,"Udel'naya",60.016697,30.315607,3
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.213,Pionerskaya,60.002487,30.296759,4
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.214,"Chyornaya Rechka",59.985455,30.300833,5
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.215,Petrogradskaya,59.966389,30.311293,6
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.216,"Gor'kovskaya",59.956112,30.31889,7
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.217,"Nevskiy Prospekt",59.935421,30.327052,8
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.218,"Sennaya Ploschad'",59.927135,30.320316,9
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.219,"Tekhnologichesky Institut 2",59.916512,30.318485,10
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.220,Frunzenskaya,59.906273,30.31745,11
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.221,"Moskovskiye Vorota",59.891788,30.317873,12
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.222,Elektrosila,59.879189,30.318659,13
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.223,"Park Pobedy",59.866344,30.321802,14
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.224,Moskovskaya,59.848873,30.321483,15
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.225,Zvyozdnaya,59.833241,30.349428,16
+2,"Saint Petersburg",15,Moskovsko-Petrogradskaya,0078C9,15.226,Kupchino,59.829781,30.375702,17
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.604,Begovaya,59.98723,30.20247,0
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.227,Primorskaya,59.948521,30.23447,2
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.228,Vasileostrovskaya,59.942577,30.278254,3
@@ -498,24 +475,29 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.235,Obukhovo,59.848709,30.457743,10
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.236,Rybatskoye,59.830986,30.501259,11
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.808,Zenith,59.972222,30.211667,12
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.334,"Heroiv Dnipra",50.52258,30.498891,0
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.335,Minska,50.512196,30.498541,1
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.336,Obolon,50.501466,30.498253,2
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.337,Petrivka,50.486074,30.497885,3
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.338,"Tarasa Shevchenka",50.473286,30.505134,4
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.339,"Kontraktova Ploshcha",50.465604,30.514836,5
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.340,"Poshtova Ploshcha",50.458935,30.524933,6
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.341,"Maidan Nezalezhnosti",50.450028,30.524196,7
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.342,"Ploshcha Lva Tolstoho",50.439221,30.516327,8
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.343,Olimpiiska,50.432244,30.51621,9
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.344,"Dvorets ""Ukraina""",50.420641,30.520738,10
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.345,Lybidska,50.412714,30.524879,11
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.346,Demiivska,50.404563,30.516615,12
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.347,Holosiivska,50.397879,30.510066,13
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.348,Vasylkivska,50.392815,30.485551,14
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.349,"Vystavkovyi Tsentr",50.382092,30.477134,15
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.350,Ipodrom,50.376526,30.468923,16
-115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.506,Teremki,50.367044,30.454203,17
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.237,Spasskaya,59.927135,30.320316,0
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.238,Dostoyevskaya,59.928234,30.346029,1
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.239,"Ligovskiy Prospekt",59.920811,30.355055,2
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.240,"Ploschad' Alexandra Nevskogo II",59.923563,30.383421,3
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.241,Novocherkasskaya,59.929092,30.411915,4
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.242,Ladozhskaya,59.93243,30.439274,5
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.243,"Prospekt Bol'shevikov",59.919838,30.466757,6
+2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.244,"Ulitsa Dybenko",59.907417,30.483311,7
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.245,"Komendantskiy Prospekt",60.008591,30.258663,0
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.246,"Staraya Derevnya",59.989433,30.255163,1
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.247,"Krestovskiy Ostrov",59.971821,30.259436,2
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.248,Chkalovskaya,59.961033,30.292006,3
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.249,Sportivnaya,59.952026,30.291338,4
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.258,Admiralteyskaya,59.935867,30.31523,5
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.250,Sadovaya,59.926739,30.317753,6
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.251,Zvenigorodskaya,59.92065,30.329599,7
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.252,"Obvodny Kanal",59.914686,30.34815,8
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.253,Volkovskaya,59.896023,30.35754,9
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.259,Bukharestskaya,59.883769,30.368932,10
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.260,Mezhdunarodnaya,59.870203,30.379289,11
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.682,Dunayskaya,59.839889,30.410667,12
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.683,"Slavy Prospekt",59.856704,30.395402,13
+2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.684,Shushary,59.819973,30.432718,14
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.316,Akademgorodok,50.464784,30.355511,0
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.317,Zhytomyrska,50.455884,30.36479,1
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.318,Sviatoshyn,50.457685,30.391776,2
@@ -534,6 +516,24 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.331,Darnytsia,50.455924,30.612905,15
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.332,Chernihivska,50.459852,30.630269,16
 115,Kyiv,55,Sviatoshynsko-Brovarska,CD0505,55.333,Lisova,50.464629,30.645541,17
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.334,"Heroiv Dnipra",50.52258,30.498891,0
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.335,Minska,50.512196,30.498541,1
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.336,Obolon,50.501466,30.498253,2
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.337,Petrivka,50.486074,30.497885,3
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.338,"Tarasa Shevchenka",50.473286,30.505134,4
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.339,"Kontraktova Ploshcha",50.465604,30.514836,5
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.340,"Poshtova Ploshcha",50.458935,30.524933,6
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.341,"Maidan Nezalezhnosti",50.450028,30.524196,7
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.342,"Ploshcha Lva Tolstoho",50.439221,30.516327,8
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.343,Olimpiiska,50.432244,30.51621,9
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.344,"Dvorets ""Ukraina""",50.420641,30.520738,10
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.345,Lybidska,50.412714,30.524879,11
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.346,Demiivska,50.404563,30.516615,12
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.347,Holosiivska,50.397879,30.510066,13
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.348,Vasylkivska,50.392815,30.485551,14
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.349,"Vystavkovyi Tsentr",50.382092,30.477134,15
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.350,Ipodrom,50.376526,30.468923,16
+115,Kyiv,56,Kurenivsko-Chervonoarmiyska,069CD3,56.506,Teremki,50.367044,30.454203,17
 115,Kyiv,57,Syretsko-Pecherska,0A6F20,57.351,Syrets,50.476221,30.430736,0
 115,Kyiv,57,Syretsko-Pecherska,0A6F20,57.352,Dorohozhychi,50.473452,30.448406,1
 115,Kyiv,57,Syretsko-Pecherska,0A6F20,57.353,Lukyanivska,50.462249,30.482101,2
