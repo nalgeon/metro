@@ -1,8 +1,4 @@
 id,city_id,name,hex_color
-54,78,Pervaya,CD0505
-59,135,Kholodnohirsko-Zavodska,CD0505
-60,135,"Saltivska Line",069CD3
-61,135,Oleksiivska,0A6F20
 8,1,Kalininskaya,FFCD1C
 2,1,Zamoskvoretskaya,4FB04F
 6,1,Kaluzhsko-Rizhskaya,F07E24
@@ -22,22 +18,26 @@ id,city_id,name,hex_color
 98,1,Nekrasovskaya,CC0066
 131,1,D1,F5A528
 132,1,D2,E74683
-64,160,Pervaya,CD0505
-58,117,Tsentralno-Zavodska,BD1018
-49,88,Tsentralnaya,CD0505
-52,4,Leninskaya,CD0505
-53,4,Dzerzhinskaya,0A6F20
 14,2,Kirovsko-Vyborgskaya,D6083B
 15,2,Moskovsko-Petrogradskaya,0078C9
 16,2,Nevsko-Vasileostrovskaya,009A49
 17,2,Pravoberezhnaya,EA7125
 18,2,Frunzensko-Primorskaya,702785
+48,3,Sever-Yug,0A6F20
+49,88,Tsentralnaya,CD0505
+50,66,Avtozavodskaya,D80707
+51,66,Sormovskaya,0071BC
+52,4,Leninskaya,CD0505
+53,4,Dzerzhinskaya,0A6F20
+54,78,Pervaya,CD0505
 55,115,Sviatoshynsko-Brovarska,CD0505
 56,115,Kurenivsko-Chervonoarmiyska,069CD3
 57,115,Syretsko-Pecherska,0A6F20
+58,117,Tsentralno-Zavodska,BD1018
+59,135,Kholodnohirsko-Zavodska,CD0505
+60,135,"Saltivska Line",069CD3
+61,135,Oleksiivska,0A6F20
 62,1002,Moskovskaya,0521C3
 63,1002,Avtozavodskaya,BF0808
 134,1002,Zelenoluzhskaya,009A49
-48,3,Sever-Yug,0A6F20
-50,66,Avtozavodskaya,D80707
-51,66,Sormovskaya,0071BC
+64,160,Pervaya,CD0505

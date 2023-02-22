@@ -1,13 +1,13 @@
 id,name
-78,Samara
-135,Kharkov
 1,Moscow
-160,Almaty
-117,"Dnieper (Dnepropetrovsk)"
-88,Kazan
-4,Novosibirsk
 2,"Saint Petersburg"
-115,Kyiv
-1002,Minsk
 3,Yekaterinburg
+88,Kazan
 66,"Nizhny Novgorod"
+4,Novosibirsk
+78,Samara
+115,Kyiv
+117,"Dnieper (Dnepropetrovsk)"
+135,Kharkov
+1002,Minsk
+160,Almaty

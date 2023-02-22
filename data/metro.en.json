@@ -1,515 +1,5 @@
 [
     {
-        "id": "78",
-        "name": "Samara",
-        "url": "https://api.hh.ru/metro/78?locale=EN",
-        "lines": [
-            {
-                "id": "54",
-                "hex_color": "CD0505",
-                "name": "Pervaya",
-                "stations": [
-                    {
-                        "id": "54.509",
-                        "name": "Alabinskaya",
-                        "lat": 53.209689,
-                        "lng": 50.134417,
-                        "order": 0,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.307",
-                        "name": "Rossiyskaya",
-                        "lat": 53.211385,
-                        "lng": 50.15022,
-                        "order": 1,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.308",
-                        "name": "Moskovskaya",
-                        "lat": 53.203791,
-                        "lng": 50.159832,
-                        "order": 2,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.309",
-                        "name": "Gagarinskaya",
-                        "lat": 53.200442,
-                        "lng": 50.176595,
-                        "order": 3,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.310",
-                        "name": "Sportivnaya",
-                        "lat": 53.201121,
-                        "lng": 50.199286,
-                        "order": 4,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.311",
-                        "name": "Sovetskaya",
-                        "lat": 53.201736,
-                        "lng": 50.220657,
-                        "order": 5,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.312",
-                        "name": "Pobeda",
-                        "lat": 53.207313,
-                        "lng": 50.236414,
-                        "order": 6,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.313",
-                        "name": "Bezymyanka",
-                        "lat": 53.212997,
-                        "lng": 50.248891,
-                        "order": 7,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.314",
-                        "name": "Kirovskaya",
-                        "lat": 53.211352,
-                        "lng": 50.269777,
-                        "order": 8,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "54.315",
-                        "name": "Yungorodok",
-                        "lat": 53.212701,
-                        "lng": 50.282982,
-                        "order": 9,
-                        "line": {
-                            "id": "54",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "135",
-        "name": "Kharkov",
-        "url": "https://api.hh.ru/metro/135?locale=EN",
-        "lines": [
-            {
-                "id": "59",
-                "hex_color": "CD0505",
-                "name": "Kholodnohirsko-Zavodska",
-                "stations": [
-                    {
-                        "id": "59.373",
-                        "name": "Kholodna Hora",
-                        "lat": 49.982512,
-                        "lng": 36.181804,
-                        "order": 0,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.374",
-                        "name": "Pivdennyi Vokzal",
-                        "lat": 49.989613,
-                        "lng": 36.205178,
-                        "order": 1,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.375",
-                        "name": "Tsentralnyi Rynok",
-                        "lat": 49.99277,
-                        "lng": 36.219731,
-                        "order": 2,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.376",
-                        "name": "Sovetskaya",
-                        "lat": 49.991084,
-                        "lng": 36.232568,
-                        "order": 3,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.377",
-                        "name": "Prospekt Haharina",
-                        "lat": 49.980838,
-                        "lng": 36.243402,
-                        "order": 4,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.378",
-                        "name": "Sportivna",
-                        "lat": 49.979494,
-                        "lng": 36.260532,
-                        "order": 5,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.379",
-                        "name": "Zavod Imeni Malysheva",
-                        "lat": 49.975966,
-                        "lng": 36.280996,
-                        "order": 6,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.380",
-                        "name": "Moskovskyi Prospekt",
-                        "lat": 49.972259,
-                        "lng": 36.301666,
-                        "order": 7,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.381",
-                        "name": "Marshala Zhukova",
-                        "lat": 49.966262,
-                        "lng": 36.321187,
-                        "order": 8,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.382",
-                        "name": "Radianskoi Armii",
-                        "lat": 49.961852,
-                        "lng": 36.342926,
-                        "order": 9,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.383",
-                        "name": "Imeni O.S. Maselskoho",
-                        "lat": 49.958526,
-                        "lng": 36.359787,
-                        "order": 10,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.384",
-                        "name": "Traktornyi Zavod",
-                        "lat": 49.952614,
-                        "lng": 36.37876,
-                        "order": 11,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "59.385",
-                        "name": "Proletarska",
-                        "lat": 49.946562,
-                        "lng": 36.399062,
-                        "order": 12,
-                        "line": {
-                            "id": "59",
-                            "hex_color": "CD0505",
-                            "name": "Kholodnohirsko-Zavodska"
-                        }
-                    }
-                ]
-            },
-            {
-                "id": "60",
-                "hex_color": "069CD3",
-                "name": "Saltivska Line",
-                "stations": [
-                    {
-                        "id": "60.386",
-                        "name": "Heroyiv Pratsi",
-                        "lat": 50.025398,
-                        "lng": 36.336287,
-                        "order": 0,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.387",
-                        "name": "Studentska",
-                        "lat": 50.017683,
-                        "lng": 36.329972,
-                        "order": 1,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.388",
-                        "name": "Akademika Pavlova",
-                        "lat": 50.008965,
-                        "lng": 36.317755,
-                        "order": 2,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.389",
-                        "name": "Akademika Barabashova",
-                        "lat": 50.002313,
-                        "lng": 36.304092,
-                        "order": 3,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.390",
-                        "name": "Kyivska",
-                        "lat": 50.001213,
-                        "lng": 36.270279,
-                        "order": 4,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.391",
-                        "name": "Pushkinska",
-                        "lat": 50.003685,
-                        "lng": 36.247489,
-                        "order": 5,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.392",
-                        "name": "Universytet",
-                        "lat": 50.004501,
-                        "lng": 36.233781,
-                        "order": 6,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    },
-                    {
-                        "id": "60.393",
-                        "name": "Istorychnyi Muzey",
-                        "lat": 49.992926,
-                        "lng": 36.231211,
-                        "order": 7,
-                        "line": {
-                            "id": "60",
-                            "hex_color": "069CD3",
-                            "name": "Saltivska Line"
-                        }
-                    }
-                ]
-            },
-            {
-                "id": "61",
-                "hex_color": "0A6F20",
-                "name": "Oleksiivska",
-                "stations": [
-                    {
-                        "id": "61.394",
-                        "name": "Oleksiivska",
-                        "lat": 50.0496,
-                        "lng": 36.20666,
-                        "order": 0,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.395",
-                        "name": "23 Serpnia",
-                        "lat": 50.035524,
-                        "lng": 36.220279,
-                        "order": 1,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.396",
-                        "name": "Botanichnyi Sad",
-                        "lat": 50.026659,
-                        "lng": 36.222938,
-                        "order": 2,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.397",
-                        "name": "Naukova",
-                        "lat": 50.013,
-                        "lng": 36.226962,
-                        "order": 3,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.398",
-                        "name": "Derzhprom",
-                        "lat": 50.004797,
-                        "lng": 36.231571,
-                        "order": 4,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.399",
-                        "name": "Arkhitektora Beketova",
-                        "lat": 49.998966,
-                        "lng": 36.240518,
-                        "order": 5,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.400",
-                        "name": "Ploshcha Povstannia",
-                        "lat": 49.988652,
-                        "lng": 36.264808,
-                        "order": 6,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    },
-                    {
-                        "id": "61.401",
-                        "name": "Metrobudivnykiv Imeni H.I. Vashchenko",
-                        "lat": 49.978915,
-                        "lng": 36.262823,
-                        "order": 7,
-                        "line": {
-                            "id": "61",
-                            "hex_color": "0A6F20",
-                            "name": "Oleksiivska"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "1",
         "name": "Moscow",
         "url": "https://api.hh.ru/metro/1?locale=EN",
@@ -4838,537 +4328,6 @@
         ]
     },
     {
-        "id": "160",
-        "name": "Almaty",
-        "url": "https://api.hh.ru/metro/160?locale=EN",
-        "lines": [
-            {
-                "id": "64",
-                "hex_color": "CD0505",
-                "name": "Pervaya",
-                "stations": [
-                    {
-                        "id": "64.430",
-                        "name": "Raiymbek Batyr",
-                        "lat": 43.271201,
-                        "lng": 76.9448,
-                        "order": 0,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.431",
-                        "name": "Zhibek Zholy",
-                        "lat": 43.260199,
-                        "lng": 76.946103,
-                        "order": 1,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.432",
-                        "name": "Almaly",
-                        "lat": 43.251295,
-                        "lng": 76.945456,
-                        "order": 2,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.433",
-                        "name": "Abay",
-                        "lat": 43.242548,
-                        "lng": 76.949588,
-                        "order": 3,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.434",
-                        "name": "Baikonur",
-                        "lat": 43.240401,
-                        "lng": 76.927696,
-                        "order": 4,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.435",
-                        "name": "Auezov Theater",
-                        "lat": 43.240362,
-                        "lng": 76.917519,
-                        "order": 5,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.436",
-                        "name": "Alatau",
-                        "lat": 43.239041,
-                        "lng": 76.897612,
-                        "order": 6,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.510",
-                        "name": "Sayran",
-                        "lat": 43.2362,
-                        "lng": 76.8764,
-                        "order": 7,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    },
-                    {
-                        "id": "64.511",
-                        "name": "Moscow",
-                        "lat": 43.23,
-                        "lng": 76.867,
-                        "order": 8,
-                        "line": {
-                            "id": "64",
-                            "hex_color": "CD0505",
-                            "name": "Pervaya"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "117",
-        "name": "Dnieper (Dnepropetrovsk)",
-        "url": "https://api.hh.ru/metro/117?locale=EN",
-        "lines": [
-            {
-                "id": "58",
-                "hex_color": "BD1018",
-                "name": "Tsentralno-Zavodska",
-                "stations": [
-                    {
-                        "id": "58.367",
-                        "name": "Vokzalna",
-                        "lat": 48.475457,
-                        "lng": 35.015926,
-                        "order": 0,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "58.368",
-                        "name": "Metrobudivnykiv",
-                        "lat": 48.475218,
-                        "lng": 34.995731,
-                        "order": 1,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "58.369",
-                        "name": "Metalurhiv",
-                        "lat": 48.476634,
-                        "lng": 34.979517,
-                        "order": 2,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "58.370",
-                        "name": "Zavodska",
-                        "lat": 48.475821,
-                        "lng": 34.959422,
-                        "order": 3,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "58.371",
-                        "name": "Prospekt Svobody",
-                        "lat": 48.479871,
-                        "lng": 34.943027,
-                        "order": 4,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    },
-                    {
-                        "id": "58.372",
-                        "name": "Komunarivska",
-                        "lat": 48.479298,
-                        "lng": 34.92657,
-                        "order": 5,
-                        "line": {
-                            "id": "58",
-                            "hex_color": "BD1018",
-                            "name": "Tsentralno-Zavodska"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "88",
-        "name": "Kazan",
-        "url": "https://api.hh.ru/metro/88?locale=EN",
-        "lines": [
-            {
-                "id": "49",
-                "hex_color": "CD0505",
-                "name": "Tsentralnaya",
-                "stations": [
-                    {
-                        "id": "49.462",
-                        "name": "Aviastroitelnaya ",
-                        "lat": 55.828897,
-                        "lng": 49.081403,
-                        "order": 0,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.461",
-                        "name": "Severny Vokzal ",
-                        "lat": 55.841519,
-                        "lng": 49.081778,
-                        "order": 1,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.460",
-                        "name": "Yashlek (Yunost)",
-                        "lat": 55.827843,
-                        "lng": 49.082905,
-                        "order": 2,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.271",
-                        "name": "Kozia Sloboda",
-                        "lat": 55.817608,
-                        "lng": 49.097646,
-                        "order": 3,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.272",
-                        "name": "Kremlyovskaya",
-                        "lat": 55.795206,
-                        "lng": 49.105426,
-                        "order": 4,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.273",
-                        "name": "Ploschad Tukaya",
-                        "lat": 55.787163,
-                        "lng": 49.122126,
-                        "order": 5,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.274",
-                        "name": "Sukonnaya Sloboda",
-                        "lat": 55.777094,
-                        "lng": 49.142275,
-                        "order": 6,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.275",
-                        "name": "Ametievo",
-                        "lat": 55.765346,
-                        "lng": 49.165083,
-                        "order": 7,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.276",
-                        "name": "Gorky",
-                        "lat": 55.760763,
-                        "lng": 49.189679,
-                        "order": 8,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.277",
-                        "name": "Prospekt Pobedy",
-                        "lat": 55.750109,
-                        "lng": 49.207735,
-                        "order": 9,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    },
-                    {
-                        "id": "49.640",
-                        "name": "Dubravnaya ",
-                        "lat": 55.7425,
-                        "lng": 49.2197,
-                        "order": 10,
-                        "line": {
-                            "id": "49",
-                            "hex_color": "CD0505",
-                            "name": "Tsentralnaya"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "4",
-        "name": "Novosibirsk",
-        "url": "https://api.hh.ru/metro/4?locale=EN",
-        "lines": [
-            {
-                "id": "52",
-                "hex_color": "CD0505",
-                "name": "Leninskaya",
-                "stations": [
-                    {
-                        "id": "52.294",
-                        "name": "Zaeltsovskaya",
-                        "lat": 55.059291,
-                        "lng": 82.912569,
-                        "order": 0,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.295",
-                        "name": "Gagarinskaya",
-                        "lat": 55.051071,
-                        "lng": 82.91477,
-                        "order": 1,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.296",
-                        "name": "Krasniy Prospekt",
-                        "lat": 55.040998,
-                        "lng": 82.917447,
-                        "order": 2,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.297",
-                        "name": "Ploschad Lenina",
-                        "lat": 55.029941,
-                        "lng": 82.92069,
-                        "order": 3,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.298",
-                        "name": "Oktyabrskaya",
-                        "lat": 55.018789,
-                        "lng": 82.939007,
-                        "order": 4,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.299",
-                        "name": "Rechnoy Vokzal",
-                        "lat": 55.008738,
-                        "lng": 82.93827,
-                        "order": 5,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.300",
-                        "name": "Studencheskaya",
-                        "lat": 54.989089,
-                        "lng": 82.906631,
-                        "order": 6,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    },
-                    {
-                        "id": "52.301",
-                        "name": "Ploschad Karla Marksa",
-                        "lat": 54.982931,
-                        "lng": 82.89313,
-                        "order": 7,
-                        "line": {
-                            "id": "52",
-                            "hex_color": "CD0505",
-                            "name": "Leninskaya"
-                        }
-                    }
-                ]
-            },
-            {
-                "id": "53",
-                "hex_color": "0A6F20",
-                "name": "Dzerzhinskaya",
-                "stations": [
-                    {
-                        "id": "53.302",
-                        "name": "Ploschad Garina-Mikhaylovskogo",
-                        "lat": 55.035947,
-                        "lng": 82.897783,
-                        "order": 0,
-                        "line": {
-                            "id": "53",
-                            "hex_color": "0A6F20",
-                            "name": "Dzerzhinskaya"
-                        }
-                    },
-                    {
-                        "id": "53.303",
-                        "name": "Sibirskaya",
-                        "lat": 55.042163,
-                        "lng": 82.919172,
-                        "order": 1,
-                        "line": {
-                            "id": "53",
-                            "hex_color": "0A6F20",
-                            "name": "Dzerzhinskaya"
-                        }
-                    },
-                    {
-                        "id": "53.304",
-                        "name": "Marshala Pokryshkina",
-                        "lat": 55.043634,
-                        "lng": 82.935566,
-                        "order": 2,
-                        "line": {
-                            "id": "53",
-                            "hex_color": "0A6F20",
-                            "name": "Dzerzhinskaya"
-                        }
-                    },
-                    {
-                        "id": "53.305",
-                        "name": "Berezovaya Roshcha",
-                        "lat": 55.043242,
-                        "lng": 82.952913,
-                        "order": 3,
-                        "line": {
-                            "id": "53",
-                            "hex_color": "0A6F20",
-                            "name": "Dzerzhinskaya"
-                        }
-                    },
-                    {
-                        "id": "53.306",
-                        "name": "Zolotaya Niva",
-                        "lat": 55.037928,
-                        "lng": 82.976044,
-                        "order": 4,
-                        "line": {
-                            "id": "53",
-                            "hex_color": "0A6F20",
-                            "name": "Dzerzhinskaya"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "2",
         "name": "Saint Petersburg",
         "url": "https://api.hh.ru/metro/2?locale=EN",
@@ -6275,6 +5234,798 @@
         ]
     },
     {
+        "id": "3",
+        "name": "Yekaterinburg",
+        "url": "https://api.hh.ru/metro/3?locale=EN",
+        "lines": [
+            {
+                "id": "48",
+                "hex_color": "0A6F20",
+                "name": "Sever-Yug",
+                "stations": [
+                    {
+                        "id": "48.261",
+                        "name": "Prospekt Kosmonavtov",
+                        "lat": 56.900393,
+                        "lng": 60.613878,
+                        "order": 0,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.262",
+                        "name": "Uralmash",
+                        "lat": 56.887674,
+                        "lng": 60.614165,
+                        "order": 1,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.263",
+                        "name": "Mashinostroiteley",
+                        "lat": 56.878517,
+                        "lng": 60.61218,
+                        "order": 2,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.264",
+                        "name": "Uralskaya",
+                        "lat": 56.858056,
+                        "lng": 60.600816,
+                        "order": 3,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.265",
+                        "name": "Dinamo",
+                        "lat": 56.847818,
+                        "lng": 60.599406,
+                        "order": 4,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.266",
+                        "name": "Ploschad 1905 Goda",
+                        "lat": 56.837982,
+                        "lng": 60.59734,
+                        "order": 5,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.267",
+                        "name": "Geologicheskaya",
+                        "lat": 56.826715,
+                        "lng": 60.603754,
+                        "order": 6,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.269",
+                        "name": "Chkalovskaya",
+                        "lat": 56.808502,
+                        "lng": 60.610698,
+                        "order": 8,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    },
+                    {
+                        "id": "48.270",
+                        "name": "Botanicheskaya",
+                        "lat": 56.797487,
+                        "lng": 60.633362,
+                        "order": 9,
+                        "line": {
+                            "id": "48",
+                            "hex_color": "0A6F20",
+                            "name": "Sever-Yug"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "name": "Kazan",
+        "url": "https://api.hh.ru/metro/88?locale=EN",
+        "lines": [
+            {
+                "id": "49",
+                "hex_color": "CD0505",
+                "name": "Tsentralnaya",
+                "stations": [
+                    {
+                        "id": "49.462",
+                        "name": "Aviastroitelnaya ",
+                        "lat": 55.828897,
+                        "lng": 49.081403,
+                        "order": 0,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.461",
+                        "name": "Severny Vokzal ",
+                        "lat": 55.841519,
+                        "lng": 49.081778,
+                        "order": 1,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.460",
+                        "name": "Yashlek (Yunost)",
+                        "lat": 55.827843,
+                        "lng": 49.082905,
+                        "order": 2,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.271",
+                        "name": "Kozia Sloboda",
+                        "lat": 55.817608,
+                        "lng": 49.097646,
+                        "order": 3,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.272",
+                        "name": "Kremlyovskaya",
+                        "lat": 55.795206,
+                        "lng": 49.105426,
+                        "order": 4,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.273",
+                        "name": "Ploschad Tukaya",
+                        "lat": 55.787163,
+                        "lng": 49.122126,
+                        "order": 5,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.274",
+                        "name": "Sukonnaya Sloboda",
+                        "lat": 55.777094,
+                        "lng": 49.142275,
+                        "order": 6,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.275",
+                        "name": "Ametievo",
+                        "lat": 55.765346,
+                        "lng": 49.165083,
+                        "order": 7,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.276",
+                        "name": "Gorky",
+                        "lat": 55.760763,
+                        "lng": 49.189679,
+                        "order": 8,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.277",
+                        "name": "Prospekt Pobedy",
+                        "lat": 55.750109,
+                        "lng": 49.207735,
+                        "order": 9,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    },
+                    {
+                        "id": "49.640",
+                        "name": "Dubravnaya ",
+                        "lat": 55.7425,
+                        "lng": 49.2197,
+                        "order": 10,
+                        "line": {
+                            "id": "49",
+                            "hex_color": "CD0505",
+                            "name": "Tsentralnaya"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "name": "Nizhny Novgorod",
+        "url": "https://api.hh.ru/metro/66?locale=EN",
+        "lines": [
+            {
+                "id": "50",
+                "hex_color": "D80707",
+                "name": "Avtozavodskaya",
+                "stations": [
+                    {
+                        "id": "50.278",
+                        "name": "Gorkovskaya",
+                        "lat": 56.313933,
+                        "lng": 43.99482,
+                        "order": 0,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.279",
+                        "name": "Moskovskaya",
+                        "lat": 56.321097,
+                        "lng": 43.945799,
+                        "order": 1,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.280",
+                        "name": "Chkalovskaya",
+                        "lat": 56.310637,
+                        "lng": 43.936933,
+                        "order": 2,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.281",
+                        "name": "Leninskaya",
+                        "lat": 56.297798,
+                        "lng": 43.937328,
+                        "order": 3,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.282",
+                        "name": "Zarechnaya",
+                        "lat": 56.285144,
+                        "lng": 43.927528,
+                        "order": 4,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.283",
+                        "name": "Dvigatel Revolyutsii",
+                        "lat": 56.277093,
+                        "lng": 43.922012,
+                        "order": 5,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.284",
+                        "name": "Proletarskaya",
+                        "lat": 56.266922,
+                        "lng": 43.914143,
+                        "order": 6,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.285",
+                        "name": "Avtozavodskaya",
+                        "lat": 56.257243,
+                        "lng": 43.902357,
+                        "order": 7,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.286",
+                        "name": "Komsomolskaya",
+                        "lat": 56.252662,
+                        "lng": 43.889888,
+                        "order": 8,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.287",
+                        "name": "Kirovskaya",
+                        "lat": 56.247426,
+                        "lng": 43.876719,
+                        "order": 9,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    },
+                    {
+                        "id": "50.288",
+                        "name": "Park Kultury",
+                        "lat": 56.242034,
+                        "lng": 43.85816,
+                        "order": 10,
+                        "line": {
+                            "id": "50",
+                            "hex_color": "D80707",
+                            "name": "Avtozavodskaya"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "51",
+                "hex_color": "0071BC",
+                "name": "Sormovskaya",
+                "stations": [
+                    {
+                        "id": "51.606",
+                        "name": "Strelka",
+                        "lat": 56.3343,
+                        "lng": 43.9597,
+                        "order": 0,
+                        "line": {
+                            "id": "51",
+                            "hex_color": "0071BC",
+                            "name": "Sormovskaya"
+                        }
+                    },
+                    {
+                        "id": "51.289",
+                        "name": "Moskovskaya 2",
+                        "lat": 56.321097,
+                        "lng": 43.945799,
+                        "order": 1,
+                        "line": {
+                            "id": "51",
+                            "hex_color": "0071BC",
+                            "name": "Sormovskaya"
+                        }
+                    },
+                    {
+                        "id": "51.290",
+                        "name": "Kanavinskaya",
+                        "lat": 56.320273,
+                        "lng": 43.927438,
+                        "order": 2,
+                        "line": {
+                            "id": "51",
+                            "hex_color": "0071BC",
+                            "name": "Sormovskaya"
+                        }
+                    },
+                    {
+                        "id": "51.291",
+                        "name": "Burnakovskaya",
+                        "lat": 56.325704,
+                        "lng": 43.911897,
+                        "order": 3,
+                        "line": {
+                            "id": "51",
+                            "hex_color": "0071BC",
+                            "name": "Sormovskaya"
+                        }
+                    },
+                    {
+                        "id": "51.292",
+                        "name": "Burevestnik",
+                        "lat": 56.333834,
+                        "lng": 43.892799,
+                        "order": 4,
+                        "line": {
+                            "id": "51",
+                            "hex_color": "0071BC",
+                            "name": "Sormovskaya"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Novosibirsk",
+        "url": "https://api.hh.ru/metro/4?locale=EN",
+        "lines": [
+            {
+                "id": "52",
+                "hex_color": "CD0505",
+                "name": "Leninskaya",
+                "stations": [
+                    {
+                        "id": "52.294",
+                        "name": "Zaeltsovskaya",
+                        "lat": 55.059291,
+                        "lng": 82.912569,
+                        "order": 0,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.295",
+                        "name": "Gagarinskaya",
+                        "lat": 55.051071,
+                        "lng": 82.91477,
+                        "order": 1,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.296",
+                        "name": "Krasniy Prospekt",
+                        "lat": 55.040998,
+                        "lng": 82.917447,
+                        "order": 2,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.297",
+                        "name": "Ploschad Lenina",
+                        "lat": 55.029941,
+                        "lng": 82.92069,
+                        "order": 3,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.298",
+                        "name": "Oktyabrskaya",
+                        "lat": 55.018789,
+                        "lng": 82.939007,
+                        "order": 4,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.299",
+                        "name": "Rechnoy Vokzal",
+                        "lat": 55.008738,
+                        "lng": 82.93827,
+                        "order": 5,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.300",
+                        "name": "Studencheskaya",
+                        "lat": 54.989089,
+                        "lng": 82.906631,
+                        "order": 6,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
+                        "id": "52.301",
+                        "name": "Ploschad Karla Marksa",
+                        "lat": 54.982931,
+                        "lng": 82.89313,
+                        "order": 7,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "53",
+                "hex_color": "0A6F20",
+                "name": "Dzerzhinskaya",
+                "stations": [
+                    {
+                        "id": "53.302",
+                        "name": "Ploschad Garina-Mikhaylovskogo",
+                        "lat": 55.035947,
+                        "lng": 82.897783,
+                        "order": 0,
+                        "line": {
+                            "id": "53",
+                            "hex_color": "0A6F20",
+                            "name": "Dzerzhinskaya"
+                        }
+                    },
+                    {
+                        "id": "53.303",
+                        "name": "Sibirskaya",
+                        "lat": 55.042163,
+                        "lng": 82.919172,
+                        "order": 1,
+                        "line": {
+                            "id": "53",
+                            "hex_color": "0A6F20",
+                            "name": "Dzerzhinskaya"
+                        }
+                    },
+                    {
+                        "id": "53.304",
+                        "name": "Marshala Pokryshkina",
+                        "lat": 55.043634,
+                        "lng": 82.935566,
+                        "order": 2,
+                        "line": {
+                            "id": "53",
+                            "hex_color": "0A6F20",
+                            "name": "Dzerzhinskaya"
+                        }
+                    },
+                    {
+                        "id": "53.305",
+                        "name": "Berezovaya Roshcha",
+                        "lat": 55.043242,
+                        "lng": 82.952913,
+                        "order": 3,
+                        "line": {
+                            "id": "53",
+                            "hex_color": "0A6F20",
+                            "name": "Dzerzhinskaya"
+                        }
+                    },
+                    {
+                        "id": "53.306",
+                        "name": "Zolotaya Niva",
+                        "lat": 55.037928,
+                        "lng": 82.976044,
+                        "order": 4,
+                        "line": {
+                            "id": "53",
+                            "hex_color": "0A6F20",
+                            "name": "Dzerzhinskaya"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "name": "Samara",
+        "url": "https://api.hh.ru/metro/78?locale=EN",
+        "lines": [
+            {
+                "id": "54",
+                "hex_color": "CD0505",
+                "name": "Pervaya",
+                "stations": [
+                    {
+                        "id": "54.509",
+                        "name": "Alabinskaya",
+                        "lat": 53.209689,
+                        "lng": 50.134417,
+                        "order": 0,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.307",
+                        "name": "Rossiyskaya",
+                        "lat": 53.211385,
+                        "lng": 50.15022,
+                        "order": 1,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.308",
+                        "name": "Moskovskaya",
+                        "lat": 53.203791,
+                        "lng": 50.159832,
+                        "order": 2,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.309",
+                        "name": "Gagarinskaya",
+                        "lat": 53.200442,
+                        "lng": 50.176595,
+                        "order": 3,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.310",
+                        "name": "Sportivnaya",
+                        "lat": 53.201121,
+                        "lng": 50.199286,
+                        "order": 4,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.311",
+                        "name": "Sovetskaya",
+                        "lat": 53.201736,
+                        "lng": 50.220657,
+                        "order": 5,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.312",
+                        "name": "Pobeda",
+                        "lat": 53.207313,
+                        "lng": 50.236414,
+                        "order": 6,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.313",
+                        "name": "Bezymyanka",
+                        "lat": 53.212997,
+                        "lng": 50.248891,
+                        "order": 7,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.314",
+                        "name": "Kirovskaya",
+                        "lat": 53.211352,
+                        "lng": 50.269777,
+                        "order": 8,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    },
+                    {
+                        "id": "54.315",
+                        "name": "Yungorodok",
+                        "lat": 53.212701,
+                        "lng": 50.282982,
+                        "order": 9,
+                        "line": {
+                            "id": "54",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "115",
         "name": "Kyiv",
         "url": "https://api.hh.ru/metro/115?locale=EN",
@@ -6927,6 +6678,468 @@
         ]
     },
     {
+        "id": "117",
+        "name": "Dnieper (Dnepropetrovsk)",
+        "url": "https://api.hh.ru/metro/117?locale=EN",
+        "lines": [
+            {
+                "id": "58",
+                "hex_color": "BD1018",
+                "name": "Tsentralno-Zavodska",
+                "stations": [
+                    {
+                        "id": "58.367",
+                        "name": "Vokzalna",
+                        "lat": 48.475457,
+                        "lng": 35.015926,
+                        "order": 0,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "58.368",
+                        "name": "Metrobudivnykiv",
+                        "lat": 48.475218,
+                        "lng": 34.995731,
+                        "order": 1,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "58.369",
+                        "name": "Metalurhiv",
+                        "lat": 48.476634,
+                        "lng": 34.979517,
+                        "order": 2,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "58.370",
+                        "name": "Zavodska",
+                        "lat": 48.475821,
+                        "lng": 34.959422,
+                        "order": 3,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "58.371",
+                        "name": "Prospekt Svobody",
+                        "lat": 48.479871,
+                        "lng": 34.943027,
+                        "order": 4,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "58.372",
+                        "name": "Komunarivska",
+                        "lat": 48.479298,
+                        "lng": 34.92657,
+                        "order": 5,
+                        "line": {
+                            "id": "58",
+                            "hex_color": "BD1018",
+                            "name": "Tsentralno-Zavodska"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "name": "Kharkov",
+        "url": "https://api.hh.ru/metro/135?locale=EN",
+        "lines": [
+            {
+                "id": "59",
+                "hex_color": "CD0505",
+                "name": "Kholodnohirsko-Zavodska",
+                "stations": [
+                    {
+                        "id": "59.373",
+                        "name": "Kholodna Hora",
+                        "lat": 49.982512,
+                        "lng": 36.181804,
+                        "order": 0,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.374",
+                        "name": "Pivdennyi Vokzal",
+                        "lat": 49.989613,
+                        "lng": 36.205178,
+                        "order": 1,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.375",
+                        "name": "Tsentralnyi Rynok",
+                        "lat": 49.99277,
+                        "lng": 36.219731,
+                        "order": 2,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.376",
+                        "name": "Sovetskaya",
+                        "lat": 49.991084,
+                        "lng": 36.232568,
+                        "order": 3,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.377",
+                        "name": "Prospekt Haharina",
+                        "lat": 49.980838,
+                        "lng": 36.243402,
+                        "order": 4,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.378",
+                        "name": "Sportivna",
+                        "lat": 49.979494,
+                        "lng": 36.260532,
+                        "order": 5,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.379",
+                        "name": "Zavod Imeni Malysheva",
+                        "lat": 49.975966,
+                        "lng": 36.280996,
+                        "order": 6,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.380",
+                        "name": "Moskovskyi Prospekt",
+                        "lat": 49.972259,
+                        "lng": 36.301666,
+                        "order": 7,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.381",
+                        "name": "Marshala Zhukova",
+                        "lat": 49.966262,
+                        "lng": 36.321187,
+                        "order": 8,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.382",
+                        "name": "Radianskoi Armii",
+                        "lat": 49.961852,
+                        "lng": 36.342926,
+                        "order": 9,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.383",
+                        "name": "Imeni O.S. Maselskoho",
+                        "lat": 49.958526,
+                        "lng": 36.359787,
+                        "order": 10,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.384",
+                        "name": "Traktornyi Zavod",
+                        "lat": 49.952614,
+                        "lng": 36.37876,
+                        "order": 11,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    },
+                    {
+                        "id": "59.385",
+                        "name": "Proletarska",
+                        "lat": 49.946562,
+                        "lng": 36.399062,
+                        "order": 12,
+                        "line": {
+                            "id": "59",
+                            "hex_color": "CD0505",
+                            "name": "Kholodnohirsko-Zavodska"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "60",
+                "hex_color": "069CD3",
+                "name": "Saltivska Line",
+                "stations": [
+                    {
+                        "id": "60.386",
+                        "name": "Heroyiv Pratsi",
+                        "lat": 50.025398,
+                        "lng": 36.336287,
+                        "order": 0,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.387",
+                        "name": "Studentska",
+                        "lat": 50.017683,
+                        "lng": 36.329972,
+                        "order": 1,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.388",
+                        "name": "Akademika Pavlova",
+                        "lat": 50.008965,
+                        "lng": 36.317755,
+                        "order": 2,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.389",
+                        "name": "Akademika Barabashova",
+                        "lat": 50.002313,
+                        "lng": 36.304092,
+                        "order": 3,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.390",
+                        "name": "Kyivska",
+                        "lat": 50.001213,
+                        "lng": 36.270279,
+                        "order": 4,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.391",
+                        "name": "Pushkinska",
+                        "lat": 50.003685,
+                        "lng": 36.247489,
+                        "order": 5,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.392",
+                        "name": "Universytet",
+                        "lat": 50.004501,
+                        "lng": 36.233781,
+                        "order": 6,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    },
+                    {
+                        "id": "60.393",
+                        "name": "Istorychnyi Muzey",
+                        "lat": 49.992926,
+                        "lng": 36.231211,
+                        "order": 7,
+                        "line": {
+                            "id": "60",
+                            "hex_color": "069CD3",
+                            "name": "Saltivska Line"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "61",
+                "hex_color": "0A6F20",
+                "name": "Oleksiivska",
+                "stations": [
+                    {
+                        "id": "61.394",
+                        "name": "Oleksiivska",
+                        "lat": 50.0496,
+                        "lng": 36.20666,
+                        "order": 0,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.395",
+                        "name": "23 Serpnia",
+                        "lat": 50.035524,
+                        "lng": 36.220279,
+                        "order": 1,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.396",
+                        "name": "Botanichnyi Sad",
+                        "lat": 50.026659,
+                        "lng": 36.222938,
+                        "order": 2,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.397",
+                        "name": "Naukova",
+                        "lat": 50.013,
+                        "lng": 36.226962,
+                        "order": 3,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.398",
+                        "name": "Derzhprom",
+                        "lat": 50.004797,
+                        "lng": 36.231571,
+                        "order": 4,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.399",
+                        "name": "Arkhitektora Beketova",
+                        "lat": 49.998966,
+                        "lng": 36.240518,
+                        "order": 5,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.400",
+                        "name": "Ploshcha Povstannia",
+                        "lat": 49.988652,
+                        "lng": 36.264808,
+                        "order": 6,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    },
+                    {
+                        "id": "61.401",
+                        "name": "Metrobudivnykiv Imeni H.I. Vashchenko",
+                        "lat": 49.978915,
+                        "lng": 36.262823,
+                        "order": 7,
+                        "line": {
+                            "id": "61",
+                            "hex_color": "0A6F20",
+                            "name": "Oleksiivska"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "1002",
         "name": "Minsk",
         "url": "https://api.hh.ru/metro/1002?locale=EN",
@@ -7351,334 +7564,121 @@
         ]
     },
     {
-        "id": "3",
-        "name": "Yekaterinburg",
-        "url": "https://api.hh.ru/metro/3?locale=EN",
+        "id": "160",
+        "name": "Almaty",
+        "url": "https://api.hh.ru/metro/160?locale=EN",
         "lines": [
             {
-                "id": "48",
-                "hex_color": "0A6F20",
-                "name": "Sever-Yug",
+                "id": "64",
+                "hex_color": "CD0505",
+                "name": "Pervaya",
                 "stations": [
                     {
-                        "id": "48.261",
-                        "name": "Prospekt Kosmonavtov",
-                        "lat": 56.900393,
-                        "lng": 60.613878,
+                        "id": "64.430",
+                        "name": "Raiymbek Batyr",
+                        "lat": 43.271201,
+                        "lng": 76.9448,
                         "order": 0,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.262",
-                        "name": "Uralmash",
-                        "lat": 56.887674,
-                        "lng": 60.614165,
+                        "id": "64.431",
+                        "name": "Zhibek Zholy",
+                        "lat": 43.260199,
+                        "lng": 76.946103,
                         "order": 1,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.263",
-                        "name": "Mashinostroiteley",
-                        "lat": 56.878517,
-                        "lng": 60.61218,
+                        "id": "64.432",
+                        "name": "Almaly",
+                        "lat": 43.251295,
+                        "lng": 76.945456,
                         "order": 2,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.264",
-                        "name": "Uralskaya",
-                        "lat": 56.858056,
-                        "lng": 60.600816,
+                        "id": "64.433",
+                        "name": "Abay",
+                        "lat": 43.242548,
+                        "lng": 76.949588,
                         "order": 3,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.265",
-                        "name": "Dinamo",
-                        "lat": 56.847818,
-                        "lng": 60.599406,
+                        "id": "64.434",
+                        "name": "Baikonur",
+                        "lat": 43.240401,
+                        "lng": 76.927696,
                         "order": 4,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.266",
-                        "name": "Ploschad 1905 Goda",
-                        "lat": 56.837982,
-                        "lng": 60.59734,
+                        "id": "64.435",
+                        "name": "Auezov Theater",
+                        "lat": 43.240362,
+                        "lng": 76.917519,
                         "order": 5,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.267",
-                        "name": "Geologicheskaya",
-                        "lat": 56.826715,
-                        "lng": 60.603754,
+                        "id": "64.436",
+                        "name": "Alatau",
+                        "lat": 43.239041,
+                        "lng": 76.897612,
                         "order": 6,
                         "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "48.269",
-                        "name": "Chkalovskaya",
-                        "lat": 56.808502,
-                        "lng": 60.610698,
-                        "order": 8,
-                        "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
-                        }
-                    },
-                    {
-                        "id": "48.270",
-                        "name": "Botanicheskaya",
-                        "lat": 56.797487,
-                        "lng": 60.633362,
-                        "order": 9,
-                        "line": {
-                            "id": "48",
-                            "hex_color": "0A6F20",
-                            "name": "Sever-Yug"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "66",
-        "name": "Nizhny Novgorod",
-        "url": "https://api.hh.ru/metro/66?locale=EN",
-        "lines": [
-            {
-                "id": "50",
-                "hex_color": "D80707",
-                "name": "Avtozavodskaya",
-                "stations": [
-                    {
-                        "id": "50.278",
-                        "name": "Gorkovskaya",
-                        "lat": 56.313933,
-                        "lng": 43.99482,
-                        "order": 0,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.279",
-                        "name": "Moskovskaya",
-                        "lat": 56.321097,
-                        "lng": 43.945799,
-                        "order": 1,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.280",
-                        "name": "Chkalovskaya",
-                        "lat": 56.310637,
-                        "lng": 43.936933,
-                        "order": 2,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.281",
-                        "name": "Leninskaya",
-                        "lat": 56.297798,
-                        "lng": 43.937328,
-                        "order": 3,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.282",
-                        "name": "Zarechnaya",
-                        "lat": 56.285144,
-                        "lng": 43.927528,
-                        "order": 4,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.283",
-                        "name": "Dvigatel Revolyutsii",
-                        "lat": 56.277093,
-                        "lng": 43.922012,
-                        "order": 5,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.284",
-                        "name": "Proletarskaya",
-                        "lat": 56.266922,
-                        "lng": 43.914143,
-                        "order": 6,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.285",
-                        "name": "Avtozavodskaya",
-                        "lat": 56.257243,
-                        "lng": 43.902357,
+                        "id": "64.510",
+                        "name": "Sayran",
+                        "lat": 43.2362,
+                        "lng": 76.8764,
                         "order": 7,
                         "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     },
                     {
-                        "id": "50.286",
-                        "name": "Komsomolskaya",
-                        "lat": 56.252662,
-                        "lng": 43.889888,
+                        "id": "64.511",
+                        "name": "Moscow",
+                        "lat": 43.23,
+                        "lng": 76.867,
                         "order": 8,
                         "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.287",
-                        "name": "Kirovskaya",
-                        "lat": 56.247426,
-                        "lng": 43.876719,
-                        "order": 9,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    },
-                    {
-                        "id": "50.288",
-                        "name": "Park Kultury",
-                        "lat": 56.242034,
-                        "lng": 43.85816,
-                        "order": 10,
-                        "line": {
-                            "id": "50",
-                            "hex_color": "D80707",
-                            "name": "Avtozavodskaya"
-                        }
-                    }
-                ]
-            },
-            {
-                "id": "51",
-                "hex_color": "0071BC",
-                "name": "Sormovskaya",
-                "stations": [
-                    {
-                        "id": "51.606",
-                        "name": "Strelka",
-                        "lat": 56.3343,
-                        "lng": 43.9597,
-                        "order": 0,
-                        "line": {
-                            "id": "51",
-                            "hex_color": "0071BC",
-                            "name": "Sormovskaya"
-                        }
-                    },
-                    {
-                        "id": "51.289",
-                        "name": "Moskovskaya 2",
-                        "lat": 56.321097,
-                        "lng": 43.945799,
-                        "order": 1,
-                        "line": {
-                            "id": "51",
-                            "hex_color": "0071BC",
-                            "name": "Sormovskaya"
-                        }
-                    },
-                    {
-                        "id": "51.290",
-                        "name": "Kanavinskaya",
-                        "lat": 56.320273,
-                        "lng": 43.927438,
-                        "order": 2,
-                        "line": {
-                            "id": "51",
-                            "hex_color": "0071BC",
-                            "name": "Sormovskaya"
-                        }
-                    },
-                    {
-                        "id": "51.291",
-                        "name": "Burnakovskaya",
-                        "lat": 56.325704,
-                        "lng": 43.911897,
-                        "order": 3,
-                        "line": {
-                            "id": "51",
-                            "hex_color": "0071BC",
-                            "name": "Sormovskaya"
-                        }
-                    },
-                    {
-                        "id": "51.292",
-                        "name": "Burevestnik",
-                        "lat": 56.333834,
-                        "lng": 43.892799,
-                        "order": 4,
-                        "line": {
-                            "id": "51",
-                            "hex_color": "0071BC",
-                            "name": "Sormovskaya"
+                            "id": "64",
+                            "hex_color": "CD0505",
+                            "name": "Pervaya"
                         }
                     }
                 ]
