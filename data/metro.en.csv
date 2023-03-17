@@ -372,7 +372,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.199,"Ploschad' Vosstaniya",59.930279,30.361069,9
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.200,Vladimirskaya,59.927628,30.347898,10
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.201,Pushkinskaya,59.92065,30.329599,11
-2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.202,"Tekhnologicheskiy Institut",59.916512,30.318485,12
+2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.202,"Tekhnologicheskiy Institut 1",59.916512,30.318485,12
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.203,Baltiyskaya,59.907211,30.299578,13
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.204,Narvskaya,59.901218,30.274908,14
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.205,"Kirovskiy Zavod",59.879688,30.261921,15
@@ -464,7 +464,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 66,"Nizhny Novgorod",50,Avtozavodskaya,D80707,50.287,Kirovskaya,56.247426,43.876719,9
 66,"Nizhny Novgorod",50,Avtozavodskaya,D80707,50.288,"Park Kultury",56.242034,43.85816,10
 66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.606,Strelka,56.3343,43.9597,0
-66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.289,"Moskovskaya 2",56.321097,43.945799,1
+66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.289,Moskovskaya,56.321097,43.945799,1
 66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.290,Kanavinskaya,56.320273,43.927438,2
 66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.291,Burnakovskaya,56.325704,43.911897,3
 66,"Nizhny Novgorod",51,Sormovskaya,0071BC,51.292,Burevestnik,56.333834,43.892799,4
