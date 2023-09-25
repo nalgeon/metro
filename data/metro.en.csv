@@ -176,29 +176,32 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,5,"Kol'tsevaya",915133,5.49,Kievskaya,55.74361,37.56735,10
 1,Moscow,5,"Kol'tsevaya",915133,5.58,Krasnopresnenskaya,55.760378,37.577114,11
 1,Moscow,5,"Kol'tsevaya",915133,5.20,Belorusskaya,55.775179,37.582303,12
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.597,Seligerskaya,55.86483,37.55005,0
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.598,"Verkhniye Likhobory",55.85566,37.56282,1
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.596,Okruzhnaya,55.848889,37.571111,2
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.548,Petrovsko-Razumovskaya,55.836667,37.575556,3
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.547,Fonvizinskaya,55.822778,37.588056,4
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.546,"Butyrskaya ",55.813333,37.602778,5
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.185,"Mar'ina Roscha",55.793723,37.61618,6
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.184,Dostoevskaya,55.781667,37.613889,7
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.177,Trubnaya,55.76771,37.621926,8
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.175,"Sretenskiy Bul'var",55.766106,37.635688,9
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.72,Chkalovskaya,55.755951,37.659293,10
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.113,Rimskaya,55.747027,37.679996,11
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.63,"Krest'yanskaya Zastava",55.732278,37.665325,12
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.39,Dubrovka,55.71807,37.676259,13
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.52,Kozhukhovskaya,55.706156,37.68544,14
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.109,Pechatniki,55.692921,37.728338,15
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.32,Volzhskaya,55.690446,37.754314,16
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.75,Lyublino,55.676596,37.761639,17
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.25,Bratislavskaya,55.658817,37.748415,18
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.79,"Mar'ino",55.649158,37.743844,19
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.187,Borisovo,55.6325,37.743333,20
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.188,Shipilovskaya,55.621667,37.743611,21
-1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.186,Zyablikovo,55.611944,37.745278,22
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.833,PhysTech,55.921389,37.546389,0
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.834,Lianozovo,55.931111,37.543611,1
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.835,Yakhromskaya,55.8775,37.545833,2
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.597,Seligerskaya,55.86483,37.55005,3
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.598,"Verkhniye Likhobory",55.85566,37.56282,4
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.596,Okruzhnaya,55.848889,37.571111,5
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.548,Petrovsko-Razumovskaya,55.836667,37.575556,6
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.547,Fonvizinskaya,55.822778,37.588056,7
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.546,"Butyrskaya ",55.813333,37.602778,8
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.185,"Mar'ina Roscha",55.793723,37.61618,9
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.184,Dostoevskaya,55.781667,37.613889,10
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.177,Trubnaya,55.76771,37.621926,11
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.175,"Sretenskiy Bul'var",55.766106,37.635688,12
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.72,Chkalovskaya,55.755951,37.659293,13
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.113,Rimskaya,55.747027,37.679996,14
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.63,"Krest'yanskaya Zastava",55.732278,37.665325,15
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.39,Dubrovka,55.71807,37.676259,16
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.52,Kozhukhovskaya,55.706156,37.68544,17
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.109,Pechatniki,55.692921,37.728338,18
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.32,Volzhskaya,55.690446,37.754314,19
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.75,Lyublino,55.676596,37.761639,20
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.25,Bratislavskaya,55.658817,37.748415,21
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.79,"Mar'ino",55.649158,37.743844,22
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.187,Borisovo,55.6325,37.743333,23
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.188,Shipilovskaya,55.621667,37.743611,24
+1,Moscow,10,Lyublinsko-Dmitrovskaya,BED12C,10.186,Zyablikovo,55.611944,37.745278,25
 1,Moscow,11,Kakhovskaya,88CDCF,11.46,Kashirskaya,55.654327,37.647705,0
 1,Moscow,11,Kakhovskaya,88CDCF,11.26,Varshavskaya,55.653294,37.619522,1
 1,Moscow,11,Kakhovskaya,88CDCF,11.44,Kakhovskaya,55.652923,37.596573,2

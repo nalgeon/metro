@@ -2197,11 +2197,47 @@
                 "name": "Lyublinsko-Dmitrovskaya",
                 "stations": [
                     {
+                        "id": "10.833",
+                        "name": "PhysTech",
+                        "lat": 55.921389,
+                        "lng": 37.546389,
+                        "order": 0,
+                        "line": {
+                            "id": "10",
+                            "hex_color": "BED12C",
+                            "name": "Lyublinsko-Dmitrovskaya"
+                        }
+                    },
+                    {
+                        "id": "10.834",
+                        "name": "Lianozovo",
+                        "lat": 55.931111,
+                        "lng": 37.543611,
+                        "order": 1,
+                        "line": {
+                            "id": "10",
+                            "hex_color": "BED12C",
+                            "name": "Lyublinsko-Dmitrovskaya"
+                        }
+                    },
+                    {
+                        "id": "10.835",
+                        "name": "Yakhromskaya",
+                        "lat": 55.8775,
+                        "lng": 37.545833,
+                        "order": 2,
+                        "line": {
+                            "id": "10",
+                            "hex_color": "BED12C",
+                            "name": "Lyublinsko-Dmitrovskaya"
+                        }
+                    },
+                    {
                         "id": "10.597",
                         "name": "Seligerskaya",
                         "lat": 55.86483,
                         "lng": 37.55005,
-                        "order": 0,
+                        "order": 3,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2213,7 +2249,7 @@
                         "name": "Verkhniye Likhobory",
                         "lat": 55.85566,
                         "lng": 37.56282,
-                        "order": 1,
+                        "order": 4,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2225,7 +2261,7 @@
                         "name": "Okruzhnaya",
                         "lat": 55.848889,
                         "lng": 37.571111,
-                        "order": 2,
+                        "order": 5,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2237,7 +2273,7 @@
                         "name": "Petrovsko-Razumovskaya",
                         "lat": 55.836667,
                         "lng": 37.575556,
-                        "order": 3,
+                        "order": 6,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2249,7 +2285,7 @@
                         "name": "Fonvizinskaya",
                         "lat": 55.822778,
                         "lng": 37.588056,
-                        "order": 4,
+                        "order": 7,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2261,7 +2297,7 @@
                         "name": "Butyrskaya ",
                         "lat": 55.813333,
                         "lng": 37.602778,
-                        "order": 5,
+                        "order": 8,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2273,7 +2309,7 @@
                         "name": "Mar'ina Roscha",
                         "lat": 55.793723,
                         "lng": 37.61618,
-                        "order": 6,
+                        "order": 9,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2285,7 +2321,7 @@
                         "name": "Dostoevskaya",
                         "lat": 55.781667,
                         "lng": 37.613889,
-                        "order": 7,
+                        "order": 10,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2297,7 +2333,7 @@
                         "name": "Trubnaya",
                         "lat": 55.76771,
                         "lng": 37.621926,
-                        "order": 8,
+                        "order": 11,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2309,7 +2345,7 @@
                         "name": "Sretenskiy Bul'var",
                         "lat": 55.766106,
                         "lng": 37.635688,
-                        "order": 9,
+                        "order": 12,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2321,7 +2357,7 @@
                         "name": "Chkalovskaya",
                         "lat": 55.755951,
                         "lng": 37.659293,
-                        "order": 10,
+                        "order": 13,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2333,7 +2369,7 @@
                         "name": "Rimskaya",
                         "lat": 55.747027,
                         "lng": 37.679996,
-                        "order": 11,
+                        "order": 14,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2345,7 +2381,7 @@
                         "name": "Krest'yanskaya Zastava",
                         "lat": 55.732278,
                         "lng": 37.665325,
-                        "order": 12,
+                        "order": 15,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2357,7 +2393,7 @@
                         "name": "Dubrovka",
                         "lat": 55.71807,
                         "lng": 37.676259,
-                        "order": 13,
+                        "order": 16,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2369,7 +2405,7 @@
                         "name": "Kozhukhovskaya",
                         "lat": 55.706156,
                         "lng": 37.68544,
-                        "order": 14,
+                        "order": 17,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2381,7 +2417,7 @@
                         "name": "Pechatniki",
                         "lat": 55.692921,
                         "lng": 37.728338,
-                        "order": 15,
+                        "order": 18,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2393,7 +2429,7 @@
                         "name": "Volzhskaya",
                         "lat": 55.690446,
                         "lng": 37.754314,
-                        "order": 16,
+                        "order": 19,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2405,7 +2441,7 @@
                         "name": "Lyublino",
                         "lat": 55.676596,
                         "lng": 37.761639,
-                        "order": 17,
+                        "order": 20,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2417,7 +2453,7 @@
                         "name": "Bratislavskaya",
                         "lat": 55.658817,
                         "lng": 37.748415,
-                        "order": 18,
+                        "order": 21,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2429,7 +2465,7 @@
                         "name": "Mar'ino",
                         "lat": 55.649158,
                         "lng": 37.743844,
-                        "order": 19,
+                        "order": 22,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2441,7 +2477,7 @@
                         "name": "Borisovo",
                         "lat": 55.6325,
                         "lng": 37.743333,
-                        "order": 20,
+                        "order": 23,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2453,7 +2489,7 @@
                         "name": "Shipilovskaya",
                         "lat": 55.621667,
                         "lng": 37.743611,
-                        "order": 21,
+                        "order": 24,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
@@ -2465,7 +2501,7 @@
                         "name": "Zyablikovo",
                         "lat": 55.611944,
                         "lng": 37.745278,
-                        "order": 22,
+                        "order": 25,
                         "line": {
                             "id": "10",
                             "hex_color": "BED12C",
