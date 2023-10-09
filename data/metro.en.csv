@@ -265,7 +265,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Prospekt Vernadskogo",55.677778,37.505,1
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,2
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.816,Vorontsovskaya,55.658333,37.540833,3
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.817,Zyuzino,55.489722,37.572222,4
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.817,Zyuzino,55.655158,37.575786,4
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.818,Kakhovskaya,55.653056,37.598333,5
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.824,Warsaw,55.653333,37.619444,6
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.832,Kashirskaya,55.655,37.648611,7
