@@ -4504,6 +4504,277 @@
                         }
                     }
                 ]
+            },
+            {
+                "id": "135",
+                "hex_color": "EA5B04",
+                "name": "D3",
+                "stations": [
+                    {
+                        "id": "135.836",
+                        "name": "Kryukovo",
+                        "lat": 55.979722,
+                        "lng": 37.173611,
+                        "order": 0,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.837",
+                        "name": "Malino",
+                        "lat": 55.969167,
+                        "lng": 37.211667,
+                        "order": 1,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.838",
+                        "name": "Firsanovskaya",
+                        "lat": 55.960278,
+                        "lng": 37.251111,
+                        "order": 2,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.839",
+                        "name": "Skhodnya",
+                        "lat": 55.949722,
+                        "lng": 37.298611,
+                        "order": 3,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.840",
+                        "name": "Podrezkovo",
+                        "lat": 55.941667,
+                        "lng": 37.334722,
+                        "order": 4,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.841",
+                        "name": "Novopodrezkovo",
+                        "lat": 55.936389,
+                        "lng": 37.351667,
+                        "order": 5,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.842",
+                        "name": "Molzhaninovo",
+                        "lat": 55.924167,
+                        "lng": 37.380833,
+                        "order": 6,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.843",
+                        "name": "Khimki",
+                        "lat": 55.894444,
+                        "lng": 37.450833,
+                        "order": 7,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.844",
+                        "name": "Levoberezhnaya",
+                        "lat": 55.886944,
+                        "lng": 37.468611,
+                        "order": 8,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.845",
+                        "name": "Khovrino",
+                        "lat": 55.879444,
+                        "lng": 37.486667,
+                        "order": 9,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.846",
+                        "name": "Grachevskaya",
+                        "lat": 55.869444,
+                        "lng": 37.509167,
+                        "order": 10,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.847",
+                        "name": "Mosselmash",
+                        "lat": 55.862222,
+                        "lng": 37.526389,
+                        "order": 11,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.848",
+                        "name": "Likhobory",
+                        "lat": 55.85,
+                        "lng": 37.5525,
+                        "order": 12,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.849",
+                        "name": "Petrovsko-Razumovskaya",
+                        "lat": 55.839722,
+                        "lng": 37.568333,
+                        "order": 13,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.850",
+                        "name": "Ostankino",
+                        "lat": 55.817222,
+                        "lng": 37.603611,
+                        "order": 14,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.851",
+                        "name": "Rizhskaya",
+                        "lat": 55.796944,
+                        "lng": 37.639167,
+                        "order": 15,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.852",
+                        "name": "Mitkovo",
+                        "lat": 55.786389,
+                        "lng": 37.6675,
+                        "order": 16,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.853",
+                        "name": "Elektrozavodskaya",
+                        "lat": 55.781111,
+                        "lng": 37.705278,
+                        "order": 17,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.854",
+                        "name": "Sortirovachnaya",
+                        "lat": 55.763611,
+                        "lng": 37.720833,
+                        "order": 18,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.855",
+                        "name": "Aviamotornaya",
+                        "lat": 55.750278,
+                        "lng": 37.721944,
+                        "order": 19,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.856",
+                        "name": "Andronovka",
+                        "lat": 55.744444,
+                        "lng": 37.741111,
+                        "order": 20,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.857",
+                        "name": "Perovo",
+                        "lat": 55.735556,
+                        "lng": 37.765,
+                        "order": 21,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    }
+                ]
             }
         ]
     },
