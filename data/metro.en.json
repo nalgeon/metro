@@ -4773,6 +4773,42 @@
                             "hex_color": "EA5B04",
                             "name": "D3"
                         }
+                    },
+                    {
+                        "id": "135.858",
+                        "name": "Plyushchevo",
+                        "lat": 55.730556,
+                        "lng": 37.774167,
+                        "order": 22,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.859",
+                        "name": "Veshnyaki",
+                        "lat": 55.721944,
+                        "lng": 37.799167,
+                        "order": 23,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
+                    },
+                    {
+                        "id": "135.860",
+                        "name": "Vykhino",
+                        "lat": 55.88,
+                        "lng": 37.816667,
+                        "order": 24,
+                        "line": {
+                            "id": "135",
+                            "hex_color": "EA5B04",
+                            "name": "D3"
+                        }
                     }
                 ]
             }

@@ -385,6 +385,9 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,135,D3,EA5B04,135.855,Aviamotornaya,55.750278,37.721944,19
 1,Moscow,135,D3,EA5B04,135.856,Andronovka,55.744444,37.741111,20
 1,Moscow,135,D3,EA5B04,135.857,Perovo,55.735556,37.765,21
+1,Moscow,135,D3,EA5B04,135.858,Plyushchevo,55.730556,37.774167,22
+1,Moscow,135,D3,EA5B04,135.859,Veshnyaki,55.721944,37.799167,23
+1,Moscow,135,D3,EA5B04,135.860,Vykhino,55.88,37.816667,24
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2
