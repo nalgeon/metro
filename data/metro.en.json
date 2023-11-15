@@ -2198,7 +2198,7 @@
                 "stations": [
                     {
                         "id": "10.833",
-                        "name": "PhysTech",
+                        "name": "Fiztech",
                         "lat": 55.921389,
                         "lng": 37.546389,
                         "order": 0,
@@ -4520,7 +4520,7 @@
             {
                 "id": "135",
                 "hex_color": "EA5B04",
-                "name": "D3",
+                "name": "MCD-3",
                 "stations": [
                     {
                         "id": "135.836",
@@ -4531,7 +4531,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4543,7 +4543,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4555,7 +4555,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4567,7 +4567,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4579,7 +4579,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4591,7 +4591,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4603,7 +4603,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4615,7 +4615,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4627,7 +4627,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4639,7 +4639,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4651,7 +4651,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4663,7 +4663,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4675,7 +4675,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4687,7 +4687,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4699,7 +4699,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4711,7 +4711,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4723,7 +4723,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4735,7 +4735,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4747,7 +4747,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4759,7 +4759,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4771,7 +4771,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4783,7 +4783,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4795,7 +4795,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4807,7 +4807,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4819,7 +4819,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4831,7 +4831,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4843,7 +4843,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4855,7 +4855,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4867,7 +4867,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4879,7 +4879,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4891,7 +4891,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4903,7 +4903,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4915,7 +4915,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4927,7 +4927,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4939,7 +4939,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4951,7 +4951,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4963,7 +4963,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4975,7 +4975,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4987,7 +4987,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -4999,7 +4999,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     },
                     {
@@ -5011,7 +5011,7 @@
                         "line": {
                             "id": "135",
                             "hex_color": "EA5B04",
-                            "name": "D3"
+                            "name": "MCD-3"
                         }
                     }
                 ]
