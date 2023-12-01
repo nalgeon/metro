@@ -2654,7 +2654,7 @@
                         "name": "Delovoy tsentr",
                         "lat": 55.7491,
                         "lng": 37.5395,
-                        "order": 12,
+                        "order": 0,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2666,7 +2666,7 @@
                         "name": "Pykhtino",
                         "lat": 55.625,
                         "lng": 37.298056,
-                        "order": 12,
+                        "order": 1,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2678,7 +2678,7 @@
                         "name": "Park Pobedy",
                         "lat": 55.736478,
                         "lng": 37.514401,
-                        "order": 13,
+                        "order": 2,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2690,7 +2690,7 @@
                         "name": "Minskaya",
                         "lat": 55.7232,
                         "lng": 37.5038,
-                        "order": 14,
+                        "order": 3,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2702,7 +2702,7 @@
                         "name": "Lomonosovskiy prospekt",
                         "lat": 55.7055,
                         "lng": 37.5225,
-                        "order": 15,
+                        "order": 4,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2714,7 +2714,7 @@
                         "name": "Ramenki",
                         "lat": 55.6961,
                         "lng": 37.505,
-                        "order": 16,
+                        "order": 5,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2726,7 +2726,7 @@
                         "name": "Michurinsky Prospekt",
                         "lat": 55.6888,
                         "lng": 37.485,
-                        "order": 17,
+                        "order": 6,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2738,7 +2738,7 @@
                         "name": "Ozyornaya",
                         "lat": 55.6698,
                         "lng": 37.4495,
-                        "order": 18,
+                        "order": 7,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2750,7 +2750,7 @@
                         "name": "Govorovo",
                         "lat": 55.6588,
                         "lng": 37.4174,
-                        "order": 19,
+                        "order": 8,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2762,7 +2762,7 @@
                         "name": "Solntsevo",
                         "lat": 55.649,
                         "lng": 37.3911,
-                        "order": 20,
+                        "order": 9,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2774,7 +2774,7 @@
                         "name": "Borovskoye Highway",
                         "lat": 55.647,
                         "lng": 37.3701,
-                        "order": 21,
+                        "order": 10,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2786,7 +2786,7 @@
                         "name": "Novoperedelkino",
                         "lat": 55.6385,
                         "lng": 37.3544,
-                        "order": 22,
+                        "order": 11,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -2798,7 +2798,7 @@
                         "name": "Rasskazovka",
                         "lat": 55.6324,
                         "lng": 37.3328,
-                        "order": 23,
+                        "order": 12,
                         "line": {
                             "id": "133",
                             "hex_color": "FFCD1C",
@@ -4644,7 +4644,7 @@
                     },
                     {
                         "id": "135.846",
-                        "name": "Grachevskaya",
+                        "name": "Grachyovskaya",
                         "lat": 55.869444,
                         "lng": 37.509167,
                         "order": 10,
@@ -4740,7 +4740,7 @@
                     },
                     {
                         "id": "135.854",
-                        "name": "Sortirovachnaya",
+                        "name": "Sortirovochnaya",
                         "lat": 55.763611,
                         "lng": 37.720833,
                         "order": 18,
@@ -4788,7 +4788,7 @@
                     },
                     {
                         "id": "135.858",
-                        "name": "Plyushchevo",
+                        "name": "Plyuschevo",
                         "lat": 55.730556,
                         "lng": 37.774167,
                         "order": 22,
@@ -4944,7 +4944,7 @@
                     },
                     {
                         "id": "135.871",
-                        "name": "Otdyh",
+                        "name": "Otdykh",
                         "lat": 55.601111,
                         "lng": 38.136944,
                         "order": 35,
@@ -5004,7 +5004,7 @@
                     },
                     {
                         "id": "135.876",
-                        "name": "Hippodrome",
+                        "name": "Ippodrom",
                         "lat": 55.560278,
                         "lng": 38.238889,
                         "order": 40,
@@ -5019,18 +5019,18 @@
             {
                 "id": "136",
                 "hex_color": "00CC66",
-                "name": "D4",
+                "name": "MCD-4",
                 "stations": [
                     {
                         "id": "136.877",
-                        "name": "Railway",
+                        "name": "Zheleznodorozhnaya",
                         "lat": 55.7525,
                         "lng": 38.008889,
                         "order": 0,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5042,7 +5042,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5054,7 +5054,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5066,7 +5066,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5078,7 +5078,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5090,7 +5090,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5102,7 +5102,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5114,7 +5114,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5126,7 +5126,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5138,7 +5138,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5150,7 +5150,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5162,19 +5162,19 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.890",
-                        "name": "Area of ​​three stations",
+                        "name": "Ploschad Tryokh Vokzalov",
                         "lat": 55.776667,
                         "lng": 37.651111,
                         "order": 12,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5186,31 +5186,31 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.892",
-                        "name": "Marina Grove",
+                        "name": "Maryina Roscha",
                         "lat": 55.800833,
                         "lng": 37.618889,
                         "order": 14,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.893",
-                        "name": "Savelovskaya",
+                        "name": "Savyolovskaya",
                         "lat": 55.794444,
                         "lng": 37.590278,
                         "order": 15,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5222,7 +5222,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5234,19 +5234,19 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.896",
-                        "name": "Ermakova Grove",
+                        "name": "Ermakova Roscha",
                         "lat": 55.765556,
                         "lng": 37.535278,
                         "order": 18,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5258,7 +5258,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5270,7 +5270,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5282,7 +5282,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5294,31 +5294,31 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.901",
-                        "name": "Matveevskoe",
+                        "name": "Matveyevskoe",
                         "lat": 55.704722,
                         "lng": 37.482222,
                         "order": 23,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.902",
-                        "name": "Aminevskaya",
+                        "name": "Aminyevskaya",
                         "lat": 55.699444,
                         "lng": 37.468056,
                         "order": 24,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5330,7 +5330,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5342,7 +5342,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5354,7 +5354,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5366,7 +5366,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5378,7 +5378,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5390,7 +5390,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5402,7 +5402,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5414,7 +5414,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5426,7 +5426,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5438,7 +5438,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5450,19 +5450,19 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
                         "id": "136.914",
-                        "name": "Krekshino",
+                        "name": "Kryokshino",
                         "lat": 55.577778,
                         "lng": 37.109722,
                         "order": 36,
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5474,7 +5474,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     },
                     {
@@ -5486,7 +5486,7 @@
                         "line": {
                             "id": "136",
                             "hex_color": "00CC66",
-                            "name": "D4"
+                            "name": "MCD-4"
                         }
                     }
                 ]
