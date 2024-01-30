@@ -344,7 +344,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,132,D2,E74683,132.722,Grazhdanskaya,55.805527,37.55315,12
 1,Moscow,132,D2,E74683,132.723,Dmitrovskaya,55.808056,37.581734,13
 1,Moscow,132,D2,E74683,132.724,Rizhskaya,55.792494,37.636114,14
-1,Moscow,132,D2,E74683,132.725,Kalanchyovskaya,55.77667,37.65111,15
+1,Moscow,132,D2,E74683,132.725,"Ploschad Tryokh Vokzalov",55.776087,37.651861,15
 1,Moscow,132,D2,E74683,132.726,Kurskaya,55.757622,37.660767,16
 1,Moscow,132,D2,E74683,132.727,Moskva-Tovarnaya,55.745358,37.688839,17
 1,Moscow,132,D2,E74683,132.728,Kalitniki,55.733981,37.702203,18

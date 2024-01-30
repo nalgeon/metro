@@ -4277,9 +4277,9 @@
                     },
                     {
                         "id": "132.725",
-                        "name": "Kalanchyovskaya",
-                        "lat": 55.77667,
-                        "lng": 37.65111,
+                        "name": "Ploschad Tryokh Vokzalov",
+                        "lat": 55.776087,
+                        "lng": 37.651861,
                         "order": 15,
                         "line": {
                             "id": "132",
