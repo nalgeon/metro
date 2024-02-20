@@ -4514,6 +4514,18 @@
                             "hex_color": "E74683",
                             "name": "D2"
                         }
+                    },
+                    {
+                        "id": "132.917",
+                        "name": "Maryina Grove",
+                        "lat": 55.800833,
+                        "lng": 37.618889,
+                        "order": 35,
+                        "line": {
+                            "id": "132",
+                            "hex_color": "E74683",
+                            "name": "D2"
+                        }
                     }
                 ]
             },
