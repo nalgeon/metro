@@ -364,7 +364,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,132,D2,E74683,132.741,Ostafyevo,55.50337,37.520055,32
 1,Moscow,132,D2,E74683,132.742,Silikatnaya,55.470278,37.555278,33
 1,Moscow,132,D2,E74683,132.743,Podolsk,55.431667,37.565,34
-1,Moscow,132,D2,E74683,132.917,"Maryina Grove",55.800833,37.618889,35
+1,Moscow,132,D2,E74683,132.917,"Maryina Roscha",55.800833,37.618889,35
 1,Moscow,135,MCD-3,EA5B04,135.836,Kryukovo,55.979722,37.173611,0
 1,Moscow,135,MCD-3,EA5B04,135.837,Malino,55.969167,37.211667,1
 1,Moscow,135,MCD-3,EA5B04,135.838,Firsanovskaya,55.960278,37.251111,2
