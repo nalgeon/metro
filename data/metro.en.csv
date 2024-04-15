@@ -423,7 +423,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,136,MCD-4,00CC66,136.892,"Maryina Roscha",55.800833,37.618889,14
 1,Moscow,136,MCD-4,00CC66,136.893,Savyolovskaya,55.794444,37.590278,15
 1,Moscow,136,MCD-4,00CC66,136.894,Belorusskaya,55.776389,37.580278,16
-1,Moscow,136,MCD-4,00CC66,136.895,Begovaya,55.770833,55.770833,17
 1,Moscow,136,MCD-4,00CC66,136.896,"Ermakova Roscha",55.765556,37.535278,18
 1,Moscow,136,MCD-4,00CC66,136.897,Testovskaya,55.750833,37.530278,19
 1,Moscow,136,MCD-4,00CC66,136.898,Kutuzovskaya,55.741944,37.533056,20

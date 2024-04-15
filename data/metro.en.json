@@ -5238,18 +5238,6 @@
                         }
                     },
                     {
-                        "id": "136.895",
-                        "name": "Begovaya",
-                        "lat": 55.770833,
-                        "lng": 55.770833,
-                        "order": 17,
-                        "line": {
-                            "id": "136",
-                            "hex_color": "00CC66",
-                            "name": "MCD-4"
-                        }
-                    },
-                    {
                         "id": "136.896",
                         "name": "Ermakova Roscha",
                         "lat": 55.765556,
