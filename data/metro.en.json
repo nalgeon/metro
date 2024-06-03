@@ -2804,6 +2804,18 @@
                             "hex_color": "FFCD1C",
                             "name": "Line 8A"
                         }
+                    },
+                    {
+                        "id": "133.918",
+                        "name": "Vnukovo Airport",
+                        "lat": 55.606667,
+                        "lng": 37.288333,
+                        "order": 13,
+                        "line": {
+                            "id": "133",
+                            "hex_color": "FFCD1C",
+                            "name": "Line 8A"
+                        }
                     }
                 ]
             },

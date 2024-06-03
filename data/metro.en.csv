@@ -225,6 +225,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,133,"Line 8A",FFCD1C,133.611,"Borovskoye Highway",55.647,37.3701,10
 1,Moscow,133,"Line 8A",FFCD1C,133.612,Novoperedelkino,55.6385,37.3544,11
 1,Moscow,133,"Line 8A",FFCD1C,133.613,Rasskazovka,55.6324,37.3328,12
+1,Moscow,133,"Line 8A",FFCD1C,133.918,"Vnukovo Airport",55.606667,37.288333,13
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.515,Okruzhnaya,55.848889,37.571111,0
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.516,Vladykino,55.847222,37.591944,1
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.517,"Botanichesky Sad",55.845556,37.640278,2
