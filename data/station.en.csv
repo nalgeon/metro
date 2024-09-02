@@ -114,7 +114,7 @@ id,city_id,line_id,name,lat,lng,order
 4.132,1,4,Smolenskaya,55.749083,37.582173,8
 4.11,1,4,Arbatskaya,55.752122,37.601553,9
 4.6,1,4,"Alexandrovskiy Sad",55.752255,37.608775,10
-4.172,1,4,"Delovoy tsentr (Vystavochnaya)",55.750243,37.542641,11
+4.172,1,4,"Delovoy Tsentr (Vystavochnaya)",55.750243,37.542641,11
 4.179,1,4,"Moscow City",55.748056,37.532778,12
 9.9,1,9,Altufievo,55.899034,37.586473,0
 9.22,1,9,Bibirevo,55.883868,37.603011,1
