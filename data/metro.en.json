@@ -1004,10 +1004,22 @@
                     },
                     {
                         "id": "1.681",
-                        "name": "Kommunarka",
+                        "name": "Novomoskovskaya (Kommunarka)",
                         "lat": 55.559765,
                         "lng": 37.468716,
                         "order": 25,
+                        "line": {
+                            "id": "1",
+                            "hex_color": "E42313",
+                            "name": "Sokolnicheskaya"
+                        }
+                    },
+                    {
+                        "id": "1.919",
+                        "name": "Potapovo",
+                        "lat": 55.552538,
+                        "lng": 37.490978,
+                        "order": 26,
                         "line": {
                             "id": "1",
                             "hex_color": "E42313",
