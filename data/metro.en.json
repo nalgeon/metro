@@ -5514,6 +5514,61 @@
                         }
                     }
                 ]
+            },
+            {
+                "id": "137",
+                "hex_color": "03795F",
+                "name": "Troitskaya",
+                "stations": [
+                    {
+                        "id": "137.921",
+                        "name": "Novatorskaya",
+                        "lat": 55.670833,
+                        "lng": 37.52,
+                        "order": 0,
+                        "line": {
+                            "id": "137",
+                            "hex_color": "03795F",
+                            "name": "Troitskaya"
+                        }
+                    },
+                    {
+                        "id": "137.920",
+                        "name": "Universitet Druzhby Narodov",
+                        "lat": 55.64824,
+                        "lng": 37.507556,
+                        "order": 1,
+                        "line": {
+                            "id": "137",
+                            "hex_color": "03795F",
+                            "name": "Troitskaya"
+                        }
+                    },
+                    {
+                        "id": "137.922",
+                        "name": "General Tyulenev",
+                        "lat": 55.626248,
+                        "lng": 37.486032,
+                        "order": 2,
+                        "line": {
+                            "id": "137",
+                            "hex_color": "03795F",
+                            "name": "Troitskaya"
+                        }
+                    },
+                    {
+                        "id": "137.923",
+                        "name": "Tyutchevskaya",
+                        "lat": 55.618801,
+                        "lng": 37.481415,
+                        "order": 3,
+                        "line": {
+                            "id": "137",
+                            "hex_color": "03795F",
+                            "name": "Troitskaya"
+                        }
+                    }
+                ]
             }
         ]
     },
