@@ -448,7 +448,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,136,MCD-4,00CC66,136.916,Aprelevka,55.550278,37.0675,38
 1,Moscow,137,Troitskaya,03795F,137.921,Novatorskaya,55.670833,37.52,0
 1,Moscow,137,Troitskaya,03795F,137.920,"Universitet Druzhby Narodov",55.64824,37.507556,1
-1,Moscow,137,Troitskaya,03795F,137.922,"General Tyulenev",55.626248,37.486032,2
+1,Moscow,137,Troitskaya,03795F,137.922,"Generala Tyuleneva",55.626248,37.486032,2
 1,Moscow,137,Troitskaya,03795F,137.923,Tyutchevskaya,55.618801,37.481415,3
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
