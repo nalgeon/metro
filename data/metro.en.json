@@ -6192,11 +6192,23 @@
                 "name": "Pravoberezhnaya",
                 "stations": [
                     {
+                        "id": "17.924",
+                        "name": "Gornyy institut",
+                        "lat": 59.5557,
+                        "lng": 59.5557,
+                        "order": 0,
+                        "line": {
+                            "id": "17",
+                            "hex_color": "EA7125",
+                            "name": "Pravoberezhnaya"
+                        }
+                    },
+                    {
                         "id": "17.237",
                         "name": "Spasskaya",
                         "lat": 59.927135,
                         "lng": 30.320316,
-                        "order": 0,
+                        "order": 1,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6208,7 +6220,7 @@
                         "name": "Dostoyevskaya",
                         "lat": 59.928234,
                         "lng": 30.346029,
-                        "order": 1,
+                        "order": 2,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6220,7 +6232,7 @@
                         "name": "Ligovskiy Prospekt",
                         "lat": 59.920811,
                         "lng": 30.355055,
-                        "order": 2,
+                        "order": 3,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6232,7 +6244,7 @@
                         "name": "Ploschad' Alexandra Nevskogo II",
                         "lat": 59.923563,
                         "lng": 30.383421,
-                        "order": 3,
+                        "order": 4,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6244,7 +6256,7 @@
                         "name": "Novocherkasskaya",
                         "lat": 59.929092,
                         "lng": 30.411915,
-                        "order": 4,
+                        "order": 5,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6256,7 +6268,7 @@
                         "name": "Ladozhskaya",
                         "lat": 59.93243,
                         "lng": 30.439274,
-                        "order": 5,
+                        "order": 6,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6268,7 +6280,7 @@
                         "name": "Prospekt Bol'shevikov",
                         "lat": 59.919838,
                         "lng": 30.466757,
-                        "order": 6,
+                        "order": 7,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
@@ -6280,7 +6292,7 @@
                         "name": "Ulitsa Dybenko",
                         "lat": 59.907417,
                         "lng": 30.483311,
-                        "order": 7,
+                        "order": 8,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
