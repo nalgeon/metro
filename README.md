@@ -6,7 +6,7 @@ Data is provided in JSON, CSV and SQLite formats, in English and Russian languag
 
 English data:
 
-- [metro.en.json](data/metro.en.json) - dataset as provided by [HeadHunter API](https://github.com/hhru/api/blob/master/docs_eng/metro.md)
+- [metro.en.json](data/metro.en.json) - dataset as provided by [HeadHunter API](https://api.hh.ru/openapi/en/redoc#tag/Public-directories/operation/get-metro-stations)
 - [metro.en.db](data/metro.en.db) - dataset as SQLite database
 - [metro.en.csv](data/metro.en.csv) - dataset as CSV
 - [city.en.csv](data/city.en.csv) - individual cities as CSV
@@ -15,7 +15,7 @@ English data:
 
 Russian data:
 
-- [metro.ru.json](data/metro.ru.json) - dataset as provided by [HeadHunter API](https://github.com/hhru/api/blob/master/docs/metro.md)
+- [metro.ru.json](data/metro.ru.json) - dataset as provided by [HeadHunter API](https://api.hh.ru/openapi/redoc#tag/Obshie-spravochniki/operation/get-metro-stations)
 - [metro.ru.db](data/metro.ru.db) - dataset as SQLite database
 - [metro.ru.csv](data/metro.ru.csv) - dataset as CSV
 - [city.ru.csv](data/city.ru.csv) - individual cities as CSV
