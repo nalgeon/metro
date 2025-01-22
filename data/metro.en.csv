@@ -450,6 +450,9 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,137,Troitskaya,03795F,137.920,"Universitet Druzhby Narodov",55.64824,37.507556,1
 1,Moscow,137,Troitskaya,03795F,137.922,"Generala Tyuleneva",55.626248,37.486032,2
 1,Moscow,137,Troitskaya,03795F,137.923,Tyutchevskaya,55.618801,37.481415,3
+1,Moscow,137,Troitskaya,03795F,137.928,Kornilovskaya,55.599411,37.479586,4
+1,Moscow,137,Troitskaya,03795F,137.929,Kommunarka,55.57354,37.468116,5
+1,Moscow,137,Troitskaya,03795F,137.930,Novomoskovskaya,55.560094,37.469807,6
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2
@@ -698,10 +701,13 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1002,Minsk,63,Avtozavodskaya,BF0808,63.427,Partizanskaya,53.87582,27.628998,11
 1002,Minsk,63,Avtozavodskaya,BF0808,63.428,Avtozavodskaya,53.868945,27.648788,12
 1002,Minsk,63,Avtozavodskaya,BF0808,63.429,Mogilevskaya,53.861862,27.674381,13
-1002,Minsk,134,Zelenoluzhskaya,009A49,134.796,Vokzalnaya,53.889722,27.546944,0
-1002,Minsk,134,Zelenoluzhskaya,009A49,134.797,"Jubilee Square",53.904406,27.539975,1
-1002,Minsk,134,Zelenoluzhskaya,009A49,134.798,"Frantisk Bogushevich Square",53.896667,27.538333,2
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.797,"Jubilee Square",53.904406,27.539975,0
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.798,"Frantisk Bogushevich Square",53.896667,27.538333,1
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.796,Vokzalnaya,53.889722,27.546944,2
 1002,Minsk,134,Zelenoluzhskaya,009A49,134.799,"Kovalskaya Sloboda",53.874167,27.549444,3
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.925,Aerodromnaya,53.867939,27.547719,4
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.926,"Nemorshanskiy sad",53.849712,27.536931,5
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.927,"Slutskiy Gostinets",53.842035,27.53367,6
 160,Almaty,64,Pervaya,CD0505,64.430,"Raiymbek Batyr",43.271201,76.9448,0
 160,Almaty,64,Pervaya,CD0505,64.431,"Zhibek Zholy",43.260199,76.946103,1
 160,Almaty,64,Pervaya,CD0505,64.432,Almaly,43.251295,76.945456,2
