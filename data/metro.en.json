@@ -704,7 +704,7 @@
                 "stations": [
                     {
                         "id": "1.148",
-                        "name": " Bulvar Rokossovskogo",
+                        "name": "Bulvar Rokossovskogo",
                         "lat": 55.814916,
                         "lng": 37.732227,
                         "order": 0,
@@ -1968,7 +1968,7 @@
                     },
                     {
                         "id": "7.139",
-                        "name": "Textilschiki",
+                        "name": "Tekstilshchiki",
                         "lat": 55.709211,
                         "lng": 37.732117,
                         "order": 16,
@@ -3392,7 +3392,7 @@
                     },
                     {
                         "id": "97.831",
-                        "name": "Maple Boulevard",
+                        "name": "Klenovy Bulvar",
                         "lat": 55.674444,
                         "lng": 37.680833,
                         "order": 8,
@@ -3428,7 +3428,7 @@
                     },
                     {
                         "id": "97.828",
-                        "name": "Textile workers",
+                        "name": "Tekstilshchiki",
                         "lat": 55.708333,
                         "lng": 37.728333,
                         "order": 11,
@@ -4361,7 +4361,7 @@
                     },
                     {
                         "id": "132.730",
-                        "name": "Tekstilschiki",
+                        "name": "Tekstilshchiki",
                         "lat": 55.708934,
                         "lng": 37.731283,
                         "order": 20,
