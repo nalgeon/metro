@@ -6225,18 +6225,18 @@
             {
                 "id": "17",
                 "hex_color": "EA7125",
-                "name": "Pravoberezhnaya",
+                "name": "Lakhtinsko-Pravoberezhnaya",
                 "stations": [
                     {
                         "id": "17.924",
-                        "name": "Gornyy institut",
+                        "name": "Gorny Institut",
                         "lat": 59.5557,
                         "lng": 59.5557,
                         "order": 0,
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6248,7 +6248,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6260,7 +6260,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6272,7 +6272,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6284,7 +6284,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6296,7 +6296,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6308,7 +6308,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6320,7 +6320,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     },
                     {
@@ -6332,7 +6332,7 @@
                         "line": {
                             "id": "17",
                             "hex_color": "EA7125",
-                            "name": "Pravoberezhnaya"
+                            "name": "Lakhtinsko-Pravoberezhnaya"
                         }
                     }
                 ]
@@ -8866,7 +8866,7 @@
                     },
                     {
                         "id": "134.926",
-                        "name": "Nemorshanskiy sad",
+                        "name": "Nemorshanski sad",
                         "lat": 53.849712,
                         "lng": 27.536931,
                         "order": 5,
@@ -8878,7 +8878,7 @@
                     },
                     {
                         "id": "134.927",
-                        "name": "Slutskiy Gostinets",
+                        "name": "Slutski Hastsinets",
                         "lat": 53.842035,
                         "lng": 27.53367,
                         "order": 6,

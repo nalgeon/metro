@@ -502,15 +502,15 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.235,Obukhovo,59.848709,30.457743,10
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.236,Rybatskoye,59.830986,30.501259,11
 2,"Saint Petersburg",16,Nevsko-Vasileostrovskaya,009A49,16.808,Zenith,59.972222,30.211667,12
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.924,"Gornyy institut",59.5557,59.5557,0
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.237,Spasskaya,59.927135,30.320316,1
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.238,Dostoyevskaya,59.928234,30.346029,2
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.239,"Ligovskiy Prospekt",59.920811,30.355055,3
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.240,"Ploschad' Alexandra Nevskogo II",59.923563,30.383421,4
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.241,Novocherkasskaya,59.929092,30.411915,5
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.242,Ladozhskaya,59.93243,30.439274,6
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.243,"Prospekt Bol'shevikov",59.919838,30.466757,7
-2,"Saint Petersburg",17,Pravoberezhnaya,EA7125,17.244,"Ulitsa Dybenko",59.907417,30.483311,8
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.924,"Gorny Institut",59.5557,59.5557,0
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.237,Spasskaya,59.927135,30.320316,1
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.238,Dostoyevskaya,59.928234,30.346029,2
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.239,"Ligovskiy Prospekt",59.920811,30.355055,3
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.240,"Ploschad' Alexandra Nevskogo II",59.923563,30.383421,4
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.241,Novocherkasskaya,59.929092,30.411915,5
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.242,Ladozhskaya,59.93243,30.439274,6
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.243,"Prospekt Bol'shevikov",59.919838,30.466757,7
+2,"Saint Petersburg",17,Lakhtinsko-Pravoberezhnaya,EA7125,17.244,"Ulitsa Dybenko",59.907417,30.483311,8
 2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.245,"Komendantskiy Prospekt",60.008591,30.258663,0
 2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.246,"Staraya Derevnya",59.989433,30.255163,1
 2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.247,"Krestovskiy Ostrov",59.971821,30.259436,2
@@ -706,8 +706,8 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1002,Minsk,134,Zelenoluzhskaya,009A49,134.796,Vokzalnaya,53.889722,27.546944,2
 1002,Minsk,134,Zelenoluzhskaya,009A49,134.799,"Kovalskaya Sloboda",53.874167,27.549444,3
 1002,Minsk,134,Zelenoluzhskaya,009A49,134.925,Aerodromnaya,53.867939,27.547719,4
-1002,Minsk,134,Zelenoluzhskaya,009A49,134.926,"Nemorshanskiy sad",53.849712,27.536931,5
-1002,Minsk,134,Zelenoluzhskaya,009A49,134.927,"Slutskiy Gostinets",53.842035,27.53367,6
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.926,"Nemorshanski sad",53.849712,27.536931,5
+1002,Minsk,134,Zelenoluzhskaya,009A49,134.927,"Slutski Hastsinets",53.842035,27.53367,6
 160,Almaty,64,Pervaya,CD0505,64.430,"Raiymbek Batyr",43.271201,76.9448,0
 160,Almaty,64,Pervaya,CD0505,64.431,"Zhibek Zholy",43.260199,76.946103,1
 160,Almaty,64,Pervaya,CD0505,64.432,Almaly,43.251295,76.945456,2
