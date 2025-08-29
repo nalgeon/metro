@@ -258,12 +258,6 @@ id,city_id,line_id,name,lat,lng,order
 95.543,1,95,Baltiyskaya,55.825833,37.496111,28
 95.544,1,95,Koptevo,55.839637,37.520037,29
 95.545,1,95,Likhobory,55.847222,37.551389,30
-96.549,1,96,Timiryazevskaya,55.819049,37.578882,0
-96.550,1,96,"Ulitsa Milashenkova",55.821876,37.591206,1
-96.551,1,96,"Television Center",55.821795,37.608975,2
-96.552,1,96,"Ulitsa Akademika Koroleva",55.821821,37.627167,3
-96.553,1,96,"Exhibition Center",55.824086,37.638494,4
-96.554,1,96,"Ulitsa Sergeya Eisensteina",55.829305,37.644997,5
 97.813,1,97,"Michurinskiy Prospekt",55.688333,37.485,0
 97.814,1,97,"Prospekt Vernadskogo",55.677778,37.505,1
 97.815,1,97,Novatorskaya,55.670833,37.52,2

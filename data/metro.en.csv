@@ -258,12 +258,6 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.543,Baltiyskaya,55.825833,37.496111,28
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.544,Koptevo,55.839637,37.520037,29
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.545,Likhobory,55.847222,37.551389,30
-1,Moscow,96,Monorail,006DA8,96.549,Timiryazevskaya,55.819049,37.578882,0
-1,Moscow,96,Monorail,006DA8,96.550,"Ulitsa Milashenkova",55.821876,37.591206,1
-1,Moscow,96,Monorail,006DA8,96.551,"Television Center",55.821795,37.608975,2
-1,Moscow,96,Monorail,006DA8,96.552,"Ulitsa Akademika Koroleva",55.821821,37.627167,3
-1,Moscow,96,Monorail,006DA8,96.553,"Exhibition Center",55.824086,37.638494,4
-1,Moscow,96,Monorail,006DA8,96.554,"Ulitsa Sergeya Eisensteina",55.829305,37.644997,5
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.813,"Michurinskiy Prospekt",55.688333,37.485,0
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Prospekt Vernadskogo",55.677778,37.505,1
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,2
