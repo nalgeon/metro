@@ -440,13 +440,17 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,136,MCD-4,00CC66,136.914,Kryokshino,55.577778,37.109722,36
 1,Moscow,136,MCD-4,00CC66,136.915,Pobeda,55.566111,37.093056,37
 1,Moscow,136,MCD-4,00CC66,136.916,Aprelevka,55.550278,37.0675,38
-1,Moscow,137,Troitskaya,03795F,137.921,Novatorskaya,55.670833,37.52,0
-1,Moscow,137,Troitskaya,03795F,137.920,"Universitet Druzhby Narodov",55.64824,37.507556,1
-1,Moscow,137,Troitskaya,03795F,137.922,"Generala Tyuleneva",55.626248,37.486032,2
-1,Moscow,137,Troitskaya,03795F,137.923,Tyutchevskaya,55.618801,37.481415,3
-1,Moscow,137,Troitskaya,03795F,137.928,Kornilovskaya,55.599411,37.479586,4
-1,Moscow,137,Troitskaya,03795F,137.929,Kommunarka,55.57354,37.468116,5
-1,Moscow,137,Troitskaya,03795F,137.930,Novomoskovskaya,55.560094,37.469807,6
+1,Moscow,137,Troitskaya,03795F,137.964,ZIL,55.697915,37.647565,0
+1,Moscow,137,Troitskaya,03795F,137.963,Krimskaya,55.689971,37.605612,1
+1,Moscow,137,Troitskaya,03795F,137.962,Akademicheskaya,55.68808,37.57501,2
+1,Moscow,137,Troitskaya,03795F,137.961,Vavilovskaya,55.686688,37.543706,3
+1,Moscow,137,Troitskaya,03795F,137.921,Novatorskaya,55.670833,37.52,4
+1,Moscow,137,Troitskaya,03795F,137.920,"Universitet Druzhby Narodov",55.64824,37.507556,5
+1,Moscow,137,Troitskaya,03795F,137.922,"Generala Tyuleneva",55.626248,37.486032,6
+1,Moscow,137,Troitskaya,03795F,137.923,Tyutchevskaya,55.618801,37.481415,7
+1,Moscow,137,Troitskaya,03795F,137.928,Kornilovskaya,55.599411,37.479586,8
+1,Moscow,137,Troitskaya,03795F,137.929,Kommunarka,55.57354,37.468116,9
+1,Moscow,137,Troitskaya,03795F,137.930,Novomoskovskaya,55.560094,37.469807,10
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2
