@@ -6492,6 +6492,37 @@
                         }
                     }
                 ]
+            },
+            {
+                "id": "170",
+                "hex_color": "8C5646",
+                "name": "Krasnoselsko-Kalininskaya",
+                "stations": [
+                    {
+                        "id": "170.965",
+                        "name": "yugo-zapadnaya",
+                        "lat": 59.859176,
+                        "lng": 30.230304,
+                        "order": 0,
+                        "line": {
+                            "id": "170",
+                            "hex_color": "8C5646",
+                            "name": "Krasnoselsko-Kalininskaya"
+                        }
+                    },
+                    {
+                        "id": "170.966",
+                        "name": "Avtovo",
+                        "lat": 59.867256,
+                        "lng": 30.26108,
+                        "order": 1,
+                        "line": {
+                            "id": "170",
+                            "hex_color": "8C5646",
+                            "name": "Krasnoselsko-Kalininskaya"
+                        }
+                    }
+                ]
             }
         ]
     },
