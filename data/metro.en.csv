@@ -525,7 +525,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.683,"Slavy Prospekt",59.856704,30.395402,13
 2,"Saint Petersburg",18,Frunzensko-Primorskaya,702785,18.684,Shushary,59.819973,30.432718,14
 2,"Saint Petersburg",170,Krasnoselsko-Kalininskaya,8C5646,170.965,yugo-zapadnaya,59.859176,30.230304,0
-2,"Saint Petersburg",170,Krasnoselsko-Kalininskaya,8C5646,170.966,Avtovo,59.867256,30.26108,1
+2,"Saint Petersburg",170,Krasnoselsko-Kalininskaya,8C5646,170.966,Putilovskaya,59.878699,30.264601,1
 3,Yekaterinburg,48,Sever-Yug,0A6F20,48.261,"Prospekt Kosmonavtov",56.900393,60.613878,0
 3,Yekaterinburg,48,Sever-Yug,0A6F20,48.262,Uralmash,56.887674,60.614165,1
 3,Yekaterinburg,48,Sever-Yug,0A6F20,48.263,Mashinostroiteley,56.878517,60.61218,2
