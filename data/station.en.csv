@@ -569,7 +569,8 @@ id,city_id,line_id,name,lat,lng,order
 52.298,4,52,Oktyabrskaya,55.018789,82.939007,4
 52.299,4,52,"Rechnoy Vokzal",55.008738,82.93827,5
 52.300,4,52,Studencheskaya,54.989089,82.906631,6
-52.301,4,52,"Ploschad Marksa",54.982931,82.89313,7
+52.967,4,52,Sportivnaya,54.996944,82.920556,7
+52.301,4,52,"Ploschad Marksa",54.982931,82.89313,8
 53.302,4,53,"Ploschad Garina-Mikhaylovskogo",55.035947,82.897783,0
 53.303,4,53,Sibirskaya,55.042163,82.919172,1
 53.304,4,53,"Marshala Pokryshkina",55.043634,82.935566,2

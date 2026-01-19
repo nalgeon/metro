@@ -7102,11 +7102,23 @@
                         }
                     },
                     {
+                        "id": "52.967",
+                        "name": "Sportivnaya",
+                        "lat": 54.996944,
+                        "lng": 82.920556,
+                        "order": 7,
+                        "line": {
+                            "id": "52",
+                            "hex_color": "CD0505",
+                            "name": "Leninskaya"
+                        }
+                    },
+                    {
                         "id": "52.301",
                         "name": "Ploschad Marksa",
                         "lat": 54.982931,
                         "lng": 82.89313,
-                        "order": 7,
+                        "order": 8,
                         "line": {
                             "id": "52",
                             "hex_color": "CD0505",

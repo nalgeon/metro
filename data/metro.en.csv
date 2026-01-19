@@ -569,7 +569,8 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 4,Novosibirsk,52,Leninskaya,CD0505,52.298,Oktyabrskaya,55.018789,82.939007,4
 4,Novosibirsk,52,Leninskaya,CD0505,52.299,"Rechnoy Vokzal",55.008738,82.93827,5
 4,Novosibirsk,52,Leninskaya,CD0505,52.300,Studencheskaya,54.989089,82.906631,6
-4,Novosibirsk,52,Leninskaya,CD0505,52.301,"Ploschad Marksa",54.982931,82.89313,7
+4,Novosibirsk,52,Leninskaya,CD0505,52.967,Sportivnaya,54.996944,82.920556,7
+4,Novosibirsk,52,Leninskaya,CD0505,52.301,"Ploschad Marksa",54.982931,82.89313,8
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.302,"Ploschad Garina-Mikhaylovskogo",55.035947,82.897783,0
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.303,Sibirskaya,55.042163,82.919172,1
 4,Novosibirsk,53,Dzerzhinskaya,0A6F20,53.304,"Marshala Pokryshkina",55.043634,82.935566,2
