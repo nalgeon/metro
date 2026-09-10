@@ -452,6 +452,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,137,Troitskaya,03795F,137.929,Kommunarka,55.57354,37.468116,9
 1,Moscow,137,Troitskaya,03795F,137.930,Novomoskovskaya,55.560094,37.469807,10
 1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.968,"Boulevard General Karbyshev",55.780704,37.469844,0
+1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.969,Zvenigorodskaya,55.779711,37.388256,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2

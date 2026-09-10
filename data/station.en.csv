@@ -452,6 +452,7 @@ id,city_id,line_id,name,lat,lng,order
 137.929,1,137,Kommunarka,55.57354,37.468116,9
 137.930,1,137,Novomoskovskaya,55.560094,37.469807,10
 171.968,1,171,"Boulevard General Karbyshev",55.780704,37.469844,0
+171.969,1,171,Zvenigorodskaya,55.779711,37.388256,1
 14.190,2,14,Devyatkino,60.050182,30.443045,0
 14.191,2,14,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 14.192,2,14,Akademicheskaya,60.012806,30.396044,2
