@@ -283,7 +283,7 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.601,Khoroshevskaya,55.77643,37.51981,22
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.602,Shelepikha,55.75723,37.52571,23
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,24
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.77592,37.485073,25
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775444,37.484165,25
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,26
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,Terekhovo,55.748108,37.459738,27
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,28
@@ -452,7 +452,10 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,137,Troitskaya,03795F,137.929,Kommunarka,55.57354,37.468116,9
 1,Moscow,137,Troitskaya,03795F,137.930,Novomoskovskaya,55.560094,37.469807,10
 1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.968,"Boulevard General Karbyshev",55.780704,37.469844,0
-1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.969,Zvenigorodskaya,55.766102,37.509393,1
+1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.970,"People's Militia",55.775444,37.484165,1
+1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.969,Zvenigorodskaya,55.766102,37.509393,2
+1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.971,Shelepikha,55.7575,37.525556,3
+1,Moscow,171,"Rublyovo-Arkhangelskaya line",646464,171.972,"Business Center",55.747222,37.532222,4
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.190,Devyatkino,60.050182,30.443045,0
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.191,"Grazhdanskiy Prospekt",60.034969,30.418224,1
 2,"Saint Petersburg",14,Kirovsko-Vyborgskaya,D6083B,14.192,Akademicheskaya,60.012806,30.396044,2
