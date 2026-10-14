@@ -249,15 +249,13 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.534,"Ploshchad Gagarina",55.706944,37.585833,19
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.535,Luzhniki,55.720278,37.563056,20
 1,Moscow,95,"Moscow Central Circle",CC4C6E,95.536,Kutuzovskaya,55.740833,37.533333,21
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.537,"Business Center",55.747222,37.532222,22
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.538,Shelepikha,55.7575,37.525556,23
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.539,Khoroshevo,55.777222,37.507222,24
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.540,Zorge,55.787778,37.504444,25
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.541,Panfilovskaya,55.799167,37.498889,26
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.542,Streshnevo,55.813611,37.486944,27
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.543,Baltiyskaya,55.825833,37.496111,28
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.544,Koptevo,55.839637,37.520037,29
-1,Moscow,95,"Moscow Central Circle",CC4C6E,95.545,Likhobory,55.847222,37.551389,30
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.539,Khoroshevo,55.777222,37.507222,22
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.540,Zorge,55.787778,37.504444,23
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.541,Panfilovskaya,55.799167,37.498889,24
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.542,Streshnevo,55.813611,37.486944,25
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.543,Baltiyskaya,55.825833,37.496111,26
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.544,Koptevo,55.839637,37.520037,27
+1,Moscow,95,"Moscow Central Circle",CC4C6E,95.545,Likhobory,55.847222,37.551389,28
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.813,"Michurinskiy Prospekt",55.688333,37.485,0
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.814,"Prospekt Vernadskogo",55.677778,37.505,1
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.815,Novatorskaya,55.670833,37.52,2
@@ -281,14 +279,12 @@ city_id,city_name,line_id,line_name,line_hex_color,station_id,station_name,lat,l
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.599,"Petrovsky Park",55.79233,37.55952,20
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.600,CSKA,55.78643,37.53502,21
 1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.601,Khoroshevskaya,55.77643,37.51981,22
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.602,Shelepikha,55.75723,37.52571,23
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.603,"Business center",55.7491,37.5395,24
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775444,37.484165,25
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,26
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,Terekhovo,55.748108,37.459738,27
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,28
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.811,Davydkovo,55.715278,37.451667,29
-1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.812,Aminyevskaya,55.697222,37.464167,30
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.806,"People's Militia",55.775444,37.484165,23
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.805,Mnevniki,55.761153,37.47139,24
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.809,Terekhovo,55.748108,37.459738,25
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.810,Kuntsevskaya,55.730278,37.445833,26
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.811,Davydkovo,55.715278,37.451667,27
+1,Moscow,97,"Bolshaya Koltsevaya line",88CDCF,97.812,Aminyevskaya,55.697222,37.464167,28
 1,Moscow,98,Nekrasovskaya,CC0066,98.675,Kosino,55.7026,37.8511,0
 1,Moscow,98,Nekrasovskaya,CC0066,98.676,"Dmitriyevskogo Street",55.7093,37.8792,1
 1,Moscow,98,Nekrasovskaya,CC0066,98.677,Lukhmanovskaya,55.7078,37.9004,2

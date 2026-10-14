@@ -3101,35 +3101,11 @@
                         }
                     },
                     {
-                        "id": "95.537",
-                        "name": "Business Center",
-                        "lat": 55.747222,
-                        "lng": 37.532222,
-                        "order": 22,
-                        "line": {
-                            "id": "95",
-                            "hex_color": "CC4C6E",
-                            "name": "Moscow Central Circle"
-                        }
-                    },
-                    {
-                        "id": "95.538",
-                        "name": "Shelepikha",
-                        "lat": 55.7575,
-                        "lng": 37.525556,
-                        "order": 23,
-                        "line": {
-                            "id": "95",
-                            "hex_color": "CC4C6E",
-                            "name": "Moscow Central Circle"
-                        }
-                    },
-                    {
                         "id": "95.539",
                         "name": "Khoroshevo",
                         "lat": 55.777222,
                         "lng": 37.507222,
-                        "order": 24,
+                        "order": 22,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3141,7 +3117,7 @@
                         "name": "Zorge",
                         "lat": 55.787778,
                         "lng": 37.504444,
-                        "order": 25,
+                        "order": 23,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3153,7 +3129,7 @@
                         "name": "Panfilovskaya",
                         "lat": 55.799167,
                         "lng": 37.498889,
-                        "order": 26,
+                        "order": 24,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3165,7 +3141,7 @@
                         "name": "Streshnevo",
                         "lat": 55.813611,
                         "lng": 37.486944,
-                        "order": 27,
+                        "order": 25,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3177,7 +3153,7 @@
                         "name": "Baltiyskaya",
                         "lat": 55.825833,
                         "lng": 37.496111,
-                        "order": 28,
+                        "order": 26,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3189,7 +3165,7 @@
                         "name": "Koptevo",
                         "lat": 55.839637,
                         "lng": 37.520037,
-                        "order": 29,
+                        "order": 27,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3201,7 +3177,7 @@
                         "name": "Likhobory",
                         "lat": 55.847222,
                         "lng": 37.551389,
-                        "order": 30,
+                        "order": 28,
                         "line": {
                             "id": "95",
                             "hex_color": "CC4C6E",
@@ -3492,35 +3468,11 @@
                         }
                     },
                     {
-                        "id": "97.602",
-                        "name": "Shelepikha",
-                        "lat": 55.75723,
-                        "lng": 37.52571,
-                        "order": 23,
-                        "line": {
-                            "id": "97",
-                            "hex_color": "88CDCF",
-                            "name": "Bolshaya Koltsevaya line"
-                        }
-                    },
-                    {
-                        "id": "97.603",
-                        "name": "Business center",
-                        "lat": 55.7491,
-                        "lng": 37.5395,
-                        "order": 24,
-                        "line": {
-                            "id": "97",
-                            "hex_color": "88CDCF",
-                            "name": "Bolshaya Koltsevaya line"
-                        }
-                    },
-                    {
                         "id": "97.806",
                         "name": "People's Militia",
                         "lat": 55.775444,
                         "lng": 37.484165,
-                        "order": 25,
+                        "order": 23,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
@@ -3532,7 +3484,7 @@
                         "name": "Mnevniki",
                         "lat": 55.761153,
                         "lng": 37.47139,
-                        "order": 26,
+                        "order": 24,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
@@ -3544,7 +3496,7 @@
                         "name": "Terekhovo",
                         "lat": 55.748108,
                         "lng": 37.459738,
-                        "order": 27,
+                        "order": 25,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
@@ -3556,7 +3508,7 @@
                         "name": "Kuntsevskaya",
                         "lat": 55.730278,
                         "lng": 37.445833,
-                        "order": 28,
+                        "order": 26,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
@@ -3568,7 +3520,7 @@
                         "name": "Davydkovo",
                         "lat": 55.715278,
                         "lng": 37.451667,
-                        "order": 29,
+                        "order": 27,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
@@ -3580,7 +3532,7 @@
                         "name": "Aminyevskaya",
                         "lat": 55.697222,
                         "lng": 37.464167,
-                        "order": 30,
+                        "order": 28,
                         "line": {
                             "id": "97",
                             "hex_color": "88CDCF",
